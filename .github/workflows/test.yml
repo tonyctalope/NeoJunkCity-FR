@@ -1,0 +1,23 @@
+name: test
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Windows PowerShell version
+        shell: powershell
+        run: $PSVersionTable.PSVersion
+      - name: Installateurs sur un faux dossier de jeu
+        shell: cmd
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python dev\selftest.py "%RUNNER_TEMP%\vf"
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Installateur Linux sur un faux dossier de jeu
+        run: python3 dev/selftest.py "$RUNNER_TEMP/vf"
