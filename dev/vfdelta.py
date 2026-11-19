@@ -92,25 +92,26 @@ def sha(data):
     return hashlib.sha256(data).hexdigest()
 
 
-def make(orig_dir, new_dir, patch_dir, build, version, rels=None):
+def make(orig_dir, new_dir, patch_dir, build, version, rels=None, orig_of=None, verbose=True):
     os.makedirs(patch_dir, exist_ok=True)
     if not rels:
         rels = sorted(os.path.relpath(os.path.join(r, f), new_dir).replace(os.sep, "/")
                       for r, _, fs in os.walk(new_dir, followlinks=True) for f in fs)
     files = []; tot = 0; lit = 0
+    orig_of = orig_of or (lambda rel: os.path.join(orig_dir, rel))      # ou se trouve l'original de chaque fichier
     for rel in rels:
-        a = open(os.path.join(orig_dir, rel), "rb").read(); b = open(os.path.join(new_dir, rel), "rb").read()
+        a = open(orig_of(rel), "rb").read(); b = open(os.path.join(new_dir, rel), "rb").read()
         if a == b:
             continue
         ops = delta(a, b); blob = encode(ops)
         name = rel.replace("/", "__") + ".vfp"
         p = os.path.join(patch_dir, name); open(p, "wb").write(blob)
-        tmp = p + ".check"; vf.apply_patch(os.path.join(orig_dir, rel), p, tmp)     # contrôle : le patch redonne bien b
+        tmp = p + ".check"; vf.apply_patch(orig_of(rel), p, tmp)     # contrôle : le patch redonne bien b
         ok = open(tmp, "rb").read() == b; os.remove(tmp)
         assert ok, rel
         files.append({"path": rel, "patch": name, "orig_sha256": sha(a), "orig_size": len(a), "new_sha256": sha(b), "new_size": len(b)})
         tot += len(blob); lit += sum(len(o[1]) for o in ops if o[0] == "i")
-        print(f"  {rel}: {len(ops)} opérations, {len(blob)} octets")
+        if verbose: print(f"  {rel}: {len(ops)} opérations, {len(blob)} octets")
     json.dump({"format": 1, "game": "Neo Junk City", "build": str(build), "patch_version": str(version), "files": files},
               open(os.path.join(patch_dir, "manifest.json"), "w", encoding="utf-8"), indent=1)
     print(f"{len(files)} fichiers, patch de {tot} octets ({lit} octets de données nouvelles avant compression)")

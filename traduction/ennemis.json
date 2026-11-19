@@ -1,0 +1,374 @@
+{
+  "entries": [
+    {
+      "key": "Target Dummy",
+      "name": "Mannequin de tir",
+      "description": "Un mannequin de tir chargé de calibrer les unités Buster. Étonnamment résistant, et peint à l'image d'un truand des années 1920. Plutôt doué dans son travail, qui consiste à jouer les criminels.\n\n\nPresque... trop doué."
+    },
+    {
+      "key": "Innocent Dummy",
+      "name": "Mannequin innocent",
+      "description": "Proportions discutables, mais c'est la création artistique du Dr Cellium, \"homme de culture\" autoproclamé.\n\n\nL'endommager pousse mon système à s'infliger une décharge, pour me dissuader de blesser des civils."
+    },
+    {
+      "key": "Walker",
+      "name": "Marcheur",
+      "description": "Modèle : drone marcheur T701\n\n\nReliques archaïques d'une époque révolue. Pendant la guerre, ces bots servaient à transporter et à protéger marchandises et matériel. Des pattes robustes et un puissant canon logé dans la tête garantissaient jadis que la cargaison arrive à destination.\n\n\nIls sont dépassés, et ceux-ci ont été reconvertis dans la sécurité de l'hôtel."
+    },
+    {
+      "key": "Junk box",
+      "name": "Junk Box",
+      "description": "Modèle : drone ferrailleur B-4\n\n\nDes sentinelles roulantes. Comme leurs cousins les drones marcheurs, ils ont servi pendant la guerre. Surnommés Junk Boxes, ils sillonnaient le terrain pour le surveiller et rapportaient à leur maître tout ce qui présentait un intérêt.\n\n\nCeux-ci ont été reconvertis pour faire à peu près la même chose : sécurité de l'hôtel et entretien courant des installations."
+    },
+    {
+      "key": "Scornet",
+      "name": "Scornet",
+      "description": "Modèle : drone-guêpe SCOR.Net\n\n\nSurnommés Scornets. Ces tas de rouille volants se chargeaient de la reconnaissance en territoire ennemi et étaient souvent déployés en essaims gigantesques pour prendre d'assaut les places fortes. Le bourdonnement de leurs ailes hantait, dit-on, le sommeil des soldats."
+    },
+    {
+      "key": "The Spider",
+      "name": "L'Araignée",
+      "description": "Nom réel : Spinner Oswald\nAlias : l'Araignée\nÂge : 43\nParfum de pilule : épeire\n\nSpinner Oswald tient l'hôtel de la Toile, niché dans le Passage de Water Way, dans le quartier de Coinrust. Un refuge miteux pour truands et vagabonds, le genre d'endroit qui sent la moquette humide et les mauvaises décisions, réputé pour ses disparitions.\n\nPour une créature aussi répugnante, Spinner est d'une politesse et d'une amabilité stupéfiantes. Rien d'étonnant à ce que les criminels de la ville se soient sentis en sécurité auprès de lui."
+    },
+    {
+      "key": "Fanfare Flyer",
+      "name": "Fanfare volante",
+      "description": "Modèle : drone Fanfare 50-WE\n\n\nLa Fanfare volante est un indispensable pour la plupart des organisateurs de soirées modernes. Elle fait double emploi : mégaphone et dispositif de sécurité. Elle peut cracher de la musique à plein volume, signaler à tous où se tiennent les soirées les plus chaudes et neutraliser les fêtards un peu trop turbulents."
+    },
+    {
+      "key": "Drum Clank",
+      "name": "Tambour Clank",
+      "description": "Modèle : Tambour Clank V.2\n\n\nLa gamme Tambour Clank de bots grosse caisse. Avec les Fanfares volantes et les Chiens de basse, ils forment un trio musical qui assure musique et sécurité à tout événement susceptible de dégénérer.\n\n\nTirer sur son tambour ou ses cymbales ne lui fait aucun mal, mais ils sonnent comme une vraie batterie. Chaque Tambour Clank joue le même petit air à chaque fois qu'il tire. Si je lui rejoue cet air sur son tambour et ses cymbales, il se fait exploser, emporte ce qui se trouve à côté de lui et crache des bits en plus. Pour qui n'a pas l'oreille musicale, il reste toujours la tête."
+    },
+    {
+      "key": "Basshound",
+      "name": "Chien de basse",
+      "description": "Modèle : enceintes Chien de basse\n\n\nLes Chiens de basse existent en toutes formes et toutes tailles. Un peu plus mignons que leurs deux homologues. Ils se comportent en chiens de garde et signalent les menaces aux bots de sécurité plus puissants."
+    },
+    {
+      "key": "Rob",
+      "name": "Rob",
+      "description": "Rob est un robot fabriqué sur mesure, doté d'une tête comiquement grosse et d'une unique fonction : débiter des beats monocordes du mieux qu'il peut. Capable de jolis jeux de jambes et bourré de références nostalgiques, Rob reste neutre : il travaille pour quiconque paie l'électricité."
+    },
+    {
+      "key": "Li'l Jam",
+      "name": "Li'l Jam",
+      "description": "Encore un vieux modèle de bot ; il semble avoir été amélioré pour produire des pensées et des rimes plus complexes. Il a peut-être mis au point un numéro en duo avec Rob. Soit cela, soit il est exceptionnel en impro."
+    },
+    {
+      "key": "The Lizard",
+      "name": "Le Lézard",
+      "description": "Nom réel : Camille Jackson\nAlias : \"le Lézard\"\nÂge : 27\nParfum de pilule : caméléon de Jackson\n\nElle mène son émission comme une antenne radio de fond de ruelle : rien que des parasites et du venin. Animatrice trash reconvertie en streameuse, elle refourgue complots, mensonges et n'importe quel complément miracle qui paie cette semaine. Chaque \"révélation\" est mise en scène, chaque scandale est un lancement de produit.\n\nSi la vérité s'égare chez elle, elle lui fait enfiler un costume, puis la renvoie dehors avec un lien d'affiliation. Dans son monde, l'attention est une monnaie."
+    },
+    {
+      "key": "Gold Mask",
+      "name": "Masque d'or",
+      "description": "Une colonie de nanites en masque d'or.\n\n\nUn énorme amas de nanites qui se sont assemblés pour former une sorte de visage. Ces nanites semblent toutefois sauvages, incapables de traiter des pensées et des émotions complexes. Ils errent à l'aveugle, attaquant et dévorant tout ce qu'ils trouvent."
+    },
+    {
+      "key": "Gold Spider",
+      "name": "Araignée d'or",
+      "description": "Un cadavre d'araignée mutante habité par une colonie de nanites dorés.\n\n\nC'est la 2e phase du cycle de vie du masque d'or. Lorsqu'il trouve un hôte assez gros, il le tue et s'y implante. Il manipule alors ce nouveau corps comme le sien et s'en sert pour gagner en force et en protection."
+    },
+    {
+      "key": "Gold Snail",
+      "name": "Escargot d'or",
+      "description": "Un cadavre d'escargot mutant habité par une colonie de nanites dorés.\n\n\nBeaucoup de masques d'or choisissent de s'en prendre aux grands escargots mutants. Lents, ils font des cibles faciles. Leur coquille incroyablement dure offre une protection supérieure à la moyenne et de la place pour de nombreux nanites."
+    },
+    {
+      "key": "The Bat",
+      "name": "La Chauve-souris",
+      "description": "Nom réel : Lazarus Thornheart\nAlias : \"la Chauve-souris\"\nÂge : 25\nParfum de pilule : chauve-souris vampire\n\nLazarus est un riche mondain qui traite la ville comme son terrain de jeu. Il donne des soirées où un verre coûte plus cher qu'un mois de loyer, et où la liste des invités est une arme. On y vient pour être vu, et on en repart après avoir été discrètement jaugé.\n\nIl ne fait pas tant commerce d'argent que de secrets. Les faveurs changent de mains dans des alcôves de velours. Des promesses faites sous les lustres."
+    },
+    {
+      "key": "Bell Beetle",
+      "name": "Scarabée à cloche",
+      "description": "Modèle : scarabée à cloche mimétique\n\n\nLe scarabée à cloche est une étrange petite arme biologique autoréplicante. Il a tendance à voler des objets brillants pour se cacher dessous. À l'hôtel, il a trouvé des sonnettes de réception à profusion pour s'en faire une carapace. Ils chassent en meute et peuvent submerger des proies plusieurs fois plus grosses qu'eux."
+    },
+    {
+      "key": "Lamp Maiden",
+      "name": "Demoiselle Lampe",
+      "description": "Modèle : Demoiselle Lampe Deluxe\n\n\nLes Demoiselles Lampes étaient une série de gadgets hôteliers conçus pour servir à la fois d'éclairage et de service de ménage à la demande. Leur IA présente un défaut qui ne se manifeste qu'après une activité prolongée sans effacement de mémoire. Elles finissent toujours par conclure que le meilleur moyen de garder un hôtel propre est d'éliminer les clients."
+    },
+    {
+      "key": "Zu-San Maid",
+      "name": "Soubrette Zu-San",
+      "description": "Modèle : bot Soubrette Zu-San\n\n\n\"Soubrette Zu-San\" est un nom un peu ironique. Ce droïde est en réalité une machine de combat conçue pour l'assassinat. On l'appelle soubrette pour sa capacité à \"faire le ménage parmi les cibles\". Le propriétaire de l'hôtel de la Toile n'a manifestement pas saisi la plaisanterie. On a donc mis au bot un uniforme de soubrette et on lui a dit de se mettre au ménage."
+    },
+    {
+      "key": "Mugshot",
+      "name": "Trombine",
+      "description": "Modèle : Trombine YE-II 4e édition\n\n\nLa série de tourelles Trombine. Des tourelles tactiques qui se cachent sous le terrain et guettent les visiteurs non autorisés qui s'approchent trop. Le fabricant de la gamme s'est fait connaître en dotant ses machines de visages, et il continue pour l'image de marque."
+    },
+    {
+      "key": "Rockjaw Tank",
+      "name": "Tank Rockjaw",
+      "description": "Modèle : tank M18 90MM \"Rockjaw\"\n\n\nLe tank Rockjaw est la bête de somme de l'armée de la KDR. Des tanks d'une puissance incroyable, équipés de tout un arsenal d'armes, de missiles et d'un épais blindage. En percer un n'a rien de facile et demande plusieurs gros impacts."
+    },
+    {
+      "key": "Trenchmole",
+      "name": "Taupe de tranchée",
+      "description": "Modèle : taupe creuse-tranchées 9x\n\n\nEn plus d'exceller au combat d'embuscade, les taupes de tranchée remplissent une fonction utilitaire. Elles creusent le sol et créent un réseau de tunnels. En quelques heures, une équipe de taupes de tranchée peut préparer le terrain pour les troupes de chair et leur offrir une redoutable guerre de tunnels.\n\n\nLeur polyvalence et leur robustesse en ont fait un incontournable de toute armée moderne."
+    },
+    {
+      "key": "Missile Tower",
+      "name": "Tour à missiles",
+      "description": "La tour à missiles est un ajout sur mesure au tank modèle Destroy3r. Elle a été installée à titre personnel, sans doute par Zahara elle-même, pour accroître la puissance de feu d'un tank déjà fort impressionnant."
+    },
+    {
+      "key": "Flak Turret",
+      "name": "Tourelle flak",
+      "description": "Un ajout sur mesure au tank Destroy3r. Ce dispositif s'occupe du personnel : il crible de balles n'importe quel fantassin avant même qu'il ait pu presser la détente."
+    },
+    {
+      "key": "Destroy3r Tank",
+      "name": "Tank Destroy3r",
+      "description": "Le tank modèle H-12 \"Destroy3r\".\n\n\nUn formidable morceau de matériel militaire. Celui-ci a été lourdement personnalisé. Si rien ne s'y oppose, un seul Destroy3r peut raser une ville entière. Malgré ses 188 tonnes, il se déplace bien plus vite qu'on ne l'imaginerait. Grâce aux modifications de Zahara, il peut franchir à gué jusqu'à 7,5 m d'eau."
+    },
+    {
+      "key": "The Hyena",
+      "name": "La Hyène",
+      "description": "Nom réel : Zahara Madara\nAlias : la Hyène\nÂge : 32\nParfum de pilule : hyène tachetée\n\nZahara est une militaire, bruyante comme un canon. Elle rit trop facilement et parle de la guerre comme de la pluie et du beau temps. Dans son monde, la force fait le droit, et la pitié n'est qu'un manque de discipline.\n\nElle ne négocie pas vraiment : elle fait pression. Elle pousse jusqu'à ce que quelque chose casse, puis appelle cela une preuve. Ses partisans l'adorent parce qu'avec elle, la violence paraît honnête et simple."
+    },
+    {
+      "key": "Clint brothers",
+      "name": "Frères Clint",
+      "description": "Les frères Clint.\n\nMembres de la bande du Crotale. Les frères Clint sont en réalité une gamme d'androïdes qui faisaient autrefois partie d'un parc d'attractions sur le thème du Far West. Ils se sont évadés et ont détruit le parc quand l'un d'eux, Clint Prime, s'est emparé de l'usine de production et s'est fabriqué une armée de doubles.\n\n\nLes Clint ainsi créés se sont ensuite dispersés aux quatre vents, et beaucoup ont retrouvé un rôle proche de la fonction qu'ils occupaient au parc."
+    },
+    {
+      "key": "Fonda brothers",
+      "name": "Frères Fonda",
+      "description": "Les frères Fonda\n\nTout comme les frères Clint, les frères Fonda étaient des androïdes de parc d'attractions produits en série. Dans la fiction du parc, Fonda Prime était le bras droit de Clint Prime, et il a aidé à organiser leur évasion.\n\n\nMais, comme les doubles de Clint fraîchement libérés, Fonda n'a jamais vraiment réussi à dépasser sa programmation et il est retombé dans le rôle qu'il tenait au parc. La petite délinquance."
+    },
+    {
+      "key": "Antonio brothers",
+      "name": "Frères Antonio",
+      "description": "La troisième gamme d'androïdes nés dans le parc d'attractions western aujourd'hui disparu. Dotés d'un ego démesuré et bien décidés à rester torse nu en toutes circonstances, les frères Antonio ne semblent pas pleinement conscients de la nature de leurs crimes.\n\n\nContrairement aux frères Clint et Fonda, les Antonio n'ont jamais réussi à assimiler qu'ils ne travaillent plus dans un parc d'attractions et qu'ils sont désormais de vrais bandits. Mais Fonda a remplacé leurs faux pistolets du parc par des vrais, et ils se sont donc tout de même révélés utiles à l'opération."
+    },
+    {
+      "key": "Jelina",
+      "name": "Jelina",
+      "description": "Jelina est une employée du Dusty Rose, une fille de joie malchanceuse qui se retrouve sans cesse en danger, malgré tous ses efforts pour éviter les coups de feu."
+    },
+    {
+      "key": "Harriet",
+      "name": "Harriet",
+      "description": "Harriet fait elle aussi partie du personnel du Dusty Rose. Rarement vue sans son chat adoré, elle se retrouve toujours au mauvais endroit au mauvais moment."
+    },
+    {
+      "key": "Euryale",
+      "name": "Euryale",
+      "description": "Euryale est une employée plus récente du Rose. Elle travaille toutefois en salle, au bar, pas dans les chambres. Prompte à apporter une bière au client assoiffé, elle cache peut-être plus qu'il n'y paraît."
+    },
+    {
+      "key": "The Sidewinder",
+      "name": "Le Crotale",
+      "description": "Nom réel : James Maddox\nAlias : \"le Crotale\"\nÂge : 47\nParfum de pilule : crotale cornu\n\nLe capitaine Maddox enrobe la cruauté d'Écritures et appelle cela de la droiture. Il cite le Bon Livre les mains en sang et les intentions sales, prêchant \"l'ordre\" tout en tenant la peur d'une poigne ferme. Du charme de cow-boy de campagne en surface, du fer en dessous.\n\nIl ne veut pas de la foi. Il veut de l'obéissance. La contrainte est sa façon de prier, et la violence est son amen."
+    },
+    {
+      "key": "Tumble Dan",
+      "name": "Tumble Dan",
+      "description": "Modèle : Tumble Dan\n\n\nUn virevoltant rancunier, avec un oeil unique qui ne cligne jamais. Les vents du désert autour de Marble Junction les apportent par dizaines, et ils roulent droit dans la bagarre sans réfléchir une seconde.\n\nIls ne pèsent presque rien. Un bon tir les envoie rebondir dans les airs. Soit c'est une faiblesse, soit c'est une façon très agaçante d'esquiver."
+    },
+    {
+      "key": "Cactus Kid",
+      "name": "Cactus Kid",
+      "description": "Modèle : Cactus Kid\n\n\nUn as de la gâchette du désert, armé de deux pistolets, qui tombe de nulle part et ne tient jamais longtemps en place. Dès que je l'ai dans mon viseur, il s'écarte avant que j'aie pu presser la détente.\n\nIl ne s'immobilise que pour vider ses deux revolvers sur moi. C'est là ma chance."
+    },
+    {
+      "key": "Glob Lord",
+      "name": "Seigneur Glob",
+      "description": "Le Globuleux Seigneur Glob.\n\n\nMalgré son allure fantasque, le Seigneur Glob est un dangereux agrégat de nanites sauvages. En se regroupant en amas plus gros que la plupart des nanites, il parvient à devenir un blob plus fort et plus agressif."
+    },
+    {
+      "key": "Child of Plantina",
+      "name": "Enfant de Plantina",
+      "description": "Cette espèce de plante carnivore, souvent appelée les enfants de Plantina, est le fruit d'une science devenue folle. Elle survit au plus profond des Cavernes d'or et a appris à digérer le métal. Ce qui en fait une dangereuse chasseuse de nanites comme de machines."
+    },
+    {
+      "key": "Queen Ghessra",
+      "name": "Reine Ghessra",
+      "description": "Ghessra, la reine des puces, vit dans les profondeurs les plus obscures de la terre. Elle creuse le sol avec une aisance effrayante pour une créature de sa taille et engloutit tout ce qu'elle attrape : elle le fait d'abord fondre avec sa salive acide, puis aspire la bouillie obtenue."
+    },
+    {
+      "key": "Cerberus",
+      "name": "Cerbère",
+      "description": "Cerbère, un grand requin-anguille à trois têtes, qui semble garder la sortie du royaume englouti. Je ne crois pas que Cerbère sache qu'il participe au fantasme de Poséidon, mais il se montre territorial dans tous les cas.\n\n\nJe soupçonne Cerbère d'avoir été une pièce de matériel particulièrement vicieuse, utilisée lors de guerres anciennes. Tant de machines de guerre abandonnées comme lui semblent rester à l'affût et tendre des embuscades aux imprudents, comme si leur guerre n'avait jamais pris fin."
+    },
+    {
+      "key": "Puff Drone",
+      "name": "Drone poisson-globe",
+      "description": "Modèle : drone poisson-globe 01\n\n\nUn gros poisson-globe flottant. Une fois détruits, ils ont tendance à exploser en une gerbe de shrapnel, en dernier recours. Soit ils font partie de la sécurité habituelle de Sugar, soit on les a fait venir par les airs pour la compétition."
+    },
+    {
+      "key": "Clampcore Crab",
+      "name": "Crabe Clampcore",
+      "description": "Modèle : Clampcore 9000\n\n\nLa gamme de machines de guerre amphibies Crabe Clampcore. Ces énormes bestioles à pattes sont généralement déployées en ligne de sécurité quand des passages sous-marins constituent une voie d'entrée possible.\n\n\nLes Clampcores ont une particularité : ils sont très attachés à leurs coéquipiers de la sécurité. Ils enragent s'ils sont le dernier survivant de l'escouade et, une fois isolés, basculent dans une fureur homicide assoiffée de vengeance."
+    },
+    {
+      "key": "Tidal Leviabot",
+      "name": "Léviabot des marées",
+      "description": "Modèle : Léviabot des marées, édition Régalec\n\n\nLes Léviabots des marées s'inspirent de l'immense régalec. Ces grosses canonnières lentes passent en flottant et déchaînent un déluge torrentiel de feu infernal et de balles. Détruire leur corps réduit leur puissance de feu, mais le seul moyen d'en être sûre est de viser la tête."
+    },
+    {
+      "key": "The Shrimp",
+      "name": "La Crevette",
+      "description": "Nom réel : Sugar Ray\nAlias : \"la Crevette\"\nÂge : 39\nParfum de pilule : crevette-mante\n\nSugar tient son affaire comme un livre de comptes : des lignes nettes et aucun geste inutile. C'est un patron riche et carré, avec une courte liste de règles et une patience plus courte encore pour les surprises. Les gens prennent sa petite taille pour un gage de sécurité. Ils ne font l'erreur qu'une fois.\n\nSon fonds de commerce, c'est la certitude : les dettes se paient, les accords s'honorent et les manquements reçoivent une réponse rapide."
+    },
+    {
+      "key": "Conehead",
+      "name": "Tête de cône",
+      "description": "Modèle : Tête de cône A1\n\n\nLes gardiens de l'Autorité des autoroutes. Les Têtes de cône règlent la circulation, et font aussi respecter par la violence les endroits où les véhicules ont le droit d'aller."
+    },
+    {
+      "key": "Three-Eyed Tyrant",
+      "name": "Tyran à trois yeux",
+      "description": "Modèle : Tyran à trois yeux\n\nCes drones itinérants aident à imposer l'ordre de passage aux carrefours. Et ils n'aiment vraiment pas qu'on grille les feux rouges."
+    },
+    {
+      "key": "Buzz Lights",
+      "name": "Feux bourdonnants",
+      "description": "Modèle : Feu bourdonnant\n\nDes feux de circulation de poche, avec des ailes. Ils fondent en essaim sur tout conducteur qui s'écarte des itinéraires approuvés par l'Autorité des autoroutes, et ne se déplacent jamais seuls."
+    },
+    {
+      "key": "Tank of Authority",
+      "name": "Tank de l'Autorité",
+      "description": "Modèle : Tank de l'Autorité\n\nLe dernier mot de l'Autorité des autoroutes en matière d'infractions routières. Lourdement blindé, lourdement armé et escorté par des essaims de Feux bourdonnants. Il ne donne pas d'avertissements."
+    },
+    {
+      "key": "Failed Experiment",
+      "name": "Expérience ratée",
+      "description": "Un cerveau d'androïde synthétique. Malgré des débuts prometteurs, cette première expérience du Dr Hydnellum n'a pas vraiment abouti, et le projet a perdu son financement avant qu'on puisse construire des corps pour accueillir le cerveau.\nLeur capacité de réflexion étant limitée, on leur a donné des armes et l'ordre de garder les lieux. Il n'a pas fallu longtemps pour qu'on les oublie complètement."
+    },
+    {
+      "key": "Tortured Experiment",
+      "name": "Expérience torturée",
+      "description": "La vague d'échecs suivante. Ces cerveaux synthétiques étaient la deuxième tentative du Dr Hydnellum pour fabriquer un double de cerveau humain. Jugés ratés, ils ont été placés dans des tours qui les aiguillonnent en permanence à coups de simulateurs de douleur. Cet état de torture décuple leur capacité d'agression et en fait des tours de garde très efficaces."
+    },
+    {
+      "key": "Unhinged Prototype",
+      "name": "Prototype détraqué",
+      "description": "La troisième vague d'androïdes, passée tout près du succès. Le haut du torse était en cours de production en série quand le projet a été annulé. Ce fut le dernier échec du Dr Hydnellum, censé former une force de police chargée de garder la ville, avant la percée qui a mené à la gamme Buster.\n\n\nCes carcasses titubantes flottent désormais çà et là et s'associent à d'autres projets inachevés pour tenir les intrus à l'écart du labo du Dr Hydnellum."
+    },
+    {
+      "key": "Unfinished Prototype.",
+      "name": "Prototype inachevé",
+      "description": "Une variante du prototype détraqué. Vite abandonnée. Seules les jambes et les têtes ont connu un début d'assemblage, ce qui a poussé nombre de ces malheureux androïdes à se bricoler une colonne vertébrale de fortune avec des ressorts et des fils. Ils font souvent équipe avec des prototypes détraqués pour se sentir entiers."
+    },
+    {
+      "key": "Set",
+      "name": "Set",
+      "description": "Set, dieu autoproclamé. En réalité, simplement l'une des expériences ratées de Mère. Rendu un peu fou par le fait de posséder les souvenirs de Mère tout en sachant qu'il n'est pas elle. Enclin à la prose dramatique. Je suppose qu'à cet égard, je ne suis pas si différente. Quelque part dans le cerveau de Pecki Hydnellum, il y a une gamine du club théâtre qui cherche à s'échapper."
+    },
+    {
+      "key": "The Kraken",
+      "name": "Le Kraken",
+      "description": "Le Kraken est une merveille mécanique de robotique, de bio-ingénierie et de fonctionnalité. Bourré d'armes et bardé d'un lourd blindage. Il est pleinement équipé pour que personne ne puisse contrarier son sombre dessein.\n\n\nSous l'eau, le Kraken est relié à des kilomètres de tuyaux et de conduites qui régulent le débit de l'eau dans la ville. Ainsi, c'est le Dr Hydnellum qui décide de qui est jeté à la mer et de qui a le droit de rester."
+    },
+    {
+      "key": "Dr. Hydnellum",
+      "name": "Dr Hydnellum",
+      "description": "Nom : Dr Pecki Hydnellum\nAlias : \"Mère\"\nÂge : 57\n\n\nLa créatrice de la gamme Buster d'androïdes des forces de l'ordre. Pecki est un esprit brillant, tourné vers la domination et le contrôle. En créant Buster 01, elle s'est tendu un miroir, et le reflet ne lui a pas plu."
+    },
+    {
+      "key": "Scan Perk: Heading",
+      "name": "BONUS DE SCAN",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: ComboDecay",
+      "name": "Combo plus durable : minuteur de combo +{0} s",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: CoverDrain",
+      "name": "Couverture plus stable : à couvert, le combo baisse {0} % moins vite",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: MultiKillWindow",
+      "name": "Multi-élimination élargie : +{0} s pour enchaîner les éliminations",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: SignalLoss",
+      "name": "Perte de signal atténuée : conservez {0} % du combo quand vous êtes touchée",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: CounterBonus",
+      "name": "Bonus de contre : chaque contre ajoute +{0} au combo",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: BitScavenger",
+      "name": "Récupération de bits : +{0} % de bits par élimination",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: OverkillTip",
+      "name": "Pourboire d'acharnement : +{0} bit par élimination au tir chargé",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: MultiKillPayout",
+      "name": "Prime de multi-élimination : +{0} % de bits par multi-élimination",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: ShieldSiphon",
+      "name": "Siphon de bouclier : +{0} énergie par tir sur un bouclier",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: KillSpark",
+      "name": "Étincelle fatale : {0} % de chances de gagner +1 énergie par élimination",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: OverdriveTuneUp",
+      "name": "Réglage overdrive : recharges {0} % plus rapides à combo élevé",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: Plating",
+      "name": "Blindage épaissi : {0} % de dégâts subis en moins",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: QuickExit",
+      "name": "Sortie éclair : +{0} s d'invulnérabilité en quittant la couverture",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: Treatment",
+      "name": "Meilleurs soins : les soins rendent +{0} PV",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: LuckyDrops",
+      "name": "Butin chanceux : +{0} % de chances d'obtenir un objet",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: CrownSense",
+      "name": "Flair royal : +{0} % de chances d'obtenir une Couronne",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: SharperSonar",
+      "name": "Sonar affûté : la jauge de scan tient +{0} s de plus",
+      "description": ""
+    },
+    {
+      "key": "Scan Perk: FastScan",
+      "name": "Scan rapide : les scans demandent {0} impact de sonar en moins",
+      "description": ""
+    },
+    {
+      "key": "Journal: New",
+      "name": "Nouveau !",
+      "description": ""
+    }
+  ]
+}

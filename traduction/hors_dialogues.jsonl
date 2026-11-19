@@ -1,0 +1,210 @@
+{"cls": "ActionNarratorMessage", "path": ".MessageText", "n": 126, "h": "3f4b8b79", "fr": "Vous sentez un poids grandissant peser sur vos épaules. Ark semble n'être qu'un des nombreux problèmes du citoyen ordinaire."}
+{"cls": "ActionNarratorMessage", "path": ".MessageText", "n": 93, "h": "2e247f9a", "fr": "Il a donné un coup de tête dans tout le panneau de boutons. Vous n'êtes pas sûre qu'il ait appuyé sur l'étage demandé."}
+{"cls": "ActionNarratorMessage", "path": ".MessageText", "n": 71, "h": "549c1b40", "fr": "Vous n'avez pas pu sauver Kitty Boo. Mais vous devez arrêter le Crotale."}
+{"cls": "ActionNarratorMessage", "path": ".MessageText", "n": 75, "h": "b007c8dd", "fr": "Présentez-lui des preuves pour montrer à la foule qu'il vient de pendre la mauvaise personne."}
+{"cls": "ActionNarratorMessage", "path": ".MessageText", "n": 35, "h": "cb5d4326", "fr": "L'eau chaude a refroidi."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 71, "h": "e188965c", "fr": "Ces fausses pilules. Ça détruit les gens. Ça les laisse à moitié mutés."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 47, "h": "f07b3ddb", "fr": "Nan, mec. C'est des vraies. C'est Sugar qui l'a dit."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 21, "h": "668374e0", "fr": "Nous ? Y a qui d'autre, ici ?"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 36, "h": "90b52d2c", "fr": "Bien joué ! Maintenant, neutralise la source."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 21, "h": "b3d9610f", "fr": "Un pot rempli d'épices."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 56, "h": "4d0727b2", "fr": "S'il te plaît. Les invités doivent rester en bas. Détends-toi ! Fais la fête !"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 34, "h": "7043ec48", "fr": "Je reviens avec un tank."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 48, "h": "5876d40d", "fr": "D'où leur inscription sur la liste des espèces protégées."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 46, "h": "900aab24", "fr": "Sergent ? Les Busters peuvent mentir ? Jamais entendu parler de ça."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 102, "h": "a6c8df92", "fr": "Hm... Si c'est vous la spécialiste, à vous de gérer. Mais si je rentre au QG et que c'est une arnaque..."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 40, "h": "3a69c2a9", "fr": "Oui ! J'ai trop hâte. Les nano-nouilles, c'est moi qui régale !"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 79, "h": "85a722c3", "fr": "C'est une petite carte en soie de Marble Junction... Elle est effilochée et jaunie par le temps."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 46, "h": "e6a3f4d2", "fr": "Par où est-il parti ? Je ne le laisserai pas s'échapper."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 108, "h": "05a4fcb4", "fr": "L'est parti en ville, au sud. Moi j'dis, fais gaffe, m'dame. Y rigole pas, il a tout un tas d'pistoleros à sa solde."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 24, "h": "1bf66ae0", "fr": "Une vraie anguille, c'lui-là."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 34, "h": "a2267d41", "fr": "<shake>Sprinkle ! Attention !</shake>"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 57, "h": "5ed5f908", "fr": "Il faut sortir d'ici ! Tout le labo risque d'imploser !"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 53, "h": "7a576e19", "fr": "Pardon pour la frayeur, jeune fille, il nous faut le passage libre."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 57, "h": "2dbaa974", "fr": "Tu n'aurais pas doté mes soeurs d'une fonction applaudissements, par hasard ?"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 104, "h": "ab4a195d", "fr": "Oh, waouh. Va falloir que je trouve un bon nom pour ce truc. Ça va être super cool, puis très triste !"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 61, "h": "ad7cc153", "fr": "Hé ! Non ! Non ! Ne... t'approche pas de ce bord. J'ai besoin de ce baril !"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 20, "h": "45815716", "fr": "<shake>Feu !</shake>"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 24, "h": "e01ce39b", "fr": "Le temps est écoulé, bot Buster. "}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 24, "h": "3613bd17", "fr": "C'est elle ! La reine Ghessra !"}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 69, "h": "bd4c94a8", "fr": "Hé, yo ! C'est quoi ce bordel ? Buster, y a un gros bouton d'arrêt de ce côté."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 89, "h": "b2182c43", "fr": "Des escaliers, juste sous le plancher... Je les vois, mais je ne trouve rien pour ouvrir le passage."}
+{"cls": "ActionSpeech", "path": ".messageText", "n": 29, "h": "482e6687", "fr": "Et tel est l'salaire du péché."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 23, "h": "e2f586ef", "fr": "Balles ennemies abattues : 3/5."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 23, "h": "03db8c8b", "fr": "Balles ennemies abattues : 4/5."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 33, "h": "01cf98bd", "fr": "Balles ennemies abattues : 5/5. Terminé !"}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 23, "h": "e721ed6c", "fr": "Balles ennemies abattues : 1/5."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 23, "h": "0da7300e", "fr": "Balles ennemies abattues : 2/5."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 25, "h": "cc5514e7", "fr": "Paramètres éthiques réinitialisés."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 34, "h": "5daf4c69", "fr": "Buster 09 a reçu \"Latte 9 volts\"."}
+{"cls": "ActionSystemMessage", "path": ".MessageText", "n": 11, "h": "f691c4db", "fr": "Partie sauvegardée !"}
+{"cls": "CustomUIText", "path": ".text", "n": 99, "h": "91a630de", "fr": "Votre soutien garde la lumière allumée. Ajoutez-nous à votre liste de souhaits pour que cette affaire ne refroidisse pas."}
+{"cls": "CustomUIText", "path": ".text", "n": 7, "h": "8eaae8e2", "fr": "Crédits"}
+{"cls": "CustomUIText", "path": ".text", "n": 13, "h": "97a4aba8", "fr": "Donner votre avis"}
+{"cls": "CustomUIText", "path": ".text", "n": 18, "h": "d0f451be", "fr": "Liste de souhaits Steam !"}
+{"cls": "CustomUIText", "path": ".text", "n": 20, "h": "91610b56", "fr": "Calibrage des mouvements"}
+{"cls": "CustomUIText", "path": ".text", "n": 21, "h": "3ba290f1", "fr": "Maintenir pour rester à couvert"}
+{"cls": "CustomUIText", "path": ".text", "n": 16, "h": "56d930e3", "fr": "Beau travail, chef !"}
+{"cls": "CustomUIText", "path": ".text", "n": 32, "h": "31d20b0c", "fr": "Impossible d'échapper au groove !"}
+{"cls": "CustomUIText", "path": ".text", "n": 7, "h": "cfb10f40", "fr": "Spectateurs"}
+{"cls": "CustomUIText", "path": ".text", "n": 11, "h": "6645cc96", "fr": "Créer un profil"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 10, "h": "c455d1c9", "fr": "Sans synchro"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 13, "h": "6e89fdee", "fr": "Chaque V-Blank"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 20, "h": "52342d0c", "fr": "Un V-Blank sur deux"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 4, "h": "51374b6b", "fr": "Élevée"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 6, "h": "c1df4081", "fr": "Moyenne"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 3, "h": "aac53e41", "fr": "Faible"}
+{"cls": "Dropdown", "path": ".m_Options.m_Options[].m_Text", "n": 3, "h": "13f11ba3", "fr": "Désactivé"}
+{"cls": "InventoryManager", "path": ".bins[].label", "n": 4, "h": "1f1a625a", "fr": "Principal"}
+{"cls": "InventoryManager", "path": ".bins[].label", "n": 25, "h": "058b598d", "fr": "Sous-objectifs : réparer la voiture"}
+{"cls": "InventoryManager", "path": ".bins[].label", "n": 31, "h": "639ce3c9", "fr": "Sous-objectifs : se préparer pour le gala"}
+{"cls": "InventoryManager", "path": ".bins[].label", "n": 23, "h": "ad12fcea", "fr": "Trouver 7 fragments de mémoire"}
+{"cls": "MenuCycle", "path": ".optionsArray[]", "n": 4, "h": "9535dee3", "fr": "Lente"}
+{"cls": "MenuCycle", "path": ".optionsArray[]", "n": 6, "h": "c1df4081", "fr": "Moyenne"}
+{"cls": "MenuCycle", "path": ".optionsArray[]", "n": 4, "h": "8554e6fa", "fr": "Rapide"}
+{"cls": "StoreItem", "path": ".displayName", "n": 12, "h": "4d59fe7d", "fr": "Doubleur de bits"}
+{"cls": "StoreItem", "path": ".displayName", "n": 15, "h": "f7f49c18", "fr": "Doubleur de grenades"}
+{"cls": "StoreItem", "path": ".displayName", "n": 15, "h": "0f96642a", "fr": "Doubleur de soins"}
+{"cls": "StoreItem", "path": ".displayName", "n": 16, "h": "ecf47b19", "fr": "Batterie statique I"}
+{"cls": "StoreItem", "path": ".displayName", "n": 17, "h": "b9854a02", "fr": "Batterie statique II"}
+{"cls": "StoreItem", "path": ".displayName", "n": 18, "h": "33b5f2df", "fr": "Batterie statique III"}
+{"cls": "StoreItem", "path": ".displayName", "n": 16, "h": "c8e93dd7", "fr": "Graisse thermique I"}
+{"cls": "StoreItem", "path": ".displayName", "n": 17, "h": "c57db8f3", "fr": "Graisse thermique II"}
+{"cls": "StoreItem", "path": ".displayName", "n": 18, "h": "f973c8a7", "fr": "Graisse thermique III"}
+{"cls": "StoreItem", "path": ".displayName", "n": 13, "h": "4b837645", "fr": "Mod autotune"}
+{"cls": "StoreItem", "path": ".displayName", "n": 12, "h": "6ca35af7", "fr": "Carte Sirène"}
+{"cls": "StoreStock", "path": ".vendorName", "n": 14, "h": "cef2e291", "fr": "Curie la Cinglée"}
+{"cls": "StoreStock", "path": ".vendorName", "n": 11, "h": "64c6c08b", "fr": "Boutique de ramen"}
+{"cls": "Text", "path": ".m_Text", "n": 17, "h": "7558827d", "fr": "Malentendants :"}
+{"cls": "Text", "path": ".m_Text", "n": 12, "h": "10095907", "fr": "Anticrénelage"}
+{"cls": "Text", "path": ".m_Text", "n": 10, "h": "c455d1c9", "fr": "Sans synchro"}
+{"cls": "Text", "path": ".m_Text", "n": 3, "h": "13f11ba3", "fr": "Désactivé"}
+{"cls": "Text", "path": ".m_Text", "n": 4, "h": "df0693f3", "fr": "CRT :"}
+{"cls": "Text", "path": ".m_Text", "n": 11, "h": "420f6ae0", "fr": "Emplacement 5"}
+{"cls": "Text", "path": ".m_Text", "n": 11, "h": "dc6bff43", "fr": "Emplacement 2"}
+{"cls": "Text", "path": ".m_Text", "n": 9, "h": "25c84b25", "fr": "Sous-titres"}
+{"cls": "Text", "path": ".m_Text", "n": 12, "h": "8b84dac0", "fr": "Emplacement 4\n"}
+{"cls": "Text", "path": ".m_Text", "n": 12, "h": "c4c54c07", "fr": "Emplacement 3\n"}
+{"cls": "Text", "path": ".m_Text", "n": 11, "h": "ab6ccfd5", "fr": "Emplacement 3"}
+{"cls": "Text", "path": ".m_Text", "n": 12, "h": "f6f32e85", "fr": "Emplacement 1\n"}
+{"cls": "Text", "path": ".m_Text", "n": 11, "h": "4562aef9", "fr": "Emplacement 1"}
+{"cls": "Text", "path": ".m_Text", "n": 11, "h": "35085a76", "fr": "Emplacement 4"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 10, "h": "f7610783", "fr": "FLUX DE PUISSANCE"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 4, "h": "298ec8aa", "fr": "OBJET"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 3, "h": "e3407723", "fr": "OUI"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 2, "h": "c9402c75", "fr": "NON"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 13, "h": "b8402571", "fr": "Saisir le texte..."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 13, "h": "ed7b773f", "fr": "ZÉRO ABSOLU"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 8, "h": "99182527", "fr": "coût : 00"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 14, "h": "e75e7821", "fr": "SALVE D'IGNITION"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 14, "h": "61282187", "fr": "GLISSADE OVERCLOCKÉE"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 9, "h": "55c9ae58", "fr": "DÉCHARGE"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 10, "h": "33d3d89b", "fr": "BALLE DE GLACE"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 15, "h": "4229caed", "fr": "BALLE DE GRAVITÉ\n"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 11, "h": "3e98849f", "fr": "BALLE DE FEU"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 23, "h": "05e9f65e", "fr": "EN LIGNE\nOPTIMAL\n  ACTIF"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 26, "h": "e568ba22", "fr": "SYSTÈME. \nÉTAT.\nSENSORIEL.\n"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 3, "h": "fd7f818c", "fr": "PV :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 7, "h": "29fc5f51", "fr": "Joueuse"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 5, "h": "3e22baca", "fr": "BITS :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 13, "h": "c231b4c7", "fr": "BALLE NORMALE"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 10, "h": "0af2e6c6", "fr": "Utiliser le tir ?"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 12, "h": "7e6d1249", "fr": "GRENADE À FRAGMENTATION"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 9, "h": "bba6dc7f", "fr": "Utiliser l'objet ?"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 15, "h": "368d0038", "fr": "BALLE ÉLECTRIQUE"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 7, "h": "4eea9393", "fr": "Profil"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 18, "h": "c0ab4c61", "fr": "clic droit"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 14, "h": "460dfb33", "fr": "Il faut fuir !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 99, "h": "91a630de", "fr": "Votre soutien garde la lumière allumée. Ajoutez-nous à votre liste de souhaits pour que cette affaire ne refroidisse pas."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 32, "h": "4be16b09", "fr": "Tirs chargés ennemis détruits : 1/3"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 290, "h": "e33ed540", "fr": "Merci d'avoir joué au playtest de Neo Junk City !\n\nNous espérons que vous avez apprécié votre séjour dans la Cité Engloutie. Vos retours nous aident à améliorer le jeu : si vous rencontrez des bugs ou d'autres problèmes, prévenez-nous avec le bouton Signaler un bug.\n\nMerci de nous aider à bâtir un meilleur Neo Junk City !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 8, "h": "65974867", "fr": "Liste de souhaits"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 15, "h": "8846fdbe", "fr": "Changer de profil ?"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 106, "h": "19054996", "fr": "LIBERTY OS\n\nBienvenue sur Liberty OS\n\nRecherche de mises à jour....\naucune mise à jour trouvée.\nmerci pour votre achat."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 10, "h": "b8dafc1b", "fr": "Télémétrie :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 11, "h": "ce43f438", "fr": "Vitesse du texte :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 14, "h": "55f31357", "fr": "Salve de neutrons "}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 12, "h": "1427cb49", "fr": "-Temps de charge"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 14, "h": "8aadbda0", "fr": "Relais quantique\n"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 7, "h": "7e522f64", "fr": "CRÉDITS"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 15, "h": "827d53fb", "fr": "+Dégâts chargés"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 9, "h": "058adc6a", "fr": "Sauvegarder"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 38, "h": "55059737", "fr": "Appuyez sur Q pour faire clignoter les objets interactifs."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 11, "h": "6645cc96", "fr": "Créer un profil"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 9, "h": "63e03742", "fr": "Calibrer"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 7, "h": "2ce33943", "fr": "Par défaut"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 18, "h": "7d2681fb", "fr": "SAISIR LE NOM DU PROFIL"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 16, "h": "8f25c281", "fr": "Sauve qui peut !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 13, "h": "97a4aba8", "fr": "Donner votre avis"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 8, "h": "f203f7d4", "fr": "Rejoignez le"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 18, "h": "d0f451be", "fr": "Liste de souhaits Steam !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 20, "h": "e0629e36", "fr": "Objectif de dons : 2400 bits"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 12, "h": "3730acf9", "fr": "5,4 k spectateurs"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 19, "h": "76c1e4ab", "fr": "Partagez et abonnez-vous"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 1706, "h": "f9e9b9bf", "fr": "NeonPigeon:\nfrérooo la caisse ENCORE en panne ? \n\nsnackgoblin:\nPTDR dekoo faut de l'huile, pas des bonnes ondes\n\nKiraKartz:\nle stream s'appelle \"deliveries\" mais là il nous livre du CONTENU\n\n8bitBodega:\nchat faites vos paris : l'alternateur ou t'as encore oublié l'essence\n\ncaptaincrouton:\nattendez c'est QUI qui arrive ??\n\nwaffl3_irl:\nYOOOOOO UNE FLIC ROBOT ALLÔ ???? 👀\n\nVibeTax:\nELLE A LES GYROPHARES ??? oh c'est PLIÉ\n\nMrFryGuy:\ndekoo te foire pas te foire pas te foire pas\n\nMintsOnPizza:\nla flic robot sexy c'est canon maintenant ????\n\nNO_Scope_Noodles:\nCHAT C'EST UNE CYBORG ? avec tout mon respect... 🫡\n\nlil_rustbucket:\nQUELLE BOMBE\n\n2AMDelivery:\nfrérot elle m'arrête quand elle veut, sérieux\n\nToxicTulip:\nbof\n\nAyoItsLenny:\nTOXICTULIP EN ROUE LIBRE 💀💀\n\nMomo_Mechanics:\nbof ??? c'est ton wifi qui est bof\n\npoptartpaladin:\ndekoo transpire plus que le moteur là\n\nchattyCathode:\nELLE ARRIVE COMME DANS UNE CINÉMATIQUE\n\nGhostOfDominos:\ndemande-lui de la redémarrer avec ses mains de robot, ez\n\nspicy_sapphire:\ndis-lui \"c'est pas ce que vous croyez\" comme un criminel 😂\n\nNERDwithaPIZZA:\nflic robot : \"permis et carte grise\" dekoo : \"j'ai du pepperoni\"\n\nmochi_mayhem:\nCET ÉCLAT DE MÉTAL TOUT BRILLANT... SHEEEEESH\n\nDadJokeDojo:\nmadame l'agent svp arrêtez cet homme pour conduite sans talent\n\nJaxx_In_The_Box:\ndekoo strat de drague : offre des gressins gratuits\n\nByteSizedBae:\nécoute pas le chat sois normal pour une fois 😭\n\nSolderSimp:\nje regarde avec respect (je mens)\n\nKarb0n_Kid:\nelle va remorquer la caisse ou le coeur de DEKOO\n\nPandaPanic:\n\"y en a un qui dit bof\" ouais et y en a un qui mange sa pizza par la croûte\n\nmod_Starchy:\non reste calme le chat, pas de trucs chelous (tu te reconnaîtras)\n\nToxicTulip:\nj'ai dit ce que j'ai dit 😎\n\nhammytime:\nfrérot elle me verbalise pour un passage hors des clous et je dis merci\n\nGlitchedGarnish:\nla caisse est en rade mais le chat est en forme, la nature reprend ses droits"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 1706, "h": "d79e1663", "fr": "NeonPigeon:\nfrérooo la caisse ENCORE en panne ? \n\nsnackgoblin:\nPTDR dekoo faut de l'huile, pas des bonnes ondes\n\nPooplord: Bof, perso je passe mon tour.\n\nKiraKartz:\nle stream s'appelle \"deliveries\" mais là il nous livre du CONTENU\n\n8bitBodega:\nchat faites vos paris : l'alternateur ou t'as encore oublié l'essence\n\ncaptaincrouton:\nattendez c'est QUI qui arrive ??\n\nDrunkduck69: Fonce, elle est canon.\n\nwaffl3_irl:\nYOOOOOO UNE FLIC ROBOT ALLÔ ???? 👀\n\nVibeTax:\nELLE A LES GYROPHARES ??? oh c'est PLIÉ\n\nMrFryGuy:\ndekoo te foire pas te foire pas te foire pas\n\nMintsOnPizza:\nla flic robot sexy c'est canon maintenant ????\n\nlil_rustbucket:\nQUELLE BOMBE\n\n2AMDelivery:\nfrérot elle m'arrête quand elle veut, sérieux\n\nToxicTulip:\nbof\n\nAyoItsLenny:\nTOXICTULIP EN ROUE LIBRE 💀💀\n\nMomo_Mechanics:\nbof ??? c'est ton wifi qui est bof\n\npoptartpaladin:\ndekoo transpire plus que le moteur là\n\nchattyCathode:\nELLE ARRIVE COMME DANS UNE CINÉMATIQUE\n\nGhostOfDominos:\ndemande-lui de la redémarrer avec ses mains de robot, ez\n\nspicy_sapphire:\ndis-lui \"c'est pas ce que vous croyez\" comme un criminel 😂\n\nNERDwithaPIZZA:\nflic robot : \"permis et carte grise\" dekoo : \"j'ai du pepperoni\"\n\nmochi_mayhem:\nCET ÉCLAT DE MÉTAL TOUT BRILLANT... SHEEEEESH\n\nDadJokeDojo:\nmadame l'agent svp arrêtez cet homme pour conduite sans talent\n\nJaxx_In_The_Box:\ndekoo strat de drague : offre des gressins gratuits\n\nByteSizedBae:\nécoute pas le chat sois normal pour une fois 😭\n\nSolderSimp:\nje regarde avec respect (je mens)\n\nKarb0n_Kid:\nelle va remorquer la caisse ou le coeur de DEKOO\n\nPandaPanic:\n\"y en a un qui dit bof\" ouais et y en a un qui mange sa pizza par la croûte\n\nmod_Starchy:\non reste calme le chat, pas de trucs chelous (tu te reconnaîtras)\n\nToxicTulip:\nj'ai dit ce que j'ai dit 😎\n\nhammytime:\nfrérot elle me verbalise pour un passage hors des clous et je dis merci\n\nGlitchedGarnish:\nla caisse est en rade mais le chat est en forme, la nature reprend ses droits"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 38, "h": "1ecffe8a", "fr": "Dekoo Deliveries dans la Cité Engloutie"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 40, "h": "79efc1aa", "fr": "Effets sonores divers\nvia soundsnap\nMax Repka\nMirach"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 6, "h": "f61df1d8", "fr": "MERCI"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 23, "h": "c707b387", "fr": "Effets sonores des fusillades\nMax Repka"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 12, "h": "96e80bd9", "fr": "D'AVOIR JOUÉ !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 22, "h": "2e5f5a9e", "fr": "Localisation espagnole\n"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 20, "h": "822fea63", "fr": "Morceaux Synthwave 001"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 22, "h": "94f0f48e", "fr": "Morceaux Stranger Synths"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 28, "h": "ec9a857a", "fr": "Appuyez sur [Spacebar] pour accélérer"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 106, "h": "0beb3df1", "fr": "Attendez ce moment, à la troisième étincelle, pour toucher l'énergie en charge. Vous contrerez ainsi le tir chargé ennemi."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 30, "h": "c5ad7552", "fr": "Le blaster se charge automatiquement."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 18, "h": "9d08698f", "fr": "Appuyez sur RT pour tirer."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 69, "h": "bdc7ce90", "fr": "Touchez à la troisième étincelle avec votre propre tir chargé pour le contrer."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 51, "h": "d2929ce0", "fr": "Utilisez LT pour vous servir de l'équipement et scannez les trois mannequins."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 26, "h": "abb787a5", "fr": "D : quitter la couverture gauche"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 28, "h": "724217d8", "fr": "Tirer interrompt la charge."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 26, "h": "e5ca8b88", "fr": "Appuyez sur LT pour utiliser l'équipement."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 20, "h": "91610b56", "fr": "Calibrage des mouvements"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 71, "h": "69dd419d", "fr": "Les tirs chargés ennemis ne peuvent être détruits que par vos propres tirs chargés."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 21, "h": "3ba290f1", "fr": "Maintenir pour rester à couvert"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 60, "h": "43fe78d0", "fr": "Certains ennemis sont robustes. Seuls les tirs chargés peuvent les blesser. "}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 82, "h": "9ab6b309", "fr": "Certains ennemis ont le trait +Robustesse. Seuls les tirs chargés peuvent les blesser."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 37, "h": "f2d7ce84", "fr": "Perdue ? Consultez les objectifs avec T"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 16, "h": "56d930e3", "fr": "Beau travail, chef !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 32, "h": "31d20b0c", "fr": "Impossible d'échapper au groove !"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 10, "h": "cdcd0dc0", "fr": "sa carte"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 9, "h": "bde9e8ba", "fr": "votre carte"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 77, "h": "b4a1f82d", "fr": "Deux par deux, les coeurs s'envolent ;\ndevant le serpent, son souffle s'affole.\n\n\n\n"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 27, "h": "300d63dc", "fr": "Créé par\n       Josh Hano"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 74, "h": "ff4d3d7e", "fr": "Déplacez le curseur avec la souris ou le stick droit. Survolez... clic gauche pour activer."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 26, "h": "d5d07469", "fr": "Appuyez sur E pour ouvrir l'inventaire."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 41, "h": "beddaa19", "fr": "Sélectionnez la cible sur laquelle utiliser l'objet."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 25, "h": "5f48a193", "fr": "Naviguez jusqu'à l'objet voulu."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 16, "h": "6baab22e", "fr": "Déplacez-vous avec WASD"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 53, "h": "6bd26888", "fr": "Pour désactiver le piège : glissez chaque puce dans son emplacement.\n"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 31, "h": "8c455e97", "fr": "Appuyez sur [Key] pour changer d'équipement."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 31, "h": "3d04e865", "fr": "Appuyez sur [Key] pour changer de munitions."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 7, "h": "cfb10f40", "fr": "Spectateurs"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 27, "h": "cbc0d404", "fr": "Des bandits traduits en justice."}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 21, "h": "5c5a1c12", "fr": "Manettes assignées :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 9, "h": "7d14c703", "fr": "Réglages :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 6, "h": "f5be6bf1", "fr": "Inverser"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 12, "h": "b47ed867", "fr": "Sensibilité :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 4, "h": "dfa2aff1", "fr": "Aucune"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 10, "h": "8b1256e7", "fr": "Zone morte :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 16, "h": "e6da6b1b", "fr": "Rétablir par défaut"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 5, "h": "cb6535a2", "fr": "Zéro :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 11, "h": "820431d4", "fr": "Manette :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 17, "h": "045179a6", "fr": "Assigner une manette"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 11, "h": "d1c1a3c4", "fr": "Catégories :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 8, "h": "d2eb1cf7", "fr": "Joueurs :"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 6, "h": "6f2c1806", "fr": "Retirer"}
+{"cls": "TextMeshProUGUI", "path": ".m_text", "n": 28, "h": "6154ca38", "fr": "Vitesse du curseur manette"}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 24, "h": "0a8a1969", "fr": "Chacun pour soi !"}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 25, "h": "01b069b8", "fr": "Tu n'as pas les moyens."}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 22, "h": "8c117400", "fr": "Ta place n'est pas ici."}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 12, "h": "107799c5", "fr": "Pas notre boulot."}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 22, "h": "ba42935e", "fr": "Des ennemis partout !"}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 18, "h": "7d90c400", "fr": "Pas de nom ? Pas d'entrée !"}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 19, "h": "59831049", "fr": "Fuir à tout prix !"}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 16, "h": "0eba05fa", "fr": "Dégagez, les monstres !"}
+{"cls": "WordBulletController", "path": "._defaultText", "n": 16, "h": "e70f37c5", "fr": "On va mourir !"}
+{"cls": "WordBulletController", "path": "._transformedText", "n": 20, "h": "8d3105a5", "fr": "Protégeons-nous !!"}
+{"cls": "WordBulletController", "path": "._transformedText", "n": 14, "h": "01e1c4cd", "fr": "Unissons-nous !"}
+{"cls": "WordBulletController", "path": "._transformedText", "n": 9, "h": "463940c9", "fr": "Sauvez-la !"}

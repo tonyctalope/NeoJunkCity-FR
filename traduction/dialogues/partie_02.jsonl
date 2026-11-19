@@ -1,0 +1,530 @@
+{"id": 672, "h": "37cd4c41", "fr": "Je ne peux pas partir avant d'avoir conclu mon enquête."}
+{"id": 4257, "h": "718d58e4", "fr": "Avec douceur, vous tendez la main et lui fermez les yeux du bout des doigts."}
+{"id": 7156, "h": "810e2183", "fr": "Pourtant, mon travail de détective reste inachevé."}
+{"id": 7157, "h": "883579ba", "fr": "J'estime que mon enquête est à présent terminée. Je dois retourner au QG Buster..."}
+{"id": 7158, "h": "04ca1c59", "fr": "Je ne me souviens pas du chemin pour rentrer... Il va falloir que je le retrouve, d'une manière ou d'une autre. "}
+{"id": 754, "h": "62000c9d", "fr": "La porte est verrouillée. Je soupçonne ce bâtiment d'être abandonné. "}
+{"id": 675, "h": "7c773431", "fr": "La plaie d'entrée... "}
+{"id": 676, "h": "06ec8782", "fr": "Mon blaster possède plusieurs réglages, du non létal au létal."}
+{"id": 677, "h": "119d8b60", "fr": "Facile de voir sur quel réglage il était... la balle lui a traversé le corps de part en part..."}
+{"id": 678, "h": "9c82f6e9", "fr": "Il faudra que je la retrouve."}
+{"id": 679, "h": "1cbbfb14", "fr": "...jusqu'à l'endroit où je l'ai retrouvée, dans le mur derrière lui."}
+{"id": 680, "h": "6cf88d5b", "fr": "Je devrais d'abord examiner cela de près. "}
+{"id": 681, "h": "9fe893f6", "fr": "Je peux la prendre, maintenant !"}
+{"id": 367, "h": "8f1a11d0", "fr": "Hein ? Quoi ?"}
+{"id": 368, "h": "0b952d08", "fr": "Que se passe-t-il ? Où suis-je ?"}
+{"id": 369, "h": "9173b7f0", "fr": "Qu-... qu'ai-je fait ?"}
+{"id": 370, "h": "0d3c2159", "fr": "Dr Cellium ? Je... lui ai tiré dessus ?"}
+{"id": 371, "h": "63aa1d92", "fr": "Pourquoi ?... Comment ? Je... jamais je ne ferais ça."}
+{"id": 372, "h": "ec2cdc7d", "fr": "Non... non... non..."}
+{"id": 5216, "h": "3a95702d", "fr": "La ruelle était vide pour la première fois depuis que vous vous y étiez retrouvée. C'était étrange."}
+{"id": 5217, "h": "d89e0e80", "fr": "Tout avait été nettoyé et mis sous scellés. Les impacts de balles étaient le dernier signe qu'une chose horrible s'était produite ici."}
+{"id": 682, "h": "7443ec63", "fr": "Il est écrit : \"Cola et nettoyant tout usage Gunker ! Élimine 99,9 % des germes et 100 % de vos papilles !\""}
+{"id": 683, "h": "94b9f1aa", "fr": "Quel genre de détraqué boirait une chose pareille ?"}
+{"id": 7159, "h": "0403cb23", "fr": "Buster 09 a reçu \"Canette de soda\"."}
+{"id": 686, "h": "138386fe", "fr": "Toutes les balles sont désormais en ma possession."}
+{"id": 687, "h": "cf2c186f", "fr": "Cinq impacts de balles... cinq douilles. Le compte y est."}
+{"id": 688, "h": "ac891dfc", "fr": "Je distingue des traces de sang autour de celui du bas. La balle qui a tué le Dr Cellium est ici."}
+{"id": 689, "h": "47d95977", "fr": "C'est une preuve capitale et, par conséquent, je dois la récupérer. "}
+{"id": 7160, "h": "be9b85f0", "fr": "Buster 09 a reçu \"Balle meurtrière\"."}
+{"id": 7161, "h": "12a9cbc6", "fr": "Avec une précision délicate, toute mécanique, vous extrayez soigneusement la balle du trou, en un seul morceau. "}
+{"id": 691, "h": "d9a0601f", "fr": "Le voir dans un tel état m'a fait mal, alors que je ne devrais ressentir qu'une froide indifférence."}
+{"id": 4258, "h": "edb278ad", "fr": "Le corps a été déplacé. Cet hologramme fantomatique était désormais le seul signe qu'une mort avait eu lieu ici."}
+{"id": 4259, "h": "1bbbe717", "fr": "Vous faites mine d'examiner minutieusement les détails du corps. "}
+{"id": 4260, "h": "56e948d3", "fr": "Vous ne voyez aucune raison de regarder le corps à nouveau."}
+{"id": 4261, "h": "65da6053", "fr": "Vous remarquez que les autres Busters vous observent."}
+{"id": 9208, "h": "167366d6", "fr": "Cinq impacts de balles... cinq douilles."}
+{"id": 4262, "h": "a492918e", "fr": "L'impact où était logée la balle meurtrière."}
+{"id": 4263, "h": "a8f96f06", "fr": "Vous détournez le regard au bout d'un instant."}
+{"id": 7162, "h": "17ee7c80", "fr": "Buster 09 a reçu \"Tournevis\"."}
+{"id": 695, "h": "5a5c5dad", "fr": "On dirait un tas de ferraille et de raccords métalliques. Sans utilité pour moi. "}
+{"id": 9198, "h": "2448a185", "fr": "En regardant à l'intérieur, vous trouvez..."}
+{"id": 9199, "h": "a0392882", "fr": "5 bits ! C'est de l'argent, vous pouvez le dépenser."}
+{"id": 696, "h": "ee23ed6f", "fr": "Un distributeur automatique. Une fois remis sous tension, il a craché un soda tout seul. Étrange."}
+{"id": 12155, "h": "3bc777d2", "fr": "Les unités Buster sont équipées de scanners qui détectent les éléments dignes d'intérêt. Appuyez sur \"[var:235]\" pour faire clignoter les objets interactifs."}
+{"id": 697, "h": "839ff413", "fr": "Buster 09. On m'a informée que vous êtes la détective en chef de cette enquête."}
+{"id": 698, "h": "fad2a7e9", "fr": "Pendant que vous examinez les lieux, comment souhaitez-vous que nous procédions ?"}
+{"id": 699, "h": "3f30a134", "fr": "Oui, madame. Nous passerons le secteur au peigne fin."}
+{"id": 4264, "h": "7030c7c0", "fr": "Ayant retiré toutes les preuves pertinentes, vous estimez qu'occuper vos soeurs dans les environs immédiats est l'option la plus sûre. "}
+{"id": 4265, "h": "3635e7c3", "fr": "Draguer les plans d'eau voisins prendra des jours. Et vous savez déjà qu'il n'y a rien. C'est l'ordre idéal pour les éloigner de la piste."}
+{"id": 700, "h": "e1629308", "fr": "Oui, madame. Nous allons secouer les riverains. Quelqu'un a forcément vu quelque chose."}
+{"id": 4266, "h": "86920c35", "fr": "En tant que véritable coupable de ce crime, vous devez faire attention à votre réponse, sous peine de conséquences."}
+{"id": 4267, "h": "1c26e35c", "fr": "Vous espérez n'avoir rien oublié."}
+{"id": 4268, "h": "c467e213", "fr": "Dans un éclair de panique, vous suggérez d'interroger les riverains sur tout fait étrange. Vous grimacez en réalisant que c'est en fait une bonne idée."}
+{"id": 4269, "h": "847973e4", "fr": "Beaucoup d'habitants vous ont vue dans le secteur à l'heure du meurtre. Votre sort est peut-être entre leurs mains, désormais."}
+{"id": 701, "h": "0723649c", "fr": "Oui, madame. Nous réquisitionnerons des grappins pour draguer les fonds. "}
+{"id": 702, "h": "f43007e5", "fr": "S'il y a quoi que ce soit là-dessous, nous le trouverons."}
+{"id": 703, "h": "ba31a4ae", "fr": "Point suivant... la victime. Par où devons-nous commencer ?"}
+{"id": 704, "h": "27665c4a", "fr": "Oui, il était peut-être en contact avec son meurtrier."}
+{"id": 705, "h": "0b07a2cf", "fr": "Bonne idée. Il a peut-être mentionné quelque chose d'étrange à sa famille. "}
+{"id": 706, "h": "d7939751", "fr": "Nous les retrouverons et leur demanderons de venir."}
+{"id": 707, "h": "9ff327f4", "fr": "Cela prendra du temps, mais si nous commençons à rassembler les images des caméras voisines, nous verrons peut-être quelque chose."}
+{"id": 708, "h": "eadc225a", "fr": "Mère soupçonne Ark. Suivons-nous son intuition ? Qui soupçonnez-vous ? "}
+{"id": 709, "h": "89505d22", "fr": "Très bien, nous maintenons donc le cap."}
+{"id": 710, "h": "124ae30d", "fr": "Nous ferons appel aux bots des affaires internes. Ils découvriront peut-être quelque chose."}
+{"id": 711, "h": "4b5a1b68", "fr": "C'est un quartier difficile. Cette théorie tient la route."}
+{"id": 712, "h": "9869a32a", "fr": "Nous fouillerons les monts-de-piété du coin, au cas où quelqu'un tenterait d'écouler ses effets personnels."}
+{"id": 713, "h": "4ec52e39", "fr": "Avez-vous des pistes personnelles sur l'identité du coupable ?"}
+{"id": 714, "h": "d5b7c576", "fr": "Statistiquement parlant, il s'agit très probablement d'un humain. Nous conservons notre profil standard."}
+{"id": 715, "h": "f7a1dba5", "fr": "Un bot digicide ? Nous chercherons des schémas d'attaque en ce sens. Ils semblent moins rares ces derniers temps."}
+{"id": 716, "h": "bf14d61c", "fr": "Les poppers sont généralement du mauvais côté de la loi. Nous mettrons nos profils à jour et resterons vigilantes."}
+{"id": 717, "h": "0a14d51e", "fr": "Nous avons nos ordres de marche et les exécuterons à votre commandement."}
+{"id": 718, "h": "05c7a49c", "fr": "Mère voulait que je vous remette la clé du domicile du Dr Cellium."}
+{"id": 719, "h": "ac7e8e4f", "fr": "Il habite tout près, dans le quartier de Coinrust. À côté du garage."}
+{"id": 720, "h": "688d9eeb", "fr": "Paramètres de mission verrouillés. Vous pouvez vous déployer."}
+{"id": 721, "h": "817477e4", "fr": "Nous allons requérir ses données téléphoniques. Nous verrons si quelque chose en ressort."}
+{"id": 722, "h": "27b1ec3d", "fr": "Nous avons procédé à un examen préliminaire. Malheureusement, les lieux semblent avoir été entièrement nettoyés."}
+{"id": 723, "h": "4de14373", "fr": "Mais notre tueur a commis quelques erreurs. "}
+{"id": 4270, "h": "a49b612e", "fr": "Vous reconnaissez le matricule de Buster 278. Celle qu'on vous a demandé de localiser."}
+{"id": 7163, "h": "30cdef2e", "fr": "Buster 09 a reçu \"Clé du bureau de Cellium\"."}
+{"id": 1, "h": "d9530aec", "fr": "Objectifs mis à jour."}
+{"id": 4271, "h": "ccb69bc6", "fr": "Nous avons nos ordres. Merci pour vos instructions."}
+{"id": 4272, "h": "e702b419", "fr": "Le cadavre de votre tuteur."}
+{"id": 4274, "h": "efab2b96", "fr": "Contempler son corps sans vie éveillait des sentiments inconnus de vous et de vos semblables. "}
+{"id": 4275, "h": "cf661c39", "fr": "Vous l'avez connu dix minutes en tout et pour tout. Et pourtant..."}
+{"id": 4276, "h": "5bb94ab2", "fr": "Le protocole exigeait que vous vous rendiez. Un robot tueur voué à être fondu pour la ferraille."}
+{"id": 4277, "h": "7030aade", "fr": "L'idée de disparaître sans avoir découvert la vérité ? Encore une sensation nouvelle. La peur."}
+{"id": 724, "h": "c391cba1", "fr": "Les unités Buster ne peuvent tout simplement pas enfreindre le protocole. Je ne peux pas enfreindre la loi. Mon code ne le permet pas."}
+{"id": 727, "h": "867fc7fa", "fr": "Je suis brisée, mais je peux recoller les morceaux."}
+{"id": 728, "h": "976235e9", "fr": "Je vais réunir toutes les preuves. Effacer mon implication, déduire la vérité, puis me rendre."}
+{"id": 729, "h": "6758789f", "fr": "Je dois savoir pourquoi j'ai fait ça. "}
+{"id": 4278, "h": "88595c04", "fr": "Avec une détermination nouvelle, vous décidez de fouiller les lieux et d'inspecter le corps en quête d'indices. "}
+{"id": 730, "h": "c55679a4", "fr": "Je vais... me rendre. Le simple fait que je puisse envisager de ne pas le faire... montre à quel point je suis brisée."}
+{"id": 731, "h": "ac8c414f", "fr": "Je dois être détruite, pour la sécurité de tous."}
+{"id": 4279, "h": "dcc43cfd", "fr": "douleur."}
+{"id": 9698, "h": "fc37bdd4", "fr": "Vous avez regardé le sang sur vos mains. Des paumes autrefois toile vierge, désormais éclaboussées de peinture rouge."}
+{"id": 733, "h": "f3359cb8", "fr": "Je crois que ça y est !"}
+{"id": 735, "h": "c9edb0c8", "fr": "Un distributeur automatique. Il semble hors tension."}
+{"id": 736, "h": "37aa386d", "fr": "Des gouttelettes de sang constellent le pavé autour de sa tête."}
+{"id": 737, "h": "005f0b79", "fr": "Avec précaution, je verse le soda sur la carte jusqu'à vider entièrement la canette."}
+{"id": 738, "h": "5cf91fdb", "fr": "On dirait des poils verts. Courts, fins."}
+{"id": 739, "h": "9001db49", "fr": "Ces poils verts sont inhabituels. Peut-être une preuve. Je vais les mettre sous sachet, au cas où."}
+{"id": 7164, "h": "5df1b3fa", "fr": "Buster 09 a reçu \"Poils verts\"."}
+{"id": 742, "h": "04386483", "fr": "Elle est couverte de sang... si je la ramasse maintenant, je vais m'en mettre partout. Je dois d'abord la nettoyer."}
+{"id": 743, "h": "423977d8", "fr": "Du sang expulsé par la bouche. La balle a gravement endommagé ses organes internes."}
+{"id": 389, "h": "4f4d7710", "fr": "Un disjoncteur. Il régule probablement l'alimentation de certaines machines des environs."}
+{"id": 7165, "h": "d7ebb774", "fr": "Le panneau indique \"Glen's\" et pointe vers la droite."}
+{"id": 7166, "h": "22ae4c98", "fr": " Hormis le chemin au nord, c'est la seule issue de cette ruelle."}
+{"id": 744, "h": "1bef7e5e", "fr": "Madame ! Je veille à ce que personne ne perturbe la scène de crime."}
+{"id": 745, "h": "7235aa1e", "fr": "Argh, elle est trop enfoncée. Impossible de l'extraire avec mes seuls doigts."}
+{"id": 746, "h": "2d9ae948", "fr": "Toutes les balles sont déjà en ma possession."}
+{"id": 747, "h": "b7aa4439", "fr": "Soit c'est coincé, soit c'est verrouillé."}
+{"id": 748, "h": "93443b44", "fr": "Avec de quoi faire levier, je pourrais sans doute le forcer. "}
+{"id": 749, "h": "bad5ed0b", "fr": "Cinq douilles. Plusieurs coups de feu ont été tirés ici. "}
+{"id": 750, "h": "093e9c34", "fr": "Je l'ai !"}
+{"id": 7167, "h": "62552ac2", "fr": "Buster 09 a reçu \"Carte d'identité\"."}
+{"id": 390, "h": "6ecac935", "fr": "Un baril en alliage d'acier synthétique. Jadis utilisé sur un site industriel, il a été recyclé par des vagabonds pour se réchauffer l'hiver. "}
+{"id": 391, "h": "e2ba2aad", "fr": "Après avoir fouillé la suie, je n'obtiens pour toute récompense que des mains noircies et de sombres pensées."}
+{"id": 755, "h": "4fc3a964", "fr": "Le tournevis du docteur. Il pourrait se révéler utile."}
+{"id": 4280, "h": "954edebd", "fr": "Vos pensées ont dérivé vers votre puce de précision. Elle n'avait pas dysfonctionné au labo : elle ne s'était simplement pas initialisée."}
+{"id": 7168, "h": "d0cec539", "fr": "Buster 09 a reçu \"Douilles\"."}
+{"id": 4281, "h": "01f7324d", "fr": "Rien d'autre n'expliquerait autant de tirs manqués à cette distance si elle avait été active."}
+{"id": 4282, "h": "281b690a", "fr": "Ou bien le Dr Cellium a-t-il menti ? Est-ce un autre domaine dans lequel vous êtes défectueuse ?"}
+{"id": 4283, "h": "9c5ad614", "fr": "Vous inspectez le repère d'indice qu'une autre Buster a laissé au sol."}
+{"id": 4284, "h": "715bdf91", "fr": "Quelques fins poils verts... vous devinez sans peine à qui ils appartiennent."}
+{"id": 762, "h": "f57f37bc", "fr": "Nous avons mis sous sachet quelques échantillons de ces poils. "}
+{"id": 763, "h": "8feffa6d", "fr": "Devons-nous demander au labo de traiter l'analyse en urgence pour une recherche ADN ?"}
+{"id": 764, "h": "30af27d5", "fr": "Vous avez sans doute raison. Ce serait gaspiller des ressources."}
+{"id": 765, "h": "026f6a7f", "fr": "Vous avez raison. Mieux vaut être minutieuses. Je demanderai aux bots de labo de placer cela en tête de file."}
+{"id": 766, "h": "bf43398c", "fr": "Je le placerai en fin de file."}
+{"id": 9328, "h": "81625f95", "fr": "Une carte d'accès ensanglantée, la photo d'identité traversée par une balle."}
+{"id": 9329, "h": "176632a7", "fr": "Je distingue à peine un numéro de série sous le sang."}
+{"id": 767, "h": "a0c31880", "fr": "Madame. Si je trouve quoi que ce soit, je vous en informerai immédiatement."}
+{"id": 768, "h": "606fee81", "fr": "Je ne peux pas voir ce qu'il y a dans la caisse sans soulever le couvercle. "}
+{"id": 770, "h": "a5e76900", "fr": "La balle meurtrière est désormais en ma possession."}
+{"id": 7169, "h": "0eb5cb2c", "fr": "Buster 09 a reçu \"Balle meurtrière\"."}
+{"id": 776, "h": "0aedef12", "fr": "Vérifier ses données téléphoniques"}
+{"id": 777, "h": "282498c9", "fr": "Interroger sa famille"}
+{"id": 778, "h": "3cc8b757", "fr": "Retracer ses déplacements"}
+{"id": 780, "h": "9c85fa43", "fr": "Ark est le suspect principal"}
+{"id": 781, "h": "fee2342a", "fr": "Le coup vient de l'intérieur"}
+{"id": 782, "h": "ee576a12", "fr": "C'était un vol avec violence"}
+{"id": 783, "h": "64a3faf1", "fr": "Humain"}
+{"id": 15084, "h": "2c2ffadd", "fr": "Ouvrez la carte avec [button]"}
+{"id": 789, "h": "52606110", "fr": "Enquêter"}
+{"id": 790, "h": "24b6bccb", "fr": "S'éloigner"}
+{"id": 792, "h": "a7f4a27c", "fr": "CHERCHE LA VÉRITÉ !"}
+{"id": 793, "h": "e95e6e0b", "fr": "Rends-toi."}
+{"id": 794, "h": "8fa8c7e6", "fr": "C'est sans importance."}
+{"id": 795, "h": "ce420bb4", "fr": "C'est important."}
+{"id": 798, "h": "2640d413", "fr": "Passer la zone au crible"}
+{"id": 799, "h": "cac6e391", "fr": "Draguer l'eau pour trouver l'arme"}
+{"id": 800, "h": "58dc7fc3", "fr": "Interroger les riverains"}
+{"id": 804, "h": "ac6f8bc7", "fr": "Enfreins la loi."}
+{"id": 9339, "h": "104c99a8", "fr": "Rendez-moi les pièges mortels, par pitié."}
+{"id": 9340, "h": "79df21b7", "fr": "Pas assez lourde pour l'enfoncer moi-même."}
+{"id": 9699, "h": "155a304c", "fr": "<shake>Attends !</shake> J'pensais pas que tu me prendrais au mot. <shake>Pardon, pardon !</shake>"}
+{"id": 1074, "h": "e01d8a5a", "fr": "Hé ! T'es quoi, toi, une pousseuse de chariots ? À pousser les chariots des autres sans permission ?"}
+{"id": 1075, "h": "6d3cb4b0", "fr": "Et à taper sur les nerfs des gens ! Et sur des boutons qui sont pas à toi !"}
+{"id": 1076, "h": "d7976fe1", "fr": "Désolée, j'ai besoin d'utiliser l'échelle."}
+{"id": 1077, "h": "03d09ee7", "fr": "Typique d'un larbin des corpos, toujours à grimper les échelons et à pousser des boutons !"}
+{"id": 1078, "h": "0252a03d", "fr": "Ça le rend malade, le vieux Scrungly !"}
+{"id": 1079, "h": "87586781", "fr": "Une popper oursin, hérissée de piquants. Équipée d'un cran d'arrêt."}
+{"id": 9341, "h": "7b7b1b6b", "fr": "<shake>Bahahaha !</shake> Bien joué, andouille !"}
+{"id": 1080, "h": "fdcc8185", "fr": "<wave>Entrez dans mon salon, je vous prie !</wave>"}
+{"id": 1081, "h": "00cc1e3f", "fr": "<wave>Pas de loyer à payer, car vous allez y rester !</wave>"}
+{"id": 1082, "h": "edd3fea6", "fr": "<wave>Bientôt, tous vos soucis seront finis !</wave>"}
+{"id": 9700, "h": "235769bd", "fr": "Un déclic, et la porte se déverrouille."}
+{"id": 9710, "h": "0a7f0dea", "fr": "Des oreilles d'allure suspecte."}
+{"id": 9342, "h": "9dd6652f", "fr": "<shake>Bahahaha !</shake> Bien joué, crétine ! Tu gagnes cette manche !"}
+{"id": 9343, "h": "361cd3cc", "fr": "Quoi ? Ces pointes ne sont même pas vraies. Elles sont gonflables."}
+{"id": 9344, "h": "123499b3", "fr": "C'est une plaisanterie ? Elles sont gonflables."}
+{"id": 9701, "h": "cc62162c", "fr": "Vous essayez la clé de l'hôtel..."}
+{"id": 4290, "h": "9ff190be", "fr": "Du Nano-breuvage ! En gros, du café pour robots !"}
+{"id": 4291, "h": "b8b8d4a8", "fr": "Vous pouvez en boire en combat ou en dehors pour vous soigner !"}
+{"id": 1084, "h": "d447ab21", "fr": "Un homme aux cheveux roux, armé d'un pistolet."}
+{"id": 9702, "h": "ae7c1238", "fr": "Elle ne tourne pas."}
+{"id": 15509, "h": "69fb7164", "fr": "Buvez-le en combat pour un regain d'énergie instantané qui alimentera vos tirs d'adresse."}
+{"id": 1123, "h": "19d6ee53", "fr": "Que fais-tu donc là-derrière, au juste ?"}
+{"id": 1124, "h": "06835434", "fr": "Oh, tu sais... j'fabrique des trucs."}
+{"id": 1085, "h": "8ad0754d", "fr": "Tous ces foutus boutons et ces pointes, mec !"}
+{"id": 1086, "h": "d6ab9a87", "fr": "Ça donne quelque chose, de ton côté ?"}
+{"id": 1087, "h": "a7e88d96", "fr": "J'suis pas Einstein, moi. Jamais j'arriverai à déjouer tous ces pièges à la con."}
+{"id": 1088, "h": "89a7656d", "fr": "L'Araignée va nous choper si on continue à traîner ici."}
+{"id": 1089, "h": "2cf32a45", "fr": "Et Grimy Gale, alors ? <color=red>L'Araignée</color> la tient, mec ! Il doit être en train de lui sucer le sang à l'heure qu'il est !"}
+{"id": 1090, "h": "a35aa058", "fr": "C'est sa faute. On emprunte pas des bits à Ark pour tout claquer dans des courses de rue."}
+{"id": 1091, "h": "29996d86", "fr": "T'auras été une sale traînée jusqu'au bout. Tu vas me manquer."}
+{"id": 1092, "h": "51b3e1e1", "fr": "Cet endroit me fout les jetons."}
+{"id": 1093, "h": "78259ab4", "fr": "Une Buster ? Je croyais qu'elles avaient abandonné ce secteur."}
+{"id": 1094, "h": "a0cc7f06", "fr": "YO ! Lui dis rien, sinon l'Araignée va nous faire disparaître aussi. Ces deux-là sont comme cul et chemise."}
+{"id": 1095, "h": "3b34d6f7", "fr": "Argh. J'ai mal au crâne. On se tire."}
+{"id": 1097, "h": "8f534435", "fr": "Pas question. Dans cet hôtel, t'y entres, t'en ressors pas. Du coup, genre..."}
+{"id": 1098, "h": "79b11f3b", "fr": "RIP Grimy Gale. Tu vois ?"}
+{"id": 1099, "h": "81347532", "fr": "Avez-vous vu passer une femme rat verte par ici ?"}
+{"id": 1100, "h": "2a56d1d0", "fr": "Ouais, elle nous a fait un doigt et elle a sauté par-dessus tout ce bordel. La grande classe."}
+{"id": 9621, "h": "65701b98", "fr": "Buster 09 a reçu \"Couronne\"."}
+{"id": 1101, "h": "af9c8b03", "fr": "Reviens ici !"}
+{"id": 1102, "h": "a9045b52", "fr": "Araignée ! T'es où ? J'ai besoin d'un coup de main, là !"}
+{"id": 9703, "h": "5af93eb8", "fr": "Chope-la, Scrungly ! Mords-la !"}
+{"id": 1103, "h": "598421fe", "fr": "<wave>Passez une nuit à mon hôtel de la Toile...</wave>"}
+{"id": 1104, "h": "85ab10c2", "fr": "<wave>Ne soyez pas farouche, je ne ferais pas de mal à une mouche !</wave>"}
+{"id": 1105, "h": "4d7e0fcd", "fr": "<wave>Vous verrez, le service est</wave><pend> cinq étoiles...</pend>"}
+{"id": 9704, "h": "c62d0f36", "fr": "Très bien, madame. Autre chose ?"}
+{"id": 9345, "h": "3e6be569", "fr": "On a un p'tit souci, grosse tête ?"}
+{"id": 9346, "h": "3e71e0ed", "fr": "Ce bot a volé mon baril. Je ne peux plus abaisser ces pointes."}
+{"id": 9347, "h": "ac6f9469", "fr": "Pff ! \"Ton baril.\" Il était à lui avant que t'essaies de le pousser ! Nous, les toilards, on aime pas qu'on pousse nos affaires !"}
+{"id": 9348, "h": "efd3c79f", "fr": "J'vais te confier un p'tit secret ! Parce que j'veux me débarrasser de toi !"}
+{"id": 9349, "h": "2a96aa6f", "fr": "Tous les pièges à pointes de toute cette zone sont super mortels..."}
+{"id": 9350, "h": "ed88f515", "fr": "<wave>Sauf ceux-là.</wave>"}
+{"id": 9351, "h": "337bce7a", "fr": "Ce sont les seules <color=yellow>fausses pointes</color> de tout l'endroit."}
+{"id": 9352, "h": "39bfc267", "fr": "Le vieux tête-de-toile qui tient la baraque était à sec. Alors il a posé quelques faux pièges pour dissuader les gens."}
+{"id": 9353, "h": "bfd0f523", "fr": "Donc, franchement, rien t'empêche de passer tranquillement par ici ! À part la prison de ton esprit."}
+{"id": 9354, "h": "7476ffc0", "fr": "Tu me mens. Je vais essayer de marcher sur ces pointes et subir des dégâts."}
+{"id": 9355, "h": "ceda9bd8", "fr": "<wave>Hé, hé, hé.</wave>"}
+{"id": 9357, "h": "bac8710c", "fr": "C'est l'heure de lancer les dés, lèche-boulons !"}
+{"id": 9705, "h": "48b57f2a", "fr": "Tentant. Mais j'ai besoin d'elle vivante."}
+{"id": 9706, "h": "44ceb658", "fr": "Je crois que l'on se moque de moi."}
+{"id": 1107, "h": "0c728803", "fr": "Un homme minuscule et mal rasé. Je dirais bien qu'il est fou de porter une casserole sur la tête, mais le quartier est dangereux."}
+{"id": 1108, "h": "11e93de1", "fr": "Sans doute plus futé qu'il n'en a l'air. "}
+{"id": 9707, "h": "0d87bf89", "fr": "Arrête de courir !"}
+{"id": 9708, "h": "d33218ac", "fr": "<wiggle>Blrhgrghrl !</wiggle>"}
+{"id": 9709, "h": "14fdad1c", "fr": "Buster 09 a reçu \"Clé de chambre de l'hôtel de la Toile\"."}
+{"id": 1111, "h": "36f3cea0", "fr": "Je ne crois pas qu'il y ait quoi que ce soit de vivant là-dedans."}
+{"id": 9711, "h": "f711e254", "fr": "Vos banques de données vous renseignent : il s'agirait d'un patatoïde. Un mutant végétal."}
+{"id": 9712, "h": "bd068490", "fr": "Une machine à glaçons. Je ne pense pas qu'elle fonctionne."}
+{"id": 9713, "h": "f0db92f9", "fr": "Il semble que vos banques de données ne contiennent pas la langue végétoïde."}
+{"id": 9714, "h": "33b091ce", "fr": "Vous remarquez toutefois une note. Ce maïsoïde semble attendre un paiement."}
+{"id": 9715, "h": "4ef99cf0", "fr": "Il semble que je doive [localvar:16] bits."}
+{"id": 9716, "h": "46f3defd", "fr": "Je n'ai pas assez. Je suis désolée. Veuillez annuler la commande."}
+{"id": 9717, "h": "5b5c8198", "fr": "J'ai changé d'avis. Veuillez remporter ceci."}
+{"id": 9718, "h": "6c5b0322", "fr": "Vous prenez votre commande du service d'étage."}
+{"id": 9719, "h": "31b6a0d7", "fr": "Le groom remarque que vous avez déjà des serviettes. Mais il vous les change quand même."}
+{"id": 9720, "h": "624f2f3c", "fr": "Buster 09 a reçu \"Serviettes propres !\""}
+{"id": 9721, "h": "c4e77050", "fr": "Cela étant réglé, le groom vous remet des serviettes propres et chaudes !"}
+{"id": 9722, "h": "3fd37392", "fr": "Le groom fouille sous son chariot, puis vous tend une pile de serviettes propres et chaudes !"}
+{"id": 9723, "h": "cf2841ed", "fr": "Il semble attendre un pourboire. Lui en donner un ?"}
+{"id": 9724, "h": "3db0189a", "fr": "Il a l'air ravi de son pourboire !"}
+{"id": 9725, "h": "8e2e0a37", "fr": "Il a l'air satisfait."}
+{"id": 9726, "h": "701b206a", "fr": "Il cache bien mal son mécontentement."}
+{"id": 9727, "h": "c7e84ee0", "fr": "Chambre verrouillée."}
+{"id": 9358, "h": "61a4ab26", "fr": "Ne puis-je pas accomplir une tâche simple sans qu'un hurluberlu surgisse de nulle part ?"}
+{"id": 9359, "h": "3063d99e", "fr": "Hé ! Non ! Non ! J'ai besoin de ce baril !"}
+{"id": 9360, "h": "dafb6dad", "fr": "<shake>Arrête !</shake>"}
+{"id": 9361, "h": "0ed8b786", "fr": "Mais enfin !"}
+{"id": 9362, "h": "d34717b7", "fr": "C'est ça ! Vas-y ! Pars à la dérive ! Je n'ai besoin ni de toi ni de ton stupide baril pour résoudre ça !"}
+{"id": 9363, "h": "6784d902", "fr": "...J'avais besoin de ce baril."}
+{"id": 9364, "h": "d35a502b", "fr": "Pourquoi !?"}
+{"id": 9365, "h": "254ac04c", "fr": "<shake>Tu n'es pas essentiel à ma progression ! C'est moi, le robot alpha, ici !</shake>"}
+{"id": 9366, "h": "5b6c49d3", "fr": "Je n'en avais pas besoin, de toute façon."}
+{"id": 9367, "h": "081868ff", "fr": "Qu'est-ce que c'était ? Pourquoi est-ce que je me comporte ainsi ? Cet éclat n'a servi à rien."}
+{"id": 9368, "h": "17f8df53", "fr": "Toute cette poursuite est une insulte à mon immense puissance de traitement intellectuel !"}
+{"id": 9369, "h": "5e4d35c8", "fr": "Tu me crois incapable de résoudre \"Mettre truc lourd sur bouton\" !?"}
+{"id": 1112, "h": "d92ec38d", "fr": "Un cocon fixé au mur, hors de portée."}
+{"id": 12159, "h": "8320ede3", "fr": "Même s'il n'était pas cassé, je n'aurais pas le temps de regarder un film."}
+{"id": 15085, "h": "18c2c1cb", "fr": "Il semble ne pas avoir le temps de s'arrêter pour bavarder."}
+{"id": 1113, "h": "3f94657e", "fr": "Une table d'examen. Les unités Buster s'y allongent pendant qu'on travaille sur elles. "}
+{"id": 9728, "h": "1d24c069", "fr": "Une télévision cassée. Rien d'étonnant."}
+{"id": 9729, "h": "c5c85df9", "fr": "Un vieux lit aux draps jaunis. S'allonger ?"}
+{"id": 9730, "h": "d2d6015f", "fr": "Vous méditez brièvement sur l'univers."}
+{"id": 9731, "h": "49ae3997", "fr": "Qu'est-ce que je fais ? Les androïdes ne gagnent rien à dormir."}
+{"id": 9732, "h": "805c7485", "fr": "Vous décidez sagement de ne pas fraterniser avec les punaises de lit."}
+{"id": 9733, "h": "c7663c9f", "fr": "Trop loin."}
+{"id": 9370, "h": "a381caba", "fr": "Eh ouais ! Soit des pointes qui tuent d'un coup, soit des fausses ! Et tu peux pas vraiment faire demi-tour !"}
+{"id": 1117, "h": "03c85289", "fr": "Faut actionner l'interrupteur, faut ouvrir le passage. Oups, maintenant faut ouvrir l'autre courant. Oups. Maintenant l'autre."}
+{"id": 1118, "h": "a25d46cb", "fr": "Maintenant l'autre. Faut garder le passage ouvert. Oups. Maintenant l'autre est fermé, faut l'ouvrir. Oups."}
+{"id": 9734, "h": "6ddf93f5", "fr": "Buster 09 a reçu \"Cassette - Sea of Mystery\"."}
+{"id": 9735, "h": "17a73d51", "fr": "C'était un faux grossier."}
+{"id": 9736, "h": "43ae38ca", "fr": "C'est une grenade ! Courez !"}
+{"id": 7216, "h": "8bec39a7", "fr": "Le chemin est bloqué."}
+{"id": 1119, "h": "9613dde4", "fr": "Un baril en alliage d'acier synthétique."}
+{"id": 1120, "h": "fafb63b8", "fr": "Une échelle. D'après mes banques de données, elles sont plus populaires que jamais pour pallier les marées montantes et descendantes qui coupent les routes."}
+{"id": 9737, "h": "c22e4583", "fr": "Je ne reste pas, mais... merci pour la clé ?"}
+{"id": 9738, "h": "dbf7d101", "fr": "Bonjour ? Êtes-vous le réceptionniste ?"}
+{"id": 9739, "h": "c1334777", "fr": "Pas de réponse."}
+{"id": 9740, "h": "537c9a9f", "fr": "Vous vous regardez dans le miroir crasseux."}
+{"id": 9741, "h": "1af8a53f", "fr": "Vous réalisez que c'est la première fois que vous voyez votre propre visage."}
+{"id": 9742, "h": "04208a67", "fr": "C'est le même visage que celui de toute unité Buster, mais il vous procure un étrange et nouveau sentiment d'identité."}
+{"id": 9330, "h": "c4d81840", "fr": "Waouh ! Des Nano-nouilles ! Un repas très nutritif pour robots : des fibres de nanites baignées d'huile grésillante."}
+{"id": 9743, "h": "4817bc52", "fr": "Une vieille enseigne cassée. Les lettres sont tombées. Mais vous devinez qu'on y lisait autrefois \"Crown Belle Hotel\"."}
+{"id": 9744, "h": "8edc6ff2", "fr": "Deuxième étage."}
+{"id": 9745, "h": "e08e20c7", "fr": "Il a donné un coup de tête dans tout le panneau de boutons. Vous n'êtes pas sûre qu'il ait appuyé sur l'étage demandé."}
+{"id": 9746, "h": "b5d020a0", "fr": "L'étage que vous voudrez."}
+{"id": 12160, "h": "328b2076", "fr": "Je vais demander à mes soeurs d'amener Spinner."}
+{"id": 12161, "h": "d5f4d89d", "fr": "Spinner Oswald. Nous vous remettons à présent à la garde de Buster 09."}
+{"id": 12162, "h": "1e784e00", "fr": "Chouette ! On va s'éclater !"}
+{"id": 12163, "h": "adacbdcc", "fr": "Trop à l'étroit. Je suis à peu près certaine que nous dépassons la charge maximale."}
+{"id": 12164, "h": "1bfd2a4d", "fr": "Et on descend ! Groom ? À l'étage interdit, je vous prie !"}
+{"id": 1121, "h": "914eee43", "fr": "Il doit y avoir un bouton quelque part par ici pour abaisser l'échelle."}
+{"id": 9747, "h": "ad50a680", "fr": "Hé, c'est toi, le service d'étage ?"}
+{"id": 9748, "h": "f774123c", "fr": "Et maintenant ? C'est toi, le service d'étage, maintenant ?"}
+{"id": 9749, "h": "5c93df7f", "fr": "Toujours pas."}
+{"id": 9750, "h": "f8033b34", "fr": "J'imagine que tu n'envisagerais pas d'être un amour et de partager les serviettes de ta chambre ?"}
+{"id": 9751, "h": "dcfbe851", "fr": "S'il te plaît, s'il te plaît, dis ?"}
+{"id": 9752, "h": "b340977a", "fr": "L'Araignée a dit qu'il envoyait quelqu'un avec des serviettes propres."}
+{"id": 9753, "h": "a3fbdb3f", "fr": "Non, désolée."}
+{"id": 9754, "h": "ff12d8ea", "fr": "Bon, bon. Si jamais tu en déniches, sois un chou et dépose-m'en quelques-unes."}
+{"id": 9755, "h": "ff5ea615", "fr": "Je cherche toujours une serviette, par ici."}
+{"id": 9756, "h": "27c68ff6", "fr": "Vous pouvez prendre mes serviettes."}
+{"id": 9757, "h": "7c5f3916", "fr": "Je suis qu'un pauvre petit bonhomme sans défense, donne-moi un coup de main."}
+{"id": 9758, "h": "d7da8269", "fr": "Je ne suis pas le service d'étage."}
+{"id": 9759, "h": "eadf0cc6", "fr": "Tu es une sainte, une poupée, une crème et une érudite. Une vraie toilarde."}
+{"id": 9760, "h": "a6f56e7d", "fr": "Tiens, en guise de pourboire."}
+{"id": 9761, "h": "6161ff87", "fr": "Coucou, ma jolie, on a tout ce qu'il faut ici. Mais merci d'être passée."}
+{"id": 4292, "h": "86f90ccb", "fr": "Un Medi-Mochi ! Un amas gluant et coloré de nanites soignants."}
+{"id": 9762, "h": "3ba5ba69", "fr": "Vous décrochez le téléphone. Une voix répond aussitôt."}
+{"id": 9763, "h": "f9d85e83", "fr": "Vous êtes bien à l'accueil, Spinner à l'appareil. En quoi puis-je vous aider ?"}
+{"id": 9764, "h": "841e5306", "fr": "Je suis navré d'apprendre que notre hébergement n'est pas à votre goût, madame."}
+{"id": 9765, "h": "c0b12e35", "fr": "Je vais bien entendu donner le responsable d'étage en pâture au monstre du lagon."}
+{"id": 9766, "h": "deb6b235", "fr": "Il raccroche avant que vous puissiez ajouter quoi que ce soit."}
+{"id": 9767, "h": "c15d15cd", "fr": "Bien sûr, madame. Notre cuisine est hautement spécialisée dans la gastronomie pour androïdes."}
+{"id": 9768, "h": "d01ea2f1", "fr": "J'envoie quelqu'un renouveler vos serviettes."}
+{"id": 9769, "h": "259b87f1", "fr": "Nous vous informons que nos baignoires ne sont pas homologuées pour dissoudre des cadavres."}
+{"id": 9770, "h": "ddca2094", "fr": "Entendu. L'homme-maïs a été prévenu."}
+{"id": 9771, "h": "80fa345f", "fr": "Entendu ! Si vous changez d'avis, n'hésitez surtout pas à appeler !"}
+{"id": 9772, "h": "e0acfeed", "fr": "Le téléphone sonne sans fin. Personne ne répond."}
+{"id": 9773, "h": "f40874d3", "fr": "Il semble que notre groom soit en course ! Rappelez dans un instant et nous nous occuperons de vous !"}
+{"id": 9774, "h": "dc8ce29b", "fr": "Toutes nos serviettes sont actuellement au lavage. Mes plus sincères excuses."}
+{"id": 9775, "h": "2ccd485e", "fr": "Un lavabo sale aux tuyaux rouillés."}
+{"id": 9776, "h": "196906cd", "fr": "Un choutoïde qui pousse un chariot. Il travaille ici."}
+{"id": 1122, "h": "8de3aebb", "fr": "Il semble s'agir d'un drone bas de gamme coincé dans une boucle de programmation. "}
+{"id": 9650, "h": "d0113e55", "fr": "Pourquoi tu t'approches pas pour voir ? Plus près... à... portée de dents."}
+{"id": 1125, "h": "5ca13668", "fr": "M. Pushem"}
+{"id": 9777, "h": "36f3cfe3", "fr": "Utiliser l'onde ?"}
+{"id": 3501, "h": "5b5b2c83", "fr": "RETOUR"}
+{"id": 9778, "h": "84aff318", "fr": "BONNES ONDES"}
+{"id": 9779, "h": "4b560f9a", "fr": "Utiliser le tour ?"}
+{"id": 9780, "h": "10f5ce7f", "fr": "PASSE-PASSE"}
+{"id": 9781, "h": "f5ef54d9", "fr": "INVENTAIRE"}
+{"id": 9782, "h": "fce28af2", "fr": "TIRS D'ADRESSE"}
+{"id": 9783, "h": "97facb6c", "fr": "ÉQUIPEMENT"}
+{"id": 9784, "h": "82989a08", "fr": "Changer de munitions"}
+{"id": 9785, "h": "0600c7c5", "fr": "Bonnes ondes"}
+{"id": 9786, "h": "6358562e", "fr": "Passe-passe"}
+{"id": 433, "h": "33dcc895", "fr": "Inventaire"}
+{"id": 9787, "h": "3110bdff", "fr": "Tirs d'adresse"}
+{"id": 9788, "h": "f81edf97", "fr": "Changer d'équipement"}
+{"id": 9789, "h": "be96fb97", "fr": "Quitter le menu"}
+{"id": 12135, "h": "47e15a69", "fr": "Nano-breuvage"}
+{"id": 12136, "h": "cfa1580b", "fr": "Nano-nouilles"}
+{"id": 12014, "h": "2ba8382d", "fr": "Latte 9 volts"}
+{"id": 12165, "h": "472227a2", "fr": "Boba énergisant"}
+{"id": 12166, "h": "1b21ffe8", "fr": "Cookie de cache"}
+{"id": 12138, "h": "c5a5db6b", "fr": "Grenade à fragmentation"}
+{"id": 15086, "h": "202d7da3", "fr": "Cryogrenade"}
+{"id": 15087, "h": "bad9ef52", "fr": "Pyrogrenade"}
+{"id": 12139, "h": "81ffba41", "fr": "Balle turbo"}
+{"id": 12140, "h": "ec772d4c", "fr": "Pointes voltaïques"}
+{"id": 12141, "h": "6f6fd5cf", "fr": "Cartouches pyro"}
+{"id": 12142, "h": "62894edb", "fr": "Cartouches givre"}
+{"id": 12143, "h": "a985929d", "fr": "Tir grav"}
+{"id": 9790, "h": "3d3bc8b1", "fr": "Encouragements"}
+{"id": 9791, "h": "df1ebe12", "fr": "Consolider"}
+{"id": 9792, "h": "12eae512", "fr": "Doigts crochus"}
+{"id": 9793, "h": "77d5c82e", "fr": "Chambrage"}
+{"id": 9794, "h": "c7cb916d", "fr": "Brise-rotules maison"}
+{"id": 9795, "h": "d74faf15", "fr": "Vol qualifié"}
+{"id": 9797, "h": "bb2cf394", "fr": "Explosion thermique"}
+{"id": 15088, "h": "e4214a3c", "fr": "Arc voltaïque"}
+{"id": 9798, "h": "2697a358", "fr": "Glissade overclockée"}
+{"id": 9799, "h": "e4918e72", "fr": "Choutoïde"}
+{"id": 9800, "h": "7c138d6d", "fr": "Payer [localvar:16] bits"}
+{"id": 9801, "h": "dd93c54d", "fr": "Trop cher !"}
+{"id": 9802, "h": "e8e10898", "fr": "1 bit de pourboire"}
+{"id": 9803, "h": "b30ff610", "fr": "5 bits de pourboire"}
+{"id": 9804, "h": "8802e443", "fr": "Pas de pourboire"}
+{"id": 9805, "h": "9d381f2f", "fr": "Patate"}
+{"id": 9807, "h": "10c5a925", "fr": "Cookie batterie [30 bits]"}
+{"id": 9808, "h": "857bbec0", "fr": "Nano-breuvage [25 bits]"}
+{"id": 9809, "h": "84e96056", "fr": "Latte 9 volts [30 bits]"}
+{"id": 9810, "h": "38d48222", "fr": "Rien, finalement."}
+{"id": 9814, "h": "67dfc3c6", "fr": "- L'HÔTEL DE LA TOILE -"}
+{"id": 12167, "h": "6166e3b8", "fr": "Monter d'un étage."}
+{"id": 12168, "h": "b81aebf5", "fr": "Aller au treizième étage."}
+{"id": 9817, "h": "fc9a48a8", "fr": "Lui donner votre serviette"}
+{"id": 9818, "h": "877ea263", "fr": "Garder votre serviette"}
+{"id": 9819, "h": "6c71dc3b", "fr": "Dormir"}
+{"id": 9820, "h": "39d4802d", "fr": "Laisser tomber"}
+{"id": 9821, "h": "af43476a", "fr": "Service d'étage"}
+{"id": 9822, "h": "045bb245", "fr": "Serviettes propres"}
+{"id": 9823, "h": "d4a6af3d", "fr": "Se plaindre"}
+{"id": 9824, "h": "0657a0c4", "fr": "Raccrocher"}
+{"id": 734, "h": "61937bed", "fr": "Qu'est-ce que c'était ?"}
+{"id": 7217, "h": "043bbdb1", "fr": "Je suppose... qu'il devrait être placé en détention. Mais je n'ai pas la bande passante pour m'occuper de lui."}
+{"id": 7218, "h": "ebe368e4", "fr": "Reste ici. Dès que j'aurai retrouvé le chemin du QG Buster, je reviendrai t'arrêter, d'accord ?"}
+{"id": 7219, "h": "10ef3ba1", "fr": "Ces cadavres doivent être examinés et rendus à leurs familles..."}
+{"id": 7220, "h": "038e8764", "fr": "Santé entièrement restaurée."}
+{"id": 1167, "h": "b041bb68", "fr": "Scrungly, je sais que c'est toi, là-derrière."}
+{"id": 1168, "h": "f066e8f5", "fr": "Je préférerais que tu ne me provoques plus en duel à mort."}
+{"id": 1169, "h": "f5232250", "fr": "Bon, là, j'en ai officiellement ras le cul que tu me colles aux basques."}
+{"id": 1170, "h": "03cbe390", "fr": "J'ai des questions à te poser. C'est tout."}
+{"id": 1171, "h": "29f87504", "fr": "Ouais, c'est comme ça que ça commence. Je réponds à deux-trois questions..."}
+{"id": 1172, "h": "479c2d17", "fr": "et avant d'avoir pigé, je me retrouve en combi orange avec une main dans le cul qui cherche de la contrebande."}
+{"id": 1173, "h": "def5f208", "fr": "Si tu n'as enfreint aucune loi, je n'ai aucune raison de t'arrêter."}
+{"id": 1174, "h": "7db6a062", "fr": "Meuf, j'ai enfreint quatre lois rien qu'en venant ici. Et je vais pas tarder à en enfreindre une autre."}
+{"id": 1175, "h": "54d30791", "fr": "HÉ ! Araignée ! Ramène-toi ! Y a une Buster qui a besoin d'un redémarrage forcé !"}
+{"id": 1176, "h": "da18a525", "fr": "Oooh, tu vas déguster quand mon boss, l'Araignée, va débarquer."}
+{"id": 1177, "h": "bca749f6", "fr": "<shake>Araignée ! Magne-toi le cul, putain !</shake>"}
+{"id": 1178, "h": "7876f9d4", "fr": "Salut, Rat, qu'est-ce que je peux faire pour toi ? Un oreiller ? Le service d'étage ?"}
+{"id": 1179, "h": "8ddbaa97", "fr": "Un vrai dur à cuire, lui. "}
+{"id": 1180, "h": "ee4653cb", "fr": "Il fait partie d'<color=red>Ark !</color> Et <color=red>l'Araignée</color>, c'est son nom de code. Ça claque, hein ?"}
+{"id": 1181, "h": "e43fee64", "fr": "<color=red>Ark</color>, c'est le syndicat du crime le plus impitoyable de la ville ! Alors tu ferais bien de trembler dans tes petites bottes en métal."}
+{"id": 1182, "h": "ea61922b", "fr": "J'ai un petit problème dont j'aimerais que tu t'occupes."}
+{"id": 1183, "h": "296fb7f3", "fr": "Tu peux me défoncer cette Buster, s'il te plaît ?"}
+{"id": 1184, "h": "32d27fdb", "fr": "Oh là là, mademoiselle le Rat. Je veux pas me battre avec aucune Buster, moi."}
+{"id": 1185, "h": "995f1beb", "fr": "Quoi !? T'es une machine à tuer ! Cet endroit est jonché des cadavres de tes victimes !"}
+{"id": 1186, "h": "85d5f2e2", "fr": "Quoi ? Je tue personne, moi. Je prends juste les corps, et je cache les corps."}
+{"id": 1187, "h": "dab5713c", "fr": "Je les stocke ici, à l'\"Hôtel\", seulement le temps de pouvoir m'en débarrasser comme il faut."}
+{"id": 1188, "h": "3ffb0ee2", "fr": "Il t'a appelée le Rat. Es-tu membre d'Ark, toi aussi ?"}
+{"id": 1189, "h": "d1c484a3", "fr": "Putain, ouais ! Tu cherches la merde à l'un de nous, tu la cherches à tous !"}
+{"id": 1190, "h": "95a4ac8e", "fr": "À ce propos, mademoiselle Rat..."}
+{"id": 1191, "h": "523648b5", "fr": "Ferme ton clapet d'araignée ! Lui dis rien sur moi !"}
+{"id": 1192, "h": "7d32df2d", "fr": "Merde... je fais quoi, maintenant ?"}
+{"id": 1193, "h": "9a60fe6a", "fr": "Hé, Araignée... paraît que les Busters sont bourrées de drogue."}
+{"id": 1194, "h": "84d83112", "fr": "Ah bon ?"}
+{"id": 1195, "h": "6d9d53e5", "fr": "Absolument pas."}
+{"id": 1196, "h": "cfbf04e8", "fr": "Ouais, Rat. Ça a pas de sens. Les Busters sont pas bourrées de drogue."}
+{"id": 1197, "h": "b8a435e3", "fr": "Bien sûr que si ! Réfléchis."}
+{"id": 1198, "h": "66cc58ac", "fr": "Les Busters confisquent tout le temps de la drogue aux malfrats. Tu crois qu'elles mettent tout ça où ?"}
+{"id": 1199, "h": "3c2965f1", "fr": "Elles se fourrent tout ça entre les câbles et compagnie ! Celle-là doit avoir de la drogue jusqu'aux yeux."}
+{"id": 1200, "h": "63bb0840", "fr": "<wiggle>Ta préférée.</wiggle>"}
+{"id": 1201, "h": "bbe42cad", "fr": "On parle de quel genre de drogue, là ?"}
+{"id": 1202, "h": "bc52a802", "fr": "Pas possible !"}
+{"id": 1203, "h": "9e83d3c0", "fr": "Amuse-toi bien à te défoncer !"}
+{"id": 1204, "h": "0fdb20aa", "fr": " <wiggle>Tchao-tchao~</wiggle>"}
+{"id": 1205, "h": "cc274393", "fr": "On dirait qu'il est temps de te faire le coup du bon vieux Ha-cha-cha !"}
+{"id": 1206, "h": "d1361aa9", "fr": "Et cette chanson flippante que tu chantes tout le temps ! Elle fout grave les jetons !"}
+{"id": 1207, "h": "bcfa780e", "fr": "Ça vient d'un vieux dessin animé. J'aime bien les dessins animés."}
+{"id": 1208, "h": "9fbd4020", "fr": "Oui, madame."}
+{"id": 1209, "h": "7aa29b1f", "fr": "J'aime la drogue autant que les dessins animés !"}
+{"id": 9825, "h": "92bf17cf", "fr": "Je fais aussi du bénévolat avec la Fondation Terre Ferme pour employer des mutants végétoïdes. "}
+{"id": 9826, "h": "1d39d3dc", "fr": "Ça fait partie d'un programme de formation à l'emploi !"}
+{"id": 1165, "h": "8a007849", "fr": "C'est... une capsule de récupération Buster. Les Busters s'y rechargent et y effectuent leur maintenance de routine."}
+{"id": 1166, "h": "69118ed3", "fr": "L'installation semble très improvisée... mais fonctionnelle."}
+{"id": 15089, "h": "936ee4ce", "fr": "Simulation terminée. Accumulez de l'énergie, mettez-vous à couvert, et l'Explosion thermique frappe tous les ennemis d'un coup."}
+{"id": 14150, "h": "f0771de8", "fr": "Faut croire que ma permission de sortie est terminée !"}
+{"id": 14151, "h": "cd40e328", "fr": "Tant de gens comptent sur moi pour aller mieux, maintenant."}
+{"id": 14152, "h": "12d3fab8", "fr": "Le poids de leurs attentes va-t-il me faire retomber dans mes vieux travers ?"}
+{"id": 14153, "h": "36535898", "fr": "Chouette ! J'ai trop hâte d'être seul avec mes pensées pour creuser tout ça à fond !"}
+{"id": 14154, "h": "02dfbff0", "fr": "Spinner Oswald, vous devez regagner avec nous votre cellule au QG Buster."}
+{"id": 14155, "h": "f903aa7b", "fr": "Encore merci, soeurette ! Jamais je me serais engagé sur cette voie sans ton aide !"}
+{"id": 14156, "h": "f4d20e3d", "fr": "Je suis contente pour toi, Spinner."}
+{"id": 9827, "h": "8ee2aad7", "fr": "Une grosse plaie verte."}
+{"id": 1212, "h": "fdd45125", "fr": "Scrungly, avec quoi as-tu empoisonné ces boissons, au juste ?"}
+{"id": 1213, "h": "ea8d3d07", "fr": "T'occupe pas de ça. C'est une toxine très puissante ! Je l'ai faite moi-même !"}
+{"id": 1214, "h": "d21b55cd", "fr": "Je vais avoir besoin que tu développes."}
+{"id": 1215, "h": "8407952d", "fr": "Je l'ai faite moi-même ! Elle vient de mon corps ! Hé hé hé !"}
+{"id": 9371, "h": "683a294d", "fr": "...des déchets."}
+{"id": 9372, "h": "3851f956", "fr": "Vous savez que vous ne devriez pas être déçue de trouver des déchets dans une poubelle. Et pourtant, vous ne pouvez vous empêcher de l'être."}
+{"id": 9828, "h": "c96675e5", "fr": "Buster 09 découvre une puce Explosion thermique. "}
+{"id": 9829, "h": "321f1a7b", "fr": "Convertit l'énergie excédentaire de votre dissipateur thermique en une déflagration de feu qui blesse tous les ennemis et brise les boucliers de feu."}
+{"id": 15090, "h": "1001e371", "fr": "Puce Explosion thermique installée. Lancer sa simulation d'entraînement pour apprendre à l'utiliser ?"}
+{"id": 1216, "h": "1eff594f", "fr": "T'es bien reposée ? Je voudrais pas que le combat soit inéquitable."}
+{"id": 1217, "h": "df64bc64", "fr": "Y a une machine de réparation pour bots là-derrière, si t'as besoin."}
+{"id": 1218, "h": "c42f2f8e", "fr": "Faudrait pas qu'on dise que je suis un mauvais hôte."}
+{"id": 1219, "h": "915de937", "fr": "Je n'ai pas de temps à perdre avec tes sottises. Viens-en au fait."}
+{"id": 1220, "h": "a720c0f1", "fr": "Hmpf ! Pas une minute pour un gars du coin. Quelle sale teigne tu fais !"}
+{"id": 1221, "h": "fef184e8", "fr": "Heureusement pour moi, l'un de nous deux va mourir ! Donc, dans tous les cas, je serai débarrassé de toi. "}
+{"id": 1222, "h": "fa5e9bd2", "fr": "Eh hé hé ! Ce qu'on a là, c'est deux verres. Mais l'un des deux est assaisonné d'un poison mortel !"}
+{"id": 1223, "h": "de75e34c", "fr": "Je te laisse choisir d'abord, puis je boirai l'autre ! Laissons le sort décider de notre...."}
+{"id": 1224, "h": "d73ed47a", "fr": "...sort."}
+{"id": 4295, "h": "82f8f6f0", "fr": "Vous l'avez sérieusement amoché. Mais il semble encore conscient, de justesse."}
+{"id": 1226, "h": "f7b412fd", "fr": "Très bien, je choisis celui-ci."}
+{"id": 1227, "h": "5c194b90", "fr": "Mais avant que je boive, Scrungly, je crois que tu négliges un détail de ma biologie. "}
+{"id": 1228, "h": "34986b39", "fr": "Ah... j'ai des options véganes, attends. "}
+{"id": 1229, "h": "ea98ab65", "fr": "Je suis une androïde. Je n'ai que l'apparence d'une humaine. Le poison n'a aucun effet sur moi. "}
+{"id": 1230, "h": "a7969bf5", "fr": "Je vois.... je vois... bon. "}
+{"id": 1231, "h": "05f51901", "fr": "Scrungly, même si je choisis bien, je ne veux pas que tu boives du poison."}
+{"id": 1232, "h": "42af874c", "fr": "Qu'est-ce que ça peut te faire, un clodo !?"}
+{"id": 1233, "h": "1423d322", "fr": "Je ne veux pas que tu te fasses du mal, voilà tout. "}
+{"id": 1234, "h": "92c1fe8f", "fr": "De plus, je suis une androïde et le poison n'a de toute façon aucun effet sur moi."}
+{"id": 1235, "h": "b2156ea5", "fr": "Ah... c'est... comme ça que ça marche, les robots, hein."}
+{"id": 1236, "h": "cef010c0", "fr": "Le bouton se trouve chez toi, et si tu ne veux pas que j'appuie dessus, je trouverai un autre chemin."}
+{"id": 1237, "h": "f1a27f37", "fr": "Bah ! T'es trop gentille pour survivre dans le coin !"}
+{"id": 1238, "h": "b8393507", "fr": "Peut-être... que je t'avais mal jugée. Tu dois être un nouveau modèle de Buster qui sert vraiment à quelque chose."}
+{"id": 1239, "h": "ef6aff40", "fr": "Et loin de Scrungly l'idée de contribuer à la décadence morale du coin ! Alors... on pourrait p't-être trouver un compromis."}
+{"id": 1240, "h": "0a8b8721", "fr": "À vrai dire, les deux sont empoisonnés. Je me suis immunisé ! J'ai jamais eu l'intention de te laisser passer !"}
+{"id": 1241, "h": "e9d28503", "fr": "Holà, holà, holà ! Hé ! Qu'est-ce que tu fais !?"}
+{"id": 1242, "h": "a485ef88", "fr": "Ah ben voyons. Vas-y, bouscule le p'tit gars ! Mouais !"}
+{"id": 1243, "h": "ca4677a3", "fr": "Ton numéro d'unité... 09, c'est ça ? Tu peux pas appuyer sur mon bouton, mais j'vais te dire...."}
+{"id": 1244, "h": "6d43a9df", "fr": "Recule, et j'utiliserai mes pouvoirs télépathiques pour t'ouvrir le passage."}
+{"id": 1245, "h": "0bf59c7d", "fr": "ADMIRE ! Ma puissance !"}
+{"id": 1247, "h": "a6af2dcf", "fr": "[expression:ohm]<wiggle>OOOHM ! OHM ! OHM ! OOOOHM</wiggle> !"}
+{"id": 1248, "h": "756329dd", "fr": "Ouf. Désolé, je t'avais pas dit que j'avais des superpouvoirs. On sait jamais avec qui on peut partager ce genre de trucs."}
+{"id": 1249, "h": "23e87af8", "fr": "Merci. Ton secret sera bien gardé. "}
+{"id": 1252, "h": "f09e3362", "fr": "Scrungly, terminé !"}
+{"id": 1253, "h": "86c03453", "fr": "Vous, les Busters, vous êtes un fléau pour la ville !"}
+{"id": 9282, "h": "8f8bc01e", "fr": "\"Règles de l'établi.\""}
+{"id": 9283, "h": "551de883", "fr": "Règle 1 : \"Seuls les malins bien malins ont le droit d'utiliser mon établi.\""}
+{"id": 9284, "h": "439ffbce", "fr": "Règle 2 : \"Les neuneus, du balai. Pas touche.\" - Dr Eightball"}
+{"id": 9285, "h": "41f701cb", "fr": "Je peux utiliser cet établi pour ajuster mon blaster. J'ai quelques plans dans ma base de données."}
+{"id": 1257, "h": "467418d0", "fr": "Toutes mes excuses pour cette sévère correction, mais j'ai beaucoup à faire en ce moment."}
+{"id": 4296, "h": "b7c7a621", "fr": "L'Araignée bave de façon incohérente. Vous choisissez d'y voir un acquiescement poli."}
+{"id": 9830, "h": "586a67fd", "fr": "Vous regrettez l'époque où vous ne trouviez que des déchets dans les poubelles."}
+{"id": 9286, "h": "092e2451", "fr": "Il est écrit : \"Tube à sens unique. Accès interdit.\""}
+{"id": 1260, "h": "03c85289", "fr": "Faut actionner l'interrupteur, faut ouvrir le passage. Oups, maintenant faut ouvrir l'autre courant. Oups. Maintenant l'autre."}
+{"id": 1261, "h": "a25d46cb", "fr": "Maintenant l'autre. Faut garder le passage ouvert. Oups. Maintenant l'autre est fermé, faut l'ouvrir. Oups."}
+{"id": 4297, "h": "80fe2b59", "fr": "C'est sous bonne garde."}
+{"id": 1262, "h": "78984c02", "fr": "Tu es un étrange petit homme roux, mais soit, je vais jouer le jeu."}
+{"id": 1263, "h": "fb6910f8", "fr": "Tiens ! Étonnamment décontractée pour une Buster. J'aime bien ton attitude !"}
+{"id": 1264, "h": "b16d739a", "fr": "C'est vraiment dommage que l'un de nous deux doive mourir !"}
+{"id": 1266, "h": "42c59a36", "fr": "Je te laisse choisir d'abord, puis je boirai l'autre ! Un seul de nous deux repartira vivant !"}
+{"id": 1268, "h": "533ffc62", "fr": "C'est... une capsule de réparation pour bots. Les Busters peuvent s'y recharger et y effectuer leur maintenance de routine."}
+{"id": 1269, "h": "96d43c8f", "fr": "Celle-ci semble avoir été mise au rebut... mais elle fonctionne."}
+{"id": 15059, "h": "bfa313f4", "fr": "Une échelle. D'après mes banques de données, elles sont plus populaires que jamais pour pallier les marées montantes et descendantes qui coupent les routes."}
+{"id": 1271, "h": "c48c560c", "fr": "Un homme minuscule aux cheveux roux. J'ai appris son nom : Scrungly. Sans doute un surnom. "}
+{"id": 12169, "h": "3866a4d7", "fr": "Je vais demander à mes soeurs d'amener l'Araignée."}
+{"id": 1273, "h": "b5412b53", "fr": "Toujours à régler tous tes problèmes avec des boutons et des échelles !"}
+{"id": 1274, "h": "1974e661", "fr": "Scrungly, j'ai juste besoin de quelque chose pour maintenir ce bouton enfoncé. Peux-tu t'écarter ?"}
+{"id": 1275, "h": "84312ea7", "fr": "Si t'es la nouvelle flic du quartier, tu devrais être plus aimable avec les gens qui vivent ici !"}
+{"id": 1276, "h": "9f5af0fa", "fr": "Je ne suis pas la policière du quartier. Je ne fais que passer, en route pour le QG Buster."}
+{"id": 1277, "h": "92976ad9", "fr": "Bon, alors prends un moment pour rassembler ton courage et reviens me voir. J'ai des conditions."}
+{"id": 1279, "h": "3906dd20", "fr": "Deux verres contenant un mystérieux liquide sombre. Il ne semble y avoir aucune différence perceptible. "}
+{"id": 1280, "h": "2102211f", "fr": "Hé hé ! Inspecte tant que tu veux, poulet ! Tu verras jamais la différence."}
+{"id": 1286, "h": "413bd756", "fr": "Pousser le baril quand même"}
+{"id": 1287, "h": "c2afea80", "fr": "Respecter la volonté de Scrungly"}
+{"id": 15091, "h": "8fd64d69", "fr": "Tirez sur les boucliers de feu pour accumuler de l'énergie. Vos tirs ne peuvent pas les briser."}
+{"id": 15092, "h": "cb600db1", "fr": "Énergie prête ! Mettez-vous à couvert avec [input:CoverLeft] ou [input:CoverRight]."}
+{"id": 15093, "h": "ca0cddb1", "fr": "Sélectionnez Tirs d'adresse."}
+{"id": 15094, "h": "82be363a", "fr": "Sélectionnez Explosion thermique."}
+{"id": 15095, "h": "b2a8eab9", "fr": "Sélectionnez un ennemi pour lancer l'Explosion thermique. Elle brûle tous les ennemis à la fois !"}
+{"id": 15096, "h": "d447f87c", "fr": "Sélectionnez Oui pour la lancer."}
+{"id": 12170, "h": "a6788ac5", "fr": "Descendre d'un étage."}
+{"id": 12171, "h": "7edade46", "fr": "Aller au treizième étage"}
+{"id": 1303, "h": "abe72d97", "fr": "Boire le verre de gauche"}
+{"id": 1304, "h": "36af5235", "fr": "Boire le verre de droite"}
+{"id": 1305, "h": "6e25ab9e", "fr": "S'inquiéter pour Scrungly"}
+{"id": 1316, "h": "6a9fea69", "fr": "Tu es accusée du meurtre de mon ami et collègue, le Dr Cellium. Un homme qui était une rare source de joie et de lumière dans un monde lugubre."}
+{"id": 1317, "h": "d9058851", "fr": "Tu seras réduite à tes composants de base. Recyclée pour bâtir la prochaine génération de Busters."}
+{"id": 1318, "h": "6b39bd62", "fr": "Je plains la machine qui héritera de tes maudites matières premières. "}
+{"id": 1319, "h": "63c170d5", "fr": "Tu es par la présente condamnée à être exécutée."}
+{"id": 1320, "h": "ba703a39", "fr": "Dr Hydnellum"}

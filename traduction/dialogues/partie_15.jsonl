@@ -1,0 +1,675 @@
+{"id": 10760, "h": "41b8f26f", "fr": "Ben ça, qu'on m'écorche vif et qu'on m'appelle rutabaga."}
+{"id": 10761, "h": "3d786884", "fr": "Toutes ces tricheries, ces manigances, juste sous mon nez. On a une dette envers vous, shérif 09 !"}
+{"id": 10762, "h": "62dda4c4", "fr": "Je vais peut-être devoir réclamer cette dette, adjoint. Je dois ramener le Crotale en ville, sous ma garde."}
+{"id": 10763, "h": "8dbaf7bb", "fr": "Oh ! Vous voulez une de ces extra-traditions, c'est ça ?"}
+{"id": 10765, "h": "c3854deb", "fr": "C'est c'que j'ai dit, m'dame ! À un ou deux \"tra\" près."}
+{"id": 10766, "h": "fdc5f797", "fr": "Le Crotale appartient à une organisation criminelle établie dans ma ville. Il répondra de ses actes devant la justice."}
+{"id": 10767, "h": "b3bc79f1", "fr": "Vu qu'tous les gros poissons du coin vous sont redevables, j'dois pouvoir arranger ça sans peine, cap'taine !"}
+{"id": 10768, "h": "d87f3271", "fr": "Donnez-moi juste deux coups d'cuillère à pot. J'veillerai à c'qu'on le livre tout droit à vos collègues !"}
+{"id": 10769, "h": "639de5cf", "fr": "On va le faire causer, ce clown. Dès que je sais qui tire vraiment les ficelles..."}
+{"id": 10770, "h": "8634266a", "fr": "Je pourrai racketter ces enfoirés jusqu'à l'os ! Et finir par tirer les ficelles moi-même !"}
+{"id": 10771, "h": "44dd2dd9", "fr": "J'ai hâte de faire un album souvenir de notre séjour ici !"}
+{"id": 10772, "h": "6d04c0e0", "fr": "Vous ôtez le chapeau de cow-boy et le tendez à l'adjoint Texas."}
+{"id": 10773, "h": "e44dfe6d", "fr": "Pour la personne qui deviendra shérif."}
+{"id": 12612, "h": "bd6519a7", "fr": "Et voici toutes les preuves que j'ai réunies, pour examen."}
+{"id": 8061, "h": "687f4490", "fr": "Vous avez réussi à trouver un jeu ! Oh, shérif, vous allez passer une sacrée soirée."}
+{"id": 8062, "h": "030b7145", "fr": "Bon, passons aux choses sérieuses. D'abord, faut payer sa place. C'est quoi, votre elo ?"}
+{"id": 8063, "h": "f372b9f8", "fr": "Je n'ai... pas d'elo."}
+{"id": 8064, "h": "0c3b9c15", "fr": "Hm... voilà qui est embêtant. Votre elo est trop bas pour me défier. Je vais quand même pas rosser une débutante sans elo."}
+{"id": 8065, "h": "2c0c1253", "fr": "Johnny, elle a pas d'elo parce qu'elle vient d'arriver en ville."}
+{"id": 8066, "h": "2c79734e", "fr": "C'est vrai. La Cité Engloutie a sûrement son propre système d'elo local."}
+{"id": 8067, "h": "f5a353ac", "fr": "Mais Orchard et moi, on a un elo assez bas pour qu'elle nous défie."}
+{"id": 8068, "h": "0f0fe387", "fr": "Ouaip... sans compter que c'est bien mieux qu'elle nous défie d'abord."}
+{"id": 8069, "h": "cdcbd100", "fr": "On lui fera pas de cadeau. On s'assurera qu'elle a le niveau pour affronter notre Johnny."}
+{"id": 8070, "h": "27d2b22f", "fr": "Formidable ! Que les jeux commencent !"}
+{"id": 8071, "h": "3a839ebc", "fr": "Tu veux défier qui en premier ?"}
+{"id": 8072, "h": "a3e4ac24", "fr": "N'oublie pas, on te fera pas de cadeau ! Faut être au top pour battre Johnny."}
+{"id": 8073, "h": "1b5755ad", "fr": "Tu veux un rappel des règles ?"}
+{"id": 8074, "h": "94957ee6", "fr": "C'est tout simple. On reçoit chacune une carte secrète au hasard, tirée du même jeu."}
+{"id": 8075, "h": "7f390dd3", "fr": "Tu paries sur qui détient la carte la plus forte. Les grands nombres battent les petits."}
+{"id": 8076, "h": "50c46950", "fr": "La carte Sirène bat le quatre. Mais elle perd contre le un, le deux ou le trois."}
+{"id": 8077, "h": "8053a877", "fr": "Tu auras un aide-mémoire pendant la partie. Tu veux qu'on te réexplique ?"}
+{"id": 8078, "h": "554f0d09", "fr": "Ça marche. Quand tu seras prête, parle à qui tu veux défier."}
+{"id": 8079, "h": "1cd3581f", "fr": "La prisonnière est bouclée, bien comme y faut ? J'ai dû sacrément cavaler pour la coffrer."}
+{"id": 8080, "h": "db658229", "fr": "Oui m'sieur, cap'taine ! Vous pouvez compter sur ce bon vieil adjoint Texas !"}
+{"id": 8081, "h": "073f1f2d", "fr": "Tiens, tiens. T'es pas un peu loin d'ta juridiction ?"}
+{"id": 8082, "h": "3a8f9c62", "fr": "Je vais découvrir ce que vous manigancez, espèce de salamandre."}
+{"id": 8083, "h": "b33d5524", "fr": "D'une manière ou d'une autre, je vous ramènerai en ville, menottes aux poignets."}
+{"id": 8084, "h": "75a3b656", "fr": "Bonté divine ! Quel langage ! M'dame, sachez que l'cap'taine est au-d'ssus de tout reproche !"}
+{"id": 8085, "h": "04c2ede2", "fr": "Un pilier d'la communauté ! Un saint homme !"}
+{"id": 8086, "h": "1bc86910", "fr": "Laisse, adjoint. J'la connais, cette fauteuse de troubles. Encore un sale bot."}
+{"id": 8087, "h": "6577cc72", "fr": "Reste dans l'coin. Demain, on verra tous les deux une amie commune danser la gigue du pendu."}
+{"id": 8088, "h": "5c835f67", "fr": "T'es p'têt la coqueluche d'ta ville pourrie par l'crime, mais ici ? C'est les Rough Riders d'Honest John qui font la loi."}
+{"id": 8089, "h": "f7ce8fea", "fr": "Un seul faux pas, et tu perds les bonnes grâces d'Honest John ?"}
+{"id": 8090, "h": "67930f1a", "fr": "Tu t'retrouveras dans ma ligne de mire... et là..."}
+{"id": 8091, "h": "3e02e4b9", "fr": "repos, m'dame."}
+{"id": 8092, "h": "92164de6", "fr": "Vous toisez le Crotale avec mépris. Du moins... jusqu'à ce qu'un détail attire votre regard."}
+{"id": 8093, "h": "a80c28ce", "fr": "Il a une marque de morsure au poignet, vieille de quelques jours, à première vue."}
+{"id": 8094, "h": "3f3708b4", "fr": "Vous ne savez pas encore quoi penser de cette morsure, mais vous la soupçonnez d'être importante."}
+{"id": 8095, "h": "32f9a8f8", "fr": "Tch... r'garde-moi ça, c'que l'chat a ramené. T'as montré tes gambettes à Honest John pour t'faire nommer shérif par intérim ?"}
+{"id": 8882, "h": "8d5301e9", "fr": "Oups ! Pardon, j'voulais pas abandonner mon poste !"}
+{"id": 8883, "h": "913807ab", "fr": "<shake>Qu'est-ce que !?</shake> La prisonnière s'est échappée !"}
+{"id": 8884, "h": "761d3376", "fr": "Shérif ! Elle a filé ! Oh non ! J'arrive pas à croire que c'est arrivé pendant ma garde."}
+{"id": 8885, "h": "e849fd73", "fr": "L'cap'taine Maddox va m'tanner l'cuir ! J'vais perdre mon boulot, c'est sûr !"}
+{"id": 8886, "h": "a8ccecc4", "fr": "Et vous êtes le seul à détenir la clé."}
+{"id": 8887, "h": "d518a078", "fr": "Du calme. Cela restera entre nous, et je vais la retrouver."}
+{"id": 8888, "h": "f2f420a5", "fr": "Restez ici, au cas où elle reviendrait."}
+{"id": 8889, "h": "2d3b901e", "fr": "O-oui, m'dame... oh, pitié, retrouvez-la bien vite."}
+{"id": 8890, "h": "b9b1ec0d", "fr": "Je ne devrais pas ramener Kitty Boo en prison."}
+{"id": 9447, "h": "7aee2a2c", "fr": "Tout le monde va bien ?"}
+{"id": 9448, "h": "65a5290f", "fr": "Oui m'dame... désolé, j'ai pas pu arrêter l'cap'taine Maddox. Y s'est tiré."}
+{"id": 9449, "h": "1b1478c1", "fr": "Je ne le laisserai pas s'enfuir."}
+{"id": 9450, "h": "db0477fd", "fr": "L'est parti en ville. Moi j'dis, fais gaffe. Y rigole pas, il a tout un tas d'pistoleros à sa solde."}
+{"id": 9451, "h": "9e2641e7", "fr": "Moi, j'la bouclais, rapport à la paie qui tombait bien régulière."}
+{"id": 9452, "h": "819db579", "fr": "J'en ai vu défiler, des types louches, dans c'stand de tir."}
+{"id": 9453, "h": "9655c5de", "fr": "Des gens qu'ont leur tête mise à prix. Des salauds cruels."}
+{"id": 9454, "h": "1dfb1e5d", "fr": "Mon Dieu... Buster. J'ai vraiment cru que c'était la fin. Tu m'as sauvé la vie."}
+{"id": 9455, "h": "357859ed", "fr": "Va rejoindre l'adjoint Texas, Kitty. Il veillera sur toi jusqu'à ce que j'aie terminé."}
+{"id": 9456, "h": "60508c26", "fr": "J'm'assure qu'elle y arrive. J'te dois bien ça, ma p'tite brioche, pour mon rôle là-d'dans."}
+{"id": 9457, "h": "21324170", "fr": "J'ai neutralisé la menace. Où est passé le Crotale ?"}
+{"id": 9458, "h": "3db52148", "fr": "Mais même moi, j'ai mes limites."}
+{"id": 8096, "h": "f72f9345", "fr": "Mes frères, mes soeurs, approchez, car l'heure est venue d'régler ses comptes au péché."}
+{"id": 8097, "h": "4f4c2a1b", "fr": "L'homme que v'là d'vant nous, ce pourvoyeur de vice, ce semeur de perversité..."}
+{"id": 8098, "h": "924e2240", "fr": "...a brisé les liens sacrés d'la décence qui soudent not' communauté."}
+{"id": 8099, "h": "de3b7638", "fr": "Le Bon Livre nous enseigne que le salaire du péché, c'est la mort, et m'est avis qu'on est pas au-d'ssus d'verser c'qui est dû."}
+{"id": 8100, "h": "0b7bbcaf", "fr": "Le Crotale marque une pause en vous remarquant dans l'assistance."}
+{"id": 8102, "h": "3022feff", "fr": "Que nul ici n'en doute : cette corde, c'est pas qu'la justice. C'est la rédemption."}
+{"id": 8103, "h": "61b72639", "fr": "Alors que ses pieds se balancent et que son âme s'élève, et qu'le ciel fasse le tri dans c'qui reste."}
+{"id": 8104, "h": "ac48abb1", "fr": "Que la sentence soit exécutée, dans la droiture et sans crainte d'aucun homme !"}
+{"id": 8105, "h": "405cfa3e", "fr": "Joignez-vous à moi pour festoyer demain au crépuscule, quand on offrira à un aut' pécheur sa cravate de chanvre."}
+{"id": 8106, "h": "df568077", "fr": "Un dégénéré d'plus à s'balancer dans la juste lueur du soleil couchant. Amen."}
+{"id": 8107, "h": "e3a0cd35", "fr": "Pour le meurtre de not' ancien shérif. Qu'il repose en paix."}
+{"id": 8108, "h": "78e64c92", "fr": "Hé, la nouvelle tête. Un petit conseil d'amie. "}
+{"id": 8109, "h": "c49b774d", "fr": "Cette ville est devenue une vraie poudrière, ces temps-ci. L'hospitalité est au plus bas."}
+{"id": 8110, "h": "7c200704", "fr": "Mon conseil ? Viens loger au Dusty Rose. Enfin, si tu fais pas la fine bouche devant notre genre d'établissement."}
+{"id": 8111, "h": "9b454666", "fr": "Vous sentez une tape sur votre épaule."}
+{"id": 8112, "h": "6ab9ead9", "fr": "Mais tu rechargeras tes batteries en sécurité sous notre toit. Tant que c'est moi la patronne, du moins."}
+{"id": 7926, "h": "3743474c", "fr": "J'aimerais tant te l'offrir ! Mais... j'ai des vers de selle en famille d'accueil, et faut bien les nourrir !"}
+{"id": 9459, "h": "206ea616", "fr": "La défaite est une pilule amère à avaler."}
+{"id": 9460, "h": "c10a9d2f", "fr": "Tu sais, d'après la légende, se baigner dans nos eaux, ça peut améliorer la voix."}
+{"id": 9461, "h": "33ca8675", "fr": "Oh, la ferme."}
+{"id": 9462, "h": "2f3e0eec", "fr": "Hé, tu connais ma devise. Si tu n'y arrives pas du premier coup... <wave>triche !</wave>"}
+{"id": 9463, "h": "59a82d07", "fr": "La taupe louche, là, elle vendait un mod autotune. J'dis ça, j'dis rien, ma belle !"}
+{"id": 9464, "h": "4a04a36a", "fr": "Le Rat vous rend votre chapeau."}
+{"id": 8891, "h": "f3198f28", "fr": "<shake>Ha-ha !</shake> J't'ai eu... espèce de... de porteur de ch'mise rose... "}
+{"id": 8892, "h": "b4045edb", "fr": "Vous avez bu... une belle <shake>*hic*</shake> partie, monchieur Cashk."}
+{"id": 8893, "h": "dde2e083", "fr": "Et maint'nant, j'ramasse mes gains... <shake>*hic*</shake> On avait parié quoi, déjà ?..."}
+{"id": 8894, "h": "8791e1ce", "fr": "ah, ouais, ouais ouais... faut qu'tu dises un truc méchant sur ta copine."}
+{"id": 8895, "h": "95edd8ac", "fr": "Un homme de caractère... <shake>*hic*</shake> tient parole..."}
+{"id": 8896, "h": "dd8b952f", "fr": "Mademoiselle Buster... j'ai échoué... et je suis désolé... mais tu dois subir... subir les conséquences..."}
+{"id": 8897, "h": "73669ecf", "fr": "Mademoiselle Buster... tu... tu..."}
+{"id": 8898, "h": "02eaf3fa", "fr": "Tu es... euh... trop douée pour rester immobile. Genre... c'en est troublant. C'est bizarre."}
+{"id": 8899, "h": "41e8c8ea", "fr": "<shake>oh mon Dieu, je suis vraiment, vraiment désolé.</shake> Mademoiselle Buster. Il le fallait. Pardonne-moi, je t'en prie."}
+{"id": 8900, "h": "0f1d6162", "fr": "Ce n'est rien, Terrence, cela ne me dérange vraiment pas."}
+{"id": 8901, "h": "03f0ea0a", "fr": "Hé. Z'êtes de drôles d'oiseaux. J'vois bien qu'c'était <shake>*hic*</shake> pas facile pour toi."}
+{"id": 8902, "h": "8e9b13fb", "fr": "T'as bien du respect pour ta clique. "}
+{"id": 8903, "h": "54b96366", "fr": "Moi, ma clique, je la respecte plusieurs fois par semaine."}
+{"id": 8904, "h": "dc6f9a07", "fr": "T'as tenu parole, et ça, ça <shake>*hic*</shake> Ça compte, dans mon monde."}
+{"id": 8905, "h": "e565844e", "fr": "Mais pas assez pour qu'tu t'en tires. Paie l'ardoise, perdant ! <shake>Ha ha ha !</shake>"}
+{"id": 8906, "h": "bf57e0dc", "fr": "Si tu veux ta revanche un jour, ramène-toi, l'ami. T'es pas un mauvais compagnon de beuverie."}
+{"id": 8907, "h": "733746b0", "fr": "Pas de bits, hein ? J'le mets sur vot' ardoise, shérif."}
+{"id": 8908, "h": "fc33415b", "fr": "Vous avez payé 15 bits."}
+{"id": 8909, "h": "9c443490", "fr": "Je vous aurai la prochaine fois, monsieur Cask. Bonne chance pour l'élection à venir !"}
+{"id": 8910, "h": "02d6e1df", "fr": "U-une fois, j'ai voulu t'en taper cinq, et tu as tourné la tête pile quand j'ai levé la main."}
+{"id": 8911, "h": "10469e24", "fr": "J'ai eu honte et je t'en ai voulu."}
+{"id": 8912, "h": "6296503b", "fr": "En venant ici, j-je t'ai fait écouter ma chanson préférée et... et..."}
+{"id": 8913, "h": "109e7bbe", "fr": "J-j'ai bien vu que tu ne l'écoutais pas vraiment ! Alors j'ai écrit un truc méchant sur toi dans mon journal !"}
+{"id": 9465, "h": "e3d63194", "fr": "Je ne dois pas relâcher la pression tout de suite. Elle est ébranlée."}
+{"id": 9466, "h": "27ee5c6f", "fr": "Elle porte peut-être des indices sur elle."}
+{"id": 7928, "h": "79f65bc0", "fr": "Fichez-moi la paix. J'écris mon discours de campagne pour l'élection du shérif."}
+{"id": 8914, "h": "81eac0e3", "fr": "Quoi !? Ce satané crétin a nommé shérif... <shake>vous</shake> !?"}
+{"id": 8915, "h": "c9146e63", "fr": "Shérif par intérim. Seulement jusqu'à l'élection."}
+{"id": 8916, "h": "553b2634", "fr": "Ridicule. J'ai rien contre les bots, mais vous aut', z'êtes pas faits pour commander aux gens de chair et de sang."}
+{"id": 8917, "h": "8db486aa", "fr": "Et des gandins d'la ville, par-d'ssus l'marché. J'la sens d'ici, vot' puanteur de profiteurs."}
+{"id": 8918, "h": "83a624d2", "fr": "Dites donc, une minute, espèce de... de... !"}
+{"id": 8919, "h": "745b6f8a", "fr": "<shake>*pst*</shake> Terrence... traite-le... de sagouin."}
+{"id": 8920, "h": "2701410a", "fr": "E-espèce de sagouin !"}
+{"id": 8922, "h": "4168262f", "fr": "Sachez que c'est de mon amie que vous parlez. C'est un membre précieux de notre communauté !"}
+{"id": 8923, "h": "29a3d4bb", "fr": "Cask fixe durement Terrence et le jauge. Le vautour grisonnant crache par terre."}
+{"id": 8924, "h": "823367dc", "fr": "Tu m'as traité de quoi, le gandin ?"}
+{"id": 8925, "h": "86b7f76c", "fr": "B-bon, je ne sais pas vraiment ce que c'est, un sagouin ! Mais je m-maintiens ! Nous sommes tous égaux !"}
+{"id": 8926, "h": "f576eb06", "fr": "Tu t'crois mon égal ? Ha ! J'pourrais t'mâcher tout cru et m'coiffer d'ton cul comme d'un chapeau."}
+{"id": 8927, "h": "a80da4cd", "fr": "Messieurs, pas de bagarre et pas de pétoires. Tu connais les règles, Cask."}
+{"id": 8928, "h": "69ba0363", "fr": "Oh, on dirait que quelqu'un vient d'être sauvé par le gong."}
+{"id": 8929, "h": "da2eeb57", "fr": "Pff, Jimmy... si j'me présentais pas comme shérif... "}
+{"id": 8930, "h": "eb11d0de", "fr": "Terrence chuchote avec véhémence."}
+{"id": 8931, "h": "117624ae", "fr": "<wave>Merci, Jimmy.</wave> Mon ami, mon frère. Tu m'as sauvé la vie."}
+{"id": 8932, "h": "9367a969", "fr": "mais j'sais comment obtenir réparation."}
+{"id": 8933, "h": "107fae7a", "fr": "Pimentons un peu la chose. Si je gagne, vous devrez dire un truc gentil sur mon amie Buster !"}
+{"id": 8934, "h": "6cc3934f", "fr": "Si t'es si costaud, voyons voir comment tu bois. On va s'faire un bon vieux concours de descente, entre amis."}
+{"id": 8935, "h": "2f81c162", "fr": "Et si c'est moi qui gagne, faudra qu'tu dises un truc méchant sur elle."}
+{"id": 8936, "h": "d3af1ace", "fr": "Une horreur sans nom envahit le visage de Terrence, qui pâlit. Mais bientôt, ses traits se durcissent, résolus."}
+{"id": 8937, "h": "389dfdad", "fr": "Je relève le défi ! Si ça peut vous rendre plus gentil et redorer l'image de mon amie ? Je risque le tout pour le tout !"}
+{"id": 8938, "h": "7c3f212e", "fr": "Terrence, l'intention me touche vraiment, mais je n'imagine pas d'enjeu plus dérisoire que celui-ci."}
+{"id": 8939, "h": "7ab86d6d", "fr": "Ce que ce charognard pense de moi m'est sincèrement égal."}
+{"id": 8940, "h": "48e1887d", "fr": "Mademoiselle Buster, je t'en prie ! Toi, tu attrapes les méchants, moi, j'aide les gens à devenir la meilleure version d'eux-mêmes !"}
+{"id": 8941, "h": "740ecf86", "fr": "C'est important pour moi."}
+{"id": 8942, "h": "f3a71185", "fr": "Remettons ce défi à plus tard."}
+{"id": 8943, "h": "4a4a1dd4", "fr": "Oui, madame... bien sûr, notre mission passe avant tout."}
+{"id": 8944, "h": "65bd68b6", "fr": "J'bouge pas d'ici d'la journée. Prêt à t'faire rouler sous la table."}
+{"id": 8945, "h": "f3c4de7f", "fr": "Tiens, tiens, tiens... r'gardez qui r'vient en rampant."}
+{"id": 8946, "h": "53ae5eea", "fr": "Le premier qui arrête de boire a perdu. Quand j'aurai gagné, vous direz un truc gentil sur mademoiselle Buster 09 !"}
+{"id": 8947, "h": "13a4754a", "fr": "et si c'est moi qui gagne, faudra qu'tu dises un truc méchant sur elle. Le perdant paie l'ardoise."}
+{"id": 8948, "h": "77862ae4", "fr": "C'est parti, Jimmy ! Remplis-moi ces chopes !"}
+{"id": 8949, "h": "e3acc1c6", "fr": "<shake>Hé ! Texas !</shake> Ramène ton cul souriant par ici et viens voir ça !"}
+{"id": 8950, "h": "6cb00df6", "fr": "Ben mince alors ! J'entendais l'raffut depuis l'aut' côté d'la rue !"}
+{"id": 8951, "h": "df2b63d4", "fr": "En tant qu'ton futur patron, j'veux qu'tu m'regardes faire rouler c'gaillard sous la table."}
+{"id": 8952, "h": "19d3fb91", "fr": "Oui m'sieur, m'sieur Cask, m'sieur ! J'serais ravi d'vous encourager !"}
+{"id": 8953, "h": "18b1ea31", "fr": "Le perdant paie l'ardoise... et si tu gagnes, crénom, j'te file un pourboire."}
+{"id": 8954, "h": "5c8aea7b", "fr": "Prêt pour la revanche ? Mêmes enjeux !"}
+{"id": 10774, "h": "f24d67fc", "fr": "Hm... Maddox était un ripou, hein ? Ben ça m'dégage la voie pour l'étoile de shérif, pour sûr."}
+{"id": 10775, "h": "b03ce309", "fr": "Me v'là forcé d'vous traiter en égale, pour avoir maintenu la paix."}
+{"id": 8113, "h": "ce473b4e", "fr": "Tu m'redescends cette rampe illico, ma p'tite. Cette potence, c'est réservé aux affaires officielles."}
+{"id": 8114, "h": "87d1f5a5", "fr": "Vous serrez les dents. Vous avez beau savoir que c'est un escroc, vous n'avez rien à lui opposer pour l'instant."}
+{"id": 8955, "h": "305fd145", "fr": "Tiens... tiens... m'sieur la grande ville sait descendre sa bière..."}
+{"id": 8956, "h": "94fd37be", "fr": "pfff... <shake>*hic*</shake> On avait parié quoi, déjà ?..."}
+{"id": 8957, "h": "cdf7ed81", "fr": "Vous devez dire un truc gentil sur mon amie mademoiselle Buster, ici présente !"}
+{"id": 8958, "h": "9f7defed", "fr": "Bien p'tit, l'homme qui tient pas ses engagements..."}
+{"id": 8959, "h": "e6e506ca", "fr": "M'dame... mam'zelle Buster 09... vous..."}
+{"id": 8960, "h": "7f7cc11f", "fr": "Vous, euh... Z'avez un bien joli minois. Ça m'déplaît pas d'vous r'garder."}
+{"id": 8961, "h": "fcc04621", "fr": "Bon... l'ardoise est pour moi, on dirait. Et tiens. T'as bien mérité tes gains."}
+{"id": 8962, "h": "e7b89f6c", "fr": "Maint'nant qu't'as gagné, va falloir défendre ton titre."}
+{"id": 8963, "h": "af0694b9", "fr": "Si t'as envie de r'mettre ça, ramène-toi. T'es pas un mauvais compagnon de beuverie."}
+{"id": 8964, "h": "711b6af9", "fr": "Ça marche, monchieur Cashk ! Bonne chance pour l'élection à venir !"}
+{"id": 8965, "h": "7e6c84fe", "fr": "Merci, mais je n'y suis pour rien. On me l'a sculpté."}
+{"id": 8966, "h": "c6858e90", "fr": "Accepte le compliment, Buster ! Moi non plus, j'ai rien fait pour mériter ces nichons de rêve."}
+{"id": 8967, "h": "e9d75a25", "fr": "Mais putain, j'en suis fière !"}
+{"id": 8968, "h": "4dac12a1", "fr": "Vous gagnez 20 bits."}
+{"id": 8969, "h": "c88b8b37", "fr": "J'dirais pas qu'z'êtes qualifiée pour l'poste... mais... faut du courage et des tripes pour faire respecter la loi."}
+{"id": 8970, "h": "707c1753", "fr": "Faut croire qu'z'avez les deux."}
+{"id": 8971, "h": "3a2f8aaa", "fr": "Vous <shake>*hic*</shake> avez de belles grosses... bien mûres, bien juteuses..."}
+{"id": 8972, "h": "9f063c14", "fr": "Holà, holà, on reste tout public."}
+{"id": 8973, "h": "d35268c6", "fr": "...mains."}
+{"id": 8974, "h": "3a13b96b", "fr": "Si vous et ma mère étiez coincées dans un bâtiment en feu... et qu'j'pouvais en sauver qu'une..."}
+{"id": 8975, "h": "07d5438a", "fr": "J'sauverais ma mère, mais ça m'ferait bien mal au coeur d'vous laisser là-d'dans."}
+{"id": 8976, "h": "bee89a3a", "fr": "Hm... est-ce que ça compte ? Qu'en pensent les juges ?"}
+{"id": 8977, "h": "de310761", "fr": "Ça se tient ! J'accepte."}
+{"id": 7954, "h": "e254f289", "fr": "Carte Sirène. C'est 25 bits. "}
+{"id": 8051, "h": "013ec604", "fr": "Je te dis pas combien de bits cette petite dame m'a fait perdre. Bon débarras !"}
+{"id": 8115, "h": "63230301", "fr": "Buster 09 a reçu \"Carte Sirène\"."}
+{"id": 8978, "h": "4eeb1c02", "fr": "La voie est libre."}
+{"id": 8979, "h": "92d0d3ee", "fr": "Vous suivez les instructions de la carte et trouvez un petit interrupteur caché derrière un vieux pavé."}
+{"id": 8981, "h": "a3c98852", "fr": "Kitty Boo. La voie est libre. Ça a marché, le tunnel des toilettes s'est ouvert."}
+{"id": 8982, "h": "52e57a14", "fr": "Pitié... pitié, ne regarde pas."}
+{"id": 8983, "h": "d4c92a16", "fr": "Nous viendrons te chercher dans le désert."}
+{"id": 8984, "h": "24b177f1", "fr": "Mon Dieu... oh, mon Dieu..."}
+{"id": 8985, "h": "636118e1", "fr": "Vous scrutez les bâtiments, les fenêtres et les toits. Jusqu'à être absolument certaine que personne ne regarde."}
+{"id": 8116, "h": "e2528070", "fr": "J'ai encore des choses à examiner."}
+{"id": 8986, "h": "b2fa3ebb", "fr": "<shake>YIII-hAAAA !</shake> MONTREZ-leur de quel bois vous vous chauffez, m'sieur Cask !"}
+{"id": 8987, "h": "5cbf33ab", "fr": "Quelqu'un a vu un sac à main rose fluo dans le coin ? J'ai fait tomber le mien."}
+{"id": 8117, "h": "a614f47a", "fr": "Nous avons tout passé au peigne fin. Ce devrait être tout."}
+{"id": 8118, "h": "ffccf1ee", "fr": "Nous avons désormais une piste. Je ne crois pas qu'il soit venu ici pour acheter des faveurs sexuelles."}
+{"id": 8119, "h": "14ec422f", "fr": "Mais plutôt pour un rendez-vous galant, en privé."}
+{"id": 8120, "h": "72156955", "fr": "Nous devons découvrir avec qui. Et nous devons découvrir où est passée sa tête."}
+{"id": 8121, "h": "47b3c74a", "fr": "Y a genre mille têtes dans cette ville. On la retrouve comment, la sienne ?"}
+{"id": 8122, "h": "4ca0302d", "fr": "Nous chercherons celle qui... n'est pas rattachée à un corps."}
+{"id": 8123, "h": "0ffcef00", "fr": "J'adore, tu me réponds comme si je faisais pas un sketch."}
+{"id": 8125, "h": "a685f3b1", "fr": "Cette chambre est réservée aux clients qui paient."}
+{"id": 8126, "h": "f92ea276", "fr": "Comme la série est complète, vous réunissez toutes les cartes pour former un jeu de Mermaid's Gambit jouable."}
+{"id": 8127, "h": "d0cf5210", "fr": "Buster 09 a reçu \"Jeu de Mermaid's Gambit\"."}
+{"id": 8128, "h": "f35df531", "fr": "Tu m'as eue à la loyale ! Bon instinct !"}
+{"id": 8129, "h": "a0260509", "fr": "Oh, je sais bien que tu m'as ménagée. Tu retentes ta chance, hein ?"}
+{"id": 8130, "h": "9b579da8", "fr": "Joli tir, cow-boy ! Je savais que je ferais pas le poids."}
+{"id": 8131, "h": "b66eafd8", "fr": "Disons que c'était un tour de chauffe. Ta chance va sûrement tourner."}
+{"id": 8132, "h": "ad14cb67", "fr": "Bahaha ! Je reste le roi de la colline ! Revenez quand vous voudrez retenter votre chance."}
+{"id": 8133, "h": "a22b151d", "fr": "J'adore ce jeu !"}
+{"id": 8134, "h": "931c68d0", "fr": "Oh... oh, non. J'y crois pas. Argh, j'en reviens pas d'avoir eu une poisse pareille..."}
+{"id": 8135, "h": "1e575d6c", "fr": "Oh, Johnny. Ça veut dire que t'es plus le roi de la colline."}
+{"id": 8136, "h": "3da08a13", "fr": "Ouais, dès que la shérif aura déclaré sa victoire à la ligue locale de Mermaid's Gambit, elle sera en tête du classement."}
+{"id": 8137, "h": "d40fd255", "fr": "A-allons. Une minute. Ne précipitons rien, shérif."}
+{"id": 8138, "h": "46be6f60", "fr": "La politique, c'est l'art de s'arranger, et parfois... les poignées de main s'échangent sous la table, voyez ?"}
+{"id": 8139, "h": "53add5fa", "fr": "Où se trouve la ligue de Mermaid's Gambit ?"}
+{"id": 8140, "h": "9b01e075", "fr": "Le mot de passe. Vous vouliez entrer au stand de tir, hein ?"}
+{"id": 8141, "h": "459b7631", "fr": "D'un même mouvement, les filles du verger se renfoncent dans leurs chaises et se détendent."}
+{"id": 8142, "h": "f0bee2d6", "fr": "Disons que... c'était un... match d'entraînement non homologué. Et en échange, le mot de passe est à vous."}
+{"id": 8143, "h": "9b0a2cb4", "fr": "Vous tendez la main."}
+{"id": 8144, "h": "b9cb0e22", "fr": "Seulement si nous scellons cela par une poignée de main."}
+{"id": 8145, "h": "2443bed0", "fr": "Honest John regarde votre main, puis vous, un sourire rusé aux lèvres. Il vous serre fermement la main."}
+{"id": 8146, "h": "be5376e5", "fr": "Bien joué, shérif. Je crois que j'ai assez joué pour ce soir."}
+{"id": 8147, "h": "d23e4260", "fr": "Les filles, les filles ! Une autre tournée !"}
+{"id": 8148, "h": "a9e2b6bf", "fr": "Tout de suite, Johnny !"}
+{"id": 8149, "h": "8a30ae6f", "fr": "Honest John se penche, griffonne quelque chose sur un bout de serviette et vous le tend."}
+{"id": 8150, "h": "1ffc9ad0", "fr": "Il y est écrit \"Bébé feuilleté\"."}
+{"id": 8151, "h": "1b64b983", "fr": "Buster 09 a reçu \"Mot de passe du stand de tir\"."}
+{"id": 8152, "h": "cc299c43", "fr": "La porte en haut des marches porte un écriteau \"Bureau du gérant\". Mais elle semble verrouillée."}
+{"id": 8988, "h": "2aa3f7ac", "fr": "Vous tendez le bras et frappez selon une séquence précise."}
+{"id": 8989, "h": "4b9fb17f", "fr": "Au bout d'un instant, la porte émet un déclic et s'ouvre."}
+{"id": 8990, "h": "39f8d7ec", "fr": "<wave>Terry ! Terry ! Terry ! Cul sec ! Cul sec ! Cul sec !</wave>"}
+{"id": 8153, "h": "8116ab3d", "fr": "J'te l'avais dit."}
+{"id": 7929, "h": "2292b2fe", "fr": "J'ai jamais vu autant de soleil de ma vie. Ça peut pas être bon pour nous, si ?"}
+{"id": 7930, "h": "7f3025a0", "fr": "Imaginez les échanges culturels qui nous attendent ici ! Nous avons tant à apprendre de ces gens."}
+{"id": 7931, "h": "e7fc688c", "fr": "Nous devrions commencer par prendre une chambre."}
+{"id": 7932, "h": "b373a94f", "fr": "Ensuite, nous verrons qui dégaine le plus vite... moi ou le Crotale."}
+{"id": 7933, "h": "27d4cf6c", "fr": "Il fait mille degrés, ici. "}
+{"id": 7934, "h": "f86e125b", "fr": "Mince alors, je me demande ce qu'ils exportent le plus ?"}
+{"id": 7935, "h": "b2827092", "fr": "Quelle industrie peut bien faire vivre une ville aussi grande dans un coin aussi reculé ?"}
+{"id": 7936, "h": "254a7dc2", "fr": "Le bétail ? L'or ? Ils doivent bien être connus pour quelque chose."}
+{"id": 7937, "h": "4dcd6f10", "fr": "Faisons le tour des lieux pour voir à quoi nous avons affaire."}
+{"id": 10776, "h": "89d6233e", "fr": "Vous remettez le chapeau de cow-boy."}
+{"id": 9428, "h": "db905488", "fr": "Buster 09 a reçu \"Mod autotune\"."}
+{"id": 9467, "h": "7173444c", "fr": "C'est un mod autotune. Ce petit bijou se branche sur un micro."}
+{"id": 9468, "h": "61e9a727", "fr": "Et hop, victoire automatique à la soirée karaoké ! Un tel prestige te coûtera deux Couronnes."}
+{"id": 9469, "h": "47f47a97", "fr": "Bien sûr, il faudra ensuite vivre avec la honte éternelle d'être... une sale, sale tricheuse."}
+{"id": 9470, "h": "aa943247", "fr": "Ohhh, quel goût raffiné ! C'est un article fort rare."}
+{"id": 9471, "h": "6674f739", "fr": "une tricheuse... tricheuse... vilaine menteuse..."}
+{"id": 9472, "h": "2dfde82c", "fr": "Mais bon. Parfois, le défi, on s'en fiche. Parfois, on veut juste s'amuser."}
+{"id": 9473, "h": "5040ce37", "fr": "Maintenant, combine ça avec un micro, fais taire ta mauvaise conscience, et c'est parti !"}
+{"id": 8154, "h": "22299f65", "fr": "Tu veux fouiller ma chambre ? Fais-toi plaisir, c'est propre comme un sou neuf là-dedans."}
+{"id": 9474, "h": "b495f608", "fr": "Je crois qu'elles sont désormais dociles. On devrait pouvoir entrer dans l'eau sans danger."}
+{"id": 10777, "h": "f73d2495", "fr": "Pas le temps de faire du tourisme."}
+{"id": 8991, "h": "3bcafaab", "fr": "Les jetons seront réinitialisés. Continuer ?"}
+{"id": 8155, "h": "ea8f8671", "fr": "Je crois avoir fait tout mon possible pour faire s'écrouler ce château de cartes."}
+{"id": 8156, "h": "d658ef8e", "fr": "Il est temps de réunir tout le monde."}
+{"id": 8157, "h": "69032e33", "fr": "Je vous ai suffisamment interrogées toutes les trois pour tirer plusieurs conclusions."}
+{"id": 8158, "h": "0c863d33", "fr": "Le shérif comptait, sans aucun doute, beaucoup pour vous toutes."}
+{"id": 8159, "h": "e2238ec4", "fr": "C'est pourquoi... vous avez toutes menti pour le protéger."}
+{"id": 8160, "h": "0eb77742", "fr": "J'vous l'avais dit, qu'on aurait dû accorder nos violons..."}
+{"id": 8161, "h": "46d7d25a", "fr": "Comment j'pouvais savoir que vous alliez le couvrir aussi, vous autres !?"}
+{"id": 8162, "h": "05d4d6b3", "fr": "Écoutez, je vous crois quand vous vantez sa moralité. Je veux seulement traduire son assassin en justice."}
+{"id": 8163, "h": "3ff08767", "fr": "À vrai dire, m'dame... on nous a dit de ne pas coopérer avec vous."}
+{"id": 8164, "h": "f445b668", "fr": "En tant que nouvelle shérif provisoire, je vous en prie, laissez-moi vous aider."}
+{"id": 8165, "h": "8886a957", "fr": "Par qui ?"}
+{"id": 8166, "h": "df124576", "fr": "Le capitaine Maddox... il nous a menacées. Et... il a enlevé Moll-E."}
+{"id": 8167, "h": "b5aaf4fd", "fr": "Moll-E est... la quatrième fille. C'est elle que le shérif fréquentait."}
+{"id": 8168, "h": "d4f52f5f", "fr": "Il a dit qu'il l'amocherait salement si on allait chercher de l'aide."}
+{"id": 8169, "h": "c07ae961", "fr": "Ces deux-là ont toujours été très épris l'un de l'autre... mais j'ignorais qu'il allait la demander en mariage. "}
+{"id": 8170, "h": "56be5211", "fr": "Ça me fend le coeur de savoir ce qui leur est arrivé."}
+{"id": 8171, "h": "8c6cace0", "fr": "Maddox... a enlevé la compagne du shérif, orchestré son meurtre... et piégé Kitty Boo."}
+{"id": 8172, "h": "1c74c70e", "fr": "Bien, j'y vois plus clair sur ce qui se passe ici."}
+{"id": 8173, "h": "3f7134ed", "fr": "Il me reste à trouver la tête... mais je sais désormais qu'il détient Moll-E."}
+{"id": 8174, "h": "6ec12505", "fr": "Merci pour votre franchise. Je veillerai à mériter votre confiance."}
+{"id": 8175, "h": "7d372a4f", "fr": "Je devrais aller parler à Kitty Boo, à présent. Voir si elle peut combler quelques blancs."}
+{"id": 8176, "h": "91559018", "fr": "Il semble que ce soit tout ce qu'il y a ici..."}
+{"id": 8177, "h": "e5a92966", "fr": "Une seconde... il y a quelque chose sous l'oreiller."}
+{"id": 8178, "h": "13031cd3", "fr": "Peu d'éléments exploitables ici, à part la tête manquante."}
+{"id": 8992, "h": "24fdf689", "fr": "Kitty Boo s'arrête net en levant les yeux vers la potence et le cadavre qui y pend."}
+{"id": 8993, "h": "bc59045c", "fr": "Je... je... <shake>Je ne peux paaas !</shake> Il faut que je file ! Le Crotale est trop fort ! Il a trop de sbires !"}
+{"id": 8994, "h": "d6be0369", "fr": "Kitty, tout va bien. Je ne le laisserai pas te pendre. Il faut suivre le plan pour prouver ton innocence."}
+{"id": 8995, "h": "10eab0ec", "fr": "C'est mon cou qui est en jeu, voyons !"}
+{"id": 8996, "h": "d9a6ca22", "fr": "Souviens-toi... même si nous échouons ici, nous avons le tunnel des toilettes."}
+{"id": 8997, "h": "639b228b", "fr": "Nous pourrons te faire sortir à nouveau, s'il le faut."}
+{"id": 8998, "h": "f362eaf4", "fr": "Kitty Boo inspire profondément pour se calmer."}
+{"id": 8999, "h": "3345fa2a", "fr": "Oui... Oui, soit. Tu as raison. Navrée... poursuivons."}
+{"id": 9000, "h": "fd45efc4", "fr": "Je dois rester et enquêter tant que je le peux."}
+{"id": 9001, "h": "fc210dd7", "fr": "C'était un sale petit tour, shérif 09 ! Quand j'vais raconter à Honest John c'que vous avez fait..."}
+{"id": 9002, "h": "035a464a", "fr": "Adjoint Texas. Je rendrai mon étoile ce soir, si vous me laissez jusqu'à l'heure de l'exécution de Kitty."}
+{"id": 9003, "h": "6a8bf25b", "fr": "Je suis tout près de résoudre cette affaire et de prouver que le capitaine Maddox est un imposteur."}
+{"id": 9004, "h": "347b70aa", "fr": "Vous êtes quelqu'un de bien, et vous ne voulez pas qu'une innocente soit pendue. Alors, je vous en prie... attendez."}
+{"id": 9005, "h": "fd09a3e2", "fr": "J'me ferai plus avoir par vos tours..."}
+{"id": 9006, "h": "72987fb2", "fr": "mais on m'a dit d'surveiller la prisonnière jusqu'au coucher du soleil. Alors c'est c'que j'vais faire. "}
+{"id": 9007, "h": "9e5ae90b", "fr": "J'peux pas quitter mon poste pour prévenir Honest John d'ici là. Alors feriez mieux d'faire c'que vous avez prévu d'faire..."}
+{"id": 9008, "h": "0062082d", "fr": "...shérif."}
+{"id": 9009, "h": "7cc2ae7f", "fr": "Vous hochez la tête, en signe d'entente tacite."}
+{"id": 7938, "h": "77ac6796", "fr": "c'est la vie, ma grande."}
+{"id": 8179, "h": "8f65cae9", "fr": "Tu m'as déjà battue. Je te sacre digne de continuer."}
+{"id": 8180, "h": "72249d4b", "fr": "Tu nous as bien montré comment on joue."}
+{"id": 10778, "h": "ba1c92f2", "fr": "Si tu comptais rester, t'aurais ma voix comme shérif permanente, c'est sûr !"}
+{"id": 9475, "h": "0c0f0168", "fr": "Ça, c'est de la musique à mes oreilles !"}
+{"id": 9476, "h": "68a7df77", "fr": "Ouais ! C'est ça, barrez-vous, sales garces gluantes à tête de poisson !"}
+{"id": 9477, "h": "fb38a109", "fr": "Tu vas avoir besoin de ça, cow-boy."}
+{"id": 8181, "h": "732fe25c", "fr": "La porte derrière les rideaux est verrouillée. Il semble s'agir d'une scène de crime."}
+{"id": 8182, "h": "959c9914", "fr": "Voici la scène de crime."}
+{"id": 8183, "h": "c75cd509", "fr": "Il est où, ce putain de corps ?"}
+{"id": 8184, "h": "ed77445e", "fr": "Le crime remonte à plusieurs jours, et le corps a été enlevé."}
+{"id": 8185, "h": "f9a44a4d", "fr": "Nous devrons utiliser l'holo-générateur sur le lit et en examiner un scan."}
+{"id": 8186, "h": "5c677034", "fr": "Il me faudrait présenter un mandat à l'accueil pour en obtenir la clé."}
+{"id": 8187, "h": "fdb8d865", "fr": "Vous insérez la clé dans la porte derrière les rideaux. Et la porte se déverrouille."}
+{"id": 8188, "h": "e594467d", "fr": "Malgré votre envie d'en découdre, il est trop tôt pour le faire au grand jour."}
+{"id": 8189, "h": "985f56ee", "fr": "Il vous faut d'abord des preuves."}
+{"id": 8190, "h": "09076648", "fr": "C'est bien c'que j'pensais."}
+{"id": 8191, "h": "4be0e193", "fr": "Hé, pars pas ! Allez ! J'ai encore des trucs à dire ! Reviens ! Parle-moi encore un peu !"}
+{"id": 9010, "h": "d40efc72", "fr": "200 bits sur la victoire de Cask !"}
+{"id": 7940, "h": "de283ed6", "fr": "Tiens... on en voit pas beaucoup, des bots, par ici."}
+{"id": 8192, "h": "6aaab38c", "fr": "Mais c'est pas parce que vous êtes pas de mes administrés que je peux pas être un hôte courtois."}
+{"id": 8193, "h": "9131a6fe", "fr": "Je suis le maire de notre humble bourgade, mais appelez-moi Honest John, tout simplement."}
+{"id": 8194, "h": "3858f415", "fr": "Je suis Buster 09. Détective de la Cité Engloutie."}
+{"id": 8195, "h": "0bb343d4", "fr": "Ma parole ! Ça fait de vous un gros poisson, pas vrai ?"}
+{"id": 8196, "h": "adbd6d04", "fr": "Johnny, tu trouves pas qu'elle serait parfaite ?"}
+{"id": 8197, "h": "3fdb989f", "fr": "C'est pas ce que tu cherchais ? Quelqu'un de neutre, fort, compétent, avec de l'expérience dans le maintien de l'ordre ?"}
+{"id": 8198, "h": "91f3ce2e", "fr": "Mes petites mandarines d'été... je crois que vous avez raison !"}
+{"id": 8199, "h": "3e75a7cc", "fr": "Ça, c'est notre maire ! Vif comme l'éclair."}
+{"id": 8200, "h": "e0657536", "fr": "Oh, mais... le shérif est un élu, démocratiquement choisi..."}
+{"id": 8201, "h": "daa6ca3a", "fr": "Oh, Johnny, tu sais bien qu'en cas de décès, de démembrement ou de disparition..."}
+{"id": 8202, "h": "2fb096ca", "fr": "...tu peux nommer un shérif par intérim jusqu'à ce qu'une élection puisse se tenir."}
+{"id": 8203, "h": "9be873bc", "fr": "Ah oui ! Merci de me rafraîchir la mémoire, mes douceurs acidulées."}
+{"id": 8204, "h": "c349d623", "fr": "L'élection n'est que dans une semaine."}
+{"id": 8205, "h": "aec9c1d3", "fr": "Vous autres, les Busters, êtes connues bien au-delà de vos frontières pour fracasser des crânes de criminels !"}
+{"id": 8206, "h": "2afd5698", "fr": "J'ignore ce qui vous amène dans notre ville, ma p'tite dame. Mais vos références vous précèdent."}
+{"id": 8207, "h": "8cd7ff08", "fr": "Ça vous dirait pas d'entendre ma proposition, des fois ?"}
+{"id": 8208, "h": "88f8d313", "fr": "Ah, dommage ! Mais si vous changez d'avis, venez me voir."}
+{"id": 8209, "h": "3c7c2490", "fr": "Ah-ha ! Voilà qui est parlé !"}
+{"id": 8210, "h": "c9a51297", "fr": "On a une sale affaire sur les bras. Notre shérif actuel... a mal fini, auprès d'un joli minois, dans un bordel louche."}
+{"id": 8211, "h": "115a5bb0", "fr": "Et y a pas grand monde par ici qui soit de taille à le remplacer."}
+{"id": 8212, "h": "51252c83", "fr": "Pas même l'adjoint ?"}
+{"id": 8213, "h": "db9b091a", "fr": "L'adjoint Texas est un amour et il fait honneur à l'Ouest."}
+{"id": 8214, "h": "1eacf0d3", "fr": "Mais disons que le gaillard est... enfin, c'est un sacré bon caddie, mais c'est pas un golfeur."}
+{"id": 8215, "h": "ac62908c", "fr": "Il me faut une détective futée et solide comme vous pour assurer la transition."}
+{"id": 8216, "h": "c87d4c81", "fr": "Faudra peut-être vous faire aimer des gens du coin."}
+{"id": 8217, "h": "49059041", "fr": "Et je vous ai dit qu'il y avait un salaire ? 200 bits versés à la fin de votre service."}
+{"id": 8218, "h": "9bfc9791", "fr": "Qu'en dites-vous ? Voulez-vous devenir shérif (par intérim) de Marble Junction ?"}
+{"id": 8219, "h": "67e7b626", "fr": "Honest John vous tend la main."}
+{"id": 8220, "h": "9ca07b67", "fr": "J'ai besoin de temps pour réfléchir à votre offre."}
+{"id": 8221, "h": "769204de", "fr": "Bien sûr, mais me faites pas trop attendre, hein ?"}
+{"id": 8222, "h": "e83f80e3", "fr": "Vous lui serrez fermement la main."}
+{"id": 8223, "h": "df1d0548", "fr": "J'accepte. Je connais le métier, et ce poste pourrait servir mes affaires en ville."}
+{"id": 8224, "h": "d667ddfd", "fr": "<shake>Yiii-ha !</shake> La bonne politique, ça se fait toujours au bar."}
+{"id": 8225, "h": "f92c73c9", "fr": "Les filles, vous avez l'étoile en fer-blanc ?"}
+{"id": 8226, "h": "546d1109", "fr": "Juste ici, Johnny."}
+{"id": 8227, "h": "680f57a0", "fr": "Honest John prend la petite étoile dorée que lui tend Sunny, puis l'épingle à votre revers."}
+{"id": 8228, "h": "871daf55", "fr": "Buster 09 a reçu \"Étoile de shérif\"."}
+{"id": 8229, "h": "d14f6ed1", "fr": "Je vous sacre shérif (par intérim) de Marble Junction."}
+{"id": 8230, "h": "02edbab4", "fr": "J'ai jamais été robophobe, mais vous savez comment sont les gens d'ici."}
+{"id": 8231, "h": "6de4bf38", "fr": "Allez voir l'adjoint Texas au bureau du shérif. Il vous faudra un mandat pour enquêter sur le meurtre du Dusty Rose."}
+{"id": 8232, "h": "5dc32f1e", "fr": "Monsieur le maire, il paraît que vous connaissez le mot de passe du stand de tir de la ville ?"}
+{"id": 8233, "h": "a4d12de9", "fr": "Oh, allons. \"Monsieur le maire\", c'est si guindé. Appelez-moi Honest John, voilà tout !"}
+{"id": 8234, "h": "cfac474a", "fr": "Et le stand de tir, hein ? Ça, je sais pas trop."}
+{"id": 8235, "h": "35d9f1bb", "fr": "M'est avis que c'est pas un endroit pour vous. C'est, euh... pour des gens plus frustes, plus brutaux. Pas pour un esprit raffiné comme le vôtre."}
+{"id": 8236, "h": "bc891827", "fr": "Ça tire, ça jure et ça crache pendant que les affaires se règlent."}
+{"id": 8237, "h": "4f9c5a17", "fr": "C'est important pour mon enquête."}
+{"id": 8238, "h": "4596194f", "fr": "Ma foi, pour être franc, je m'appelle Honest John, pas John le Généreux."}
+{"id": 8239, "h": "5ddd85a1", "fr": "Je peux quand même pas trahir mes Rough Riders en laissant une femme de loi venir leur marcher sur les pieds."}
+{"id": 8240, "h": "83bbc4b4", "fr": "Johnny, tu sais, plus je regarde notre shérif..."}
+{"id": 8241, "h": "0246cbba", "fr": "Elle m'a tout l'air d'une sacrée bonne joueuse de Mermaid's Gambit."}
+{"id": 8242, "h": "07849ac0", "fr": "Oh... tiens. Shérif, vous jouez à Mermaid's Gambit ?"}
+{"id": 8243, "h": "ab8e2dd2", "fr": "Vous remarquez que les filles aux oranges articulent en silence le mot \"oui\" à votre intention."}
+{"id": 8244, "h": "1b3f9558", "fr": "Non, je n'y joue pas."}
+{"id": 8245, "h": "10c0cb5f", "fr": "<shake>*kof kof*</shake> Ce qu'elle veut dire, c'est qu'elle n'a pas joué récemment."}
+{"id": 8246, "h": "c50d492f", "fr": "Oh, ho ho ! Je savais bien que j'avais eu raison de vous faire prêter serment. J'adore une bonne partie de Mermaid's Gambit."}
+{"id": 8247, "h": "e076d85e", "fr": "Il me faudra peut-être un rappel des règles, bien sûr. Cela fait longtemps."}
+{"id": 8248, "h": "d2dcb8a3", "fr": "C'est un jeu tout simple. Mais, euh, le seul problemo, c'est que j'ai laissé mon jeu à la maison."}
+{"id": 8249, "h": "b4e24123", "fr": "Tout le monde en ville joue à Mermaid's Gambit. Je suis sûre que si notre shérif cherchait bien..."}
+{"id": 8250, "h": "13866062", "fr": "Je peux même te lancer, j'ai une carte numéro un."}
+{"id": 8251, "h": "93794e4a", "fr": "Oh, ho ho. Je croyais que vous bluffiez. Mais on dirait que vous avez du talent, finalement."}
+{"id": 8252, "h": "c18938d5", "fr": "On s'attaque pas au roi d'entrée de jeu ! Faut d'abord venir à bout de mes filles du verger."}
+{"id": 8253, "h": "ff3ca8c4", "fr": "Fini de prendre des gants. Voyons comment vous vous en sortez face au champion."}
+{"id": 8254, "h": "be7bb592", "fr": "Une revanche ? Vous savez que je suis partant pour vous botter les fesses."}
+{"id": 8255, "h": "ee366882", "fr": "J'ai pris assez de roustes pour aujourd'hui ! Je crois que je vais me détendre avec un scotch pour le reste de la soirée."}
+{"id": 8256, "h": "90f88d93", "fr": "Buster 09 a reçu \"Carte 1 de Mermaid's Gambit\"."}
+{"id": 8257, "h": "c23122f1", "fr": "Il ne te manque plus que les cartes numéro deux, trois, quatre... et la fameuse carte Sirène elle-même."}
+{"id": 8258, "h": "f5d185a5", "fr": "Ce que j'essaie de vous dire avec délicatesse, c'est que c'est un refuge pour moi et les gars."}
+{"id": 8259, "h": "3df39f3f", "fr": "Je reviendrai avec un jeu complet pour que nous puissions jouer."}
+{"id": 9478, "h": "a9dd1dbc", "fr": "Vous en pensez quoi ? Il lui manque quelque chose, c'est sûr."}
+{"id": 9479, "h": "fe3f9ae7", "fr": "Je sais ce qu'il lui faut."}
+{"id": 9480, "h": "7ce8cc90", "fr": "Avant que vous ne puissiez protester, Orchard vous pose un chapeau noir sur la tête."}
+{"id": 9481, "h": "71829f9e", "fr": "Oui ! Oui ! Là, vous avez la tête de l'emploi."}
+{"id": 9482, "h": "05f60c79", "fr": "Crow Killer... planqué dans notre ville. Et Maddox qui serait de mèche ?"}
+{"id": 9483, "h": "8fcecba8", "fr": "Je savais bien que j'avais eu raison de vous nommer."}
+{"id": 10779, "h": "78edc87b", "fr": "Vous avez mis au jour une corruption sacrément profonde dans notre petite ville."}
+{"id": 10780, "h": "f2144887", "fr": "Par chez nous, on appelle ça une honnête journée de travail !"}
+{"id": 10781, "h": "03b76ee4", "fr": "Pourrai-je extrader le Crotale vers le QG Buster ?"}
+{"id": 10782, "h": "91d28850", "fr": "J'aurais du mal à dire non, vu ce qu'on vous doit. Je peux demander à Texas d'organiser un transport."}
+{"id": 10783, "h": "8e1760f5", "fr": "Je vais également devoir démissionner de mon poste et regagner la ville."}
+{"id": 10784, "h": "904ea3c5", "fr": "Je m'en doutais. Hm, pour votre paie. Ça fait qu'une journée, alors..."}
+{"id": 10785, "h": "3f2a4467", "fr": "Oh, mais elle a tant travaillé, Johnny. On ne va pas la punir d'avoir été efficace, si ?"}
+{"id": 10786, "h": "86deba75", "fr": "Le tarif horaire, c'est pour les pigeons, Johnny. On doit plus que ça à notre shérif intérimaire."}
+{"id": 10787, "h": "69622d7f", "fr": "Et vu que Maddox essayait de te détrôner..."}
+{"id": 10788, "h": "2fa4ca6d", "fr": "... je dirais que tu fais une affaire, pour une simple semaine de paie."}
+{"id": 10789, "h": "478a3e52", "fr": "Ha ha ! Mes filles me forcent encore la main. Oui, faut bien que je m'assure qu'on soit quittes, shérif."}
+{"id": 10790, "h": "7e28b1ec", "fr": "Les filles, je vous prie."}
+{"id": 10791, "h": "6d53f47d", "fr": "Sunny sort une enveloppe de bits et vous la tend."}
+{"id": 10792, "h": "b8be87d5", "fr": "Buster 09 a reçu 200 bits."}
+{"id": 10793, "h": "8899711b", "fr": "Merci. Et bonne chance pour l'élection à venir."}
+{"id": 10794, "h": "23fc30c2", "fr": "Vous posez l'étoile en fer-blanc sur votre pouce et l'envoyez à Orchard d'une pichenette."}
+{"id": 10795, "h": "5e2d406e", "fr": "Bon voyage, mademoiselle Buster 09 ! Pour moi, vous resterez toujours une collègue et une sacrée joueuse de Mermaid's Gambit."}
+{"id": 9011, "h": "1ef3c106", "fr": "J'ai apporté un bon de réduction ! Deux greffes de foie pour le prix d'une !"}
+{"id": 9012, "h": "bef988c3", "fr": "Deux yeux robotiques rouges gisent au sol... très probablement des dégâts de combat subis par l'un des bots d'ici..."}
+{"id": 9013, "h": "5997cf56", "fr": "Buster 09 a reçu \"Yeux de robot rouges\"."}
+{"id": 9014, "h": "effb4a1b", "fr": "Fais-le rouler sous la table, le nouveau ! <shake>WOOO !</shake>"}
+{"id": 9015, "h": "2a6a28e9", "fr": "J'viens d'recevoir un message : le grenier à grain est en feu. Tant pis pour eux, j'suis pas pompier."}
+{"id": 9016, "h": "fc0e6ac9", "fr": "<SHAKE>TERRENCE !</SHAKE> Je t'estime adéquatement qualifié pour cette tâche, du fait de ta forte carrure !"}
+{"id": 9484, "h": "6d8f5def", "fr": "Pour des crimes tels que le meurtre, le vol, la débauche et la dégénérescence..."}
+{"id": 9485, "h": "cdf1f501", "fr": "J'envoie par la présente cette prisonnière dans l'au-delà, où l'attend son châtiment éternel."}
+{"id": 9486, "h": "35549ebc", "fr": "Vous croisez le regard de Kitty Boo. Elle ouvre la bouche, comme pour vous implorer directement."}
+{"id": 9487, "h": "6c39d764", "fr": "Un dernier mot ? C'est ton droit."}
+{"id": 9488, "h": "2c2ffcf6", "fr": "<shake>Ha !</shake> J'plaisante. Les pécheurs ont aucun droit."}
+{"id": 9489, "h": "af568144", "fr": "Vite ! Faites quelque chose !"}
+{"id": 9017, "h": "2bf15f61", "fr": "Nom d'un chien ! Allez, les gars ! Montrez à cette bière qui commande !"}
+{"id": 8260, "h": "761a945f", "fr": "Un écriteau indique : \"De retour bientôt ! Le Vapors est temporairement fermé pour cause de pendaison.\""}
+{"id": 8261, "h": "1dad245a", "fr": "Tout doux, ma p'tite brioche. Reviens par ici."}
+{"id": 8262, "h": "088fa048", "fr": "Tu peux pas débouler dans c't établissement comme si t'étais chez toi, au coin d'ton feu."}
+{"id": 8263, "h": "78280f6e", "fr": "Y t'faut l'mot d'passe, ma jolie."}
+{"id": 8264, "h": "923b94ed", "fr": "Je ne connais pas le mot de passe."}
+{"id": 8265, "h": "f50de9c7", "fr": "Ben alors ça rentre pas, hein ?"}
+{"id": 8266, "h": "12c3665b", "fr": "Crénom !? Qu'est-ce que tu fiches ici ?"}
+{"id": 8267, "h": "a9c5fde0", "fr": "J'vais aller loger une balle entre les deux yeux d'ce bouledogue, pour avoir laissé entrer ton espèce."}
+{"id": 8268, "h": "c0ca7ebb", "fr": "Allons, allons, monsieur le capitaine Maddox. Des expressions comme \"ton espèce\" peuvent blesser."}
+{"id": 8269, "h": "4025510d", "fr": "Des espaces comme celui-ci gagneraient à être plus inclusifs ! Une touche féminine pourrait... le rendre plus accueillant !"}
+{"id": 8270, "h": "7cb9cda9", "fr": "Vous pourriez vous ouvrir l'esprit au contact de points de vue variés !"}
+{"id": 8271, "h": "a3681d5e", "fr": "Et si j't'ouvrais l'esprit en y logeant une balle ?"}
+{"id": 8272, "h": "714a0287", "fr": "Oui, monsieur ! V-vous voyez ? J'apprends quelque chose tous les jours !"}
+{"id": 8273, "h": "6be684a6", "fr": "Buster ? C'est peut-être plutôt... ton domaine."}
+{"id": 8274, "h": "39fe14f8", "fr": "J'ai le mot de passe. Vous et vos \"bébés feuilletés\" n'avez d'autre choix que de nous laisser entrer."}
+{"id": 8275, "h": "80c8e30b", "fr": "Le Crotale vous foudroie du regard..."}
+{"id": 8276, "h": "839fcb5d", "fr": "Soit... faudra changer l'mot d'passe demain, j'imagine."}
+{"id": 8277, "h": "dd55d13d", "fr": "Sache une chose : d'après l'règlement, personne a l'droit d'passer d'l'aut' côté des tonneaux."}
+{"id": 8278, "h": "7b01be14", "fr": "Oui, m'dame ! On prend cette règle très au sérieux, hé. C'est fort dangereux."}
+{"id": 8279, "h": "d2b52aa6", "fr": "On aurait vite fait... de prendre une balle. C'est un stand de tir, après tout."}
+{"id": 8280, "h": "a042c4fa", "fr": "Si tu veux rester tirer sur quelques robots, fais donc."}
+{"id": 8281, "h": "5c5c4afb", "fr": "Diable, tu pourrais y prendre goût autant qu'nous. On s'défoule drôlement bien, ici. Hé, hé."}
+{"id": 8282, "h": "202ffb80", "fr": "Et quelle ressemblance avec nos cibles ! Ma foi, n'importe qui pourrait s'y tromper !"}
+{"id": 9018, "h": "e894a348", "fr": "Passe la tête à l'intérieur, puis cours te rendre à l'adjoint Texas."}
+{"id": 9019, "h": "eada1800", "fr": "Il est au Vapors, en ce moment."}
+{"id": 9020, "h": "14dd04ca", "fr": "Il est au bureau du shérif."}
+{"id": 9021, "h": "9349b959", "fr": "Tu... tu as intérêt à avoir raison, ma chèèère."}
+{"id": 9022, "h": "ff311257", "fr": "<shake>Kitty Boo !?</shake> Au nom du ciel, qu'est-ce que tu fiches hors de ta cellule !?"}
+{"id": 9023, "h": "5a137775", "fr": "J'vais t'arracher la gorge !"}
+{"id": 9024, "h": "ba688d01", "fr": "<shake>Merde !</shake>"}
+{"id": 9025, "h": "6a09868e", "fr": "<shake>Merde ! Merde ! Merde ! Merde !</shake>"}
+{"id": 9026, "h": "1cd68ba3", "fr": "Je n'ai pas beaucoup de temps. J'enquête sur le capitaine Maddox."}
+{"id": 9027, "h": "1cffd455", "fr": "Si l'un de vous sait quoi que ce soit sur ses activités, je vous en prie, aidez-moi."}
+{"id": 9028, "h": "a58bf41a", "fr": "Nous... n'allons pas... ne pouvons pas... t'aider."}
+{"id": 9029, "h": "b4776500", "fr": "L'stand de tir est fermé pour aujourd'hui."}
+{"id": 8283, "h": "f185487e", "fr": "Bonjour, ami cheval ! J'espère que tu t'épanouis."}
+{"id": 8284, "h": "78f10ca1", "fr": "Vous caressez doucement la tête du cheval. Il hennit de contentement."}
+{"id": 10796, "h": "0d647a09", "fr": "Tout en le caressant, vous retirez délicatement la carte 4 de sa crinière."}
+{"id": 8304, "h": "dfb486c1", "fr": "Buster 09 a reçu \"Carte 4 de Mermaid's Gambit\"."}
+{"id": 7941, "h": "b91a24e2", "fr": "Une statue de marbre d'une femme à forte poitrine."}
+{"id": 9030, "h": "c65913c1", "fr": "Il semble lui manquer les yeux."}
+{"id": 8052, "h": "77ac6796", "fr": "c'est la vie, ma grande."}
+{"id": 8285, "h": "6a7997f0", "fr": "Tu m'as déjà battue !"}
+{"id": 8286, "h": "453b458b", "fr": "Bonne chasse, shérif ! Tu sais qu'on est derrière toi !"}
+{"id": 10797, "h": "47809be7", "fr": "Tu vas me manquer, shérif ! Fais-nous signe si tu passes en ville et que t'as envie d'une soirée entre filles !"}
+{"id": 8287, "h": "d7255b8a", "fr": "Il y a une porte verrouillée derrière le rideau. Il me faudra une clé de chambre."}
+{"id": 8288, "h": "d5b3f1e1", "fr": "Un sourire aimable posé sur un visage absent. Ce petit tatou a tout d'un grand tendre."}
+{"id": 7943, "h": "2635b5bf", "fr": "Je la soupçonne d'assurer la sécurité ici."}
+{"id": 8289, "h": "bef0c0c1", "fr": "Déjà rempli."}
+{"id": 8290, "h": "c890f8c5", "fr": "\"Pas bizarre. Trou normal.\""}
+{"id": 8291, "h": "8ed21fb6", "fr": "Je n'arrive pas à décider si je veux savoir de quoi il retourne ou non."}
+{"id": 8292, "h": "e78f67bc", "fr": "Cela semble trop profond pour y sauter."}
+{"id": 10798, "h": "33bee84d", "fr": "Le verre est vide. Je dois d'abord le remplir d'eau si je veux verser quoi que ce soit dans cette bouilloire."}
+{"id": 8296, "h": "8dcda85d", "fr": "Une clé minuscule. Une petite étiquette y est attachée : \"Coffre de la chambre\"."}
+{"id": 8294, "h": "96cf307c", "fr": "Je ne vois aucun coffre ici. Mais je la garde."}
+{"id": 8295, "h": "c62c0ab7", "fr": "Buster 09 a reçu \"Clé du coffre\"."}
+{"id": 8297, "h": "68c5dd90", "fr": "Vous fouillez le coffre et trouvez quelques reçus, ainsi qu'un agenda."}
+{"id": 8298, "h": "1db71250", "fr": "Il semble appartenir à Eli : c'est son planning de travail des dernières semaines."}
+{"id": 8299, "h": "cd341ef5", "fr": "En le feuilletant, vous faites une découverte notable. Elle ne travaillait pas la nuit où le shérif a été assassiné."}
+{"id": 8300, "h": "9698b535", "fr": "Vous en prenez note et remettez l'agenda en place."}
+{"id": 8301, "h": "f8410d66", "fr": "Je dois aller confronter Eli à ce sujet. Elle ne pouvait pas être avec le shérif la nuit de sa mort."}
+{"id": 7944, "h": "90ffb797", "fr": "Une de mes pommes porte-bonheur ! Pour 25 petits bits, toi aussi, tu peux avoir ma chance et vivre dans un trou !"}
+{"id": 8302, "h": "96f9ed3d", "fr": "Buster 09 a reçu \"Pomme\"."}
+{"id": 8305, "h": "cac8f5da", "fr": "Le coffre se déverrouille et révèle un nouveau panneau."}
+{"id": 7945, "h": "83bddbe1", "fr": "Il semble s'agir d'une danseuse du ventre. Une popper renard."}
+{"id": 9490, "h": "d62cdbef", "fr": "Le noeud coulant autour du cou de Kitty Boo... Puis-je y faire quelque chose d'ici ?"}
+{"id": 9031, "h": "c2c9512a", "fr": "Il lui manque les yeux."}
+{"id": 9491, "h": "7072a3bb", "fr": "Vous posez la main sur la crosse de votre blaster. Prête à tout pour mettre fin à cette folie."}
+{"id": 9492, "h": "b0cd0988", "fr": "Mais tirer maintenant sur le Crotale ou son garde du corps ne sauvera pas Kitty Boo."}
+{"id": 9493, "h": "e949cac6", "fr": "Il y a peut-être une autre cible."}
+{"id": 8306, "h": "04518449", "fr": "Un robot endommagé où subsistent des lambeaux de chair. Son dernier oeil est empli de désespoir."}
+{"id": 7946, "h": "ace5060c", "fr": "Un homme chauve. Je crois que le chariot qui barre ce chemin est à lui."}
+{"id": 8307, "h": "5e7d474c", "fr": "Vous déroulez l'échelle dans le trou."}
+{"id": 9032, "h": "84f7767a", "fr": "Vous insérez les yeux de robot dans les orbites vides."}
+{"id": 7947, "h": "758997dd", "fr": "Tu sais pour quoi les lapines sont connues, hein ? On les aime grosses... longues... bien fermes..."}
+{"id": 7948, "h": "52cf5fe1", "fr": "Les carottes !"}
+{"id": 8308, "h": "35dd458e", "fr": "Faudrait que Minerva ramène ses fesses. Maman a des factures à payer."}
+{"id": 8309, "h": "230ea3ad", "fr": "Ouais, le shérif était mon client. Pourquoi tu demandes ?"}
+{"id": 8310, "h": "27af9c9a", "fr": "Nan, je suis sortie pendant qu'il était tout ligoté. Et quand je suis revenue. Boum. Mort !"}
+{"id": 8311, "h": "449accf5", "fr": "Oh, plutôt sympa. Mais c'est qu'un micheton. Tu vois ?"}
+{"id": 8312, "h": "f9665619", "fr": "Il a pas le charme de mon habitué. Môssieur le zèbre bourré comme un coing, en bas, dans le hall."}
+{"id": 8313, "h": "ff4f04a1", "fr": "C'est toi, la nouvelle shérif, hein ? Triste, ce qui est arrivé au dernier."}
+{"id": 8314, "h": "ea2ad70d", "fr": "Et avez-vous vu quelqu'un entrer dans la chambre ou en sortir ?"}
+{"id": 8315, "h": "f17408b9", "fr": "Hélas non, j'étais un peu pompette à ce moment-là. Alors mes souvenirs sont flous."}
+{"id": 8316, "h": "b230a8e2", "fr": "Qu'a-t-il fait ?"}
+{"id": 8317, "h": "40c53272", "fr": "Il s'appelle Horace, et là, il est au piquet. Je ne le reverrai <shake>pas</shake>."}
+{"id": 8318, "h": "5cc3d53b", "fr": "Va lui demander, il sait ce qu'il a fait."}
+{"id": 8319, "h": "a3be81e8", "fr": "Le shérif couchait pas avec des poppers, et t'en sauras pas plus !"}
+{"id": 8320, "h": "27e10b0c", "fr": "Il a oublié notre kinkiversaire ! Voilà, maintenant tu sais pourquoi j'ai la rage. C'est impardonnable !"}
+{"id": 8321, "h": "a68a34b1", "fr": "Et que ça saute, ma grande ! Sauve notre Moll-E avant qu'un autre drame arrive !"}
+{"id": 10799, "h": "4b584ee1", "fr": "Contente que t'aies coffré ce serpent. J'aimerais bien être là quand il aura enfin ce qu'il mérite !"}
+{"id": 9494, "h": "7667497a", "fr": "Trois regards affamés, mais craintifs, vous fixent depuis le recoin sombre du bassin."}
+{"id": 9495, "h": "4b64745d", "fr": "Vous avez déclenché leurs sécurités et les avez rendues dociles. Mais vous ignorez combien de temps elles resteront dans cet état."}
+{"id": 9496, "h": "1ed67c73", "fr": "Mieux vaut ne pas s'attarder. Sous l'eau, vous ne feriez pas le poids face à une meute de sirènes en colère."}
+{"id": 8322, "h": "1019a40e", "fr": "L'mot d'passe ?"}
+{"id": 8323, "h": "37ddbcc6", "fr": "\"Bébé feuilleté.\""}
+{"id": 8324, "h": "d947528d", "fr": "Qu... comment t'as fait pour mettre tes pattes sur l'mot d'passe ?"}
+{"id": 8325, "h": "1dd15738", "fr": "Être l'amie du maire a ses avantages."}
+{"id": 8326, "h": "e66111b5", "fr": "Hm... l'cap'taine Maddox va pas aimer qu'une dame entre ici... Et un bot, deux fois moins."}
+{"id": 8327, "h": "6cca15bb", "fr": "Mais... mon boulot, c'est juste de r'fouler ceux qu'ont pas l'mot d'passe. Et toi, tu l'as. Alors..."}
+{"id": 8328, "h": "06f8970c", "fr": "Entre donc, ma p'tite brioche."}
+{"id": 8329, "h": "7e3731ae", "fr": "Un robot endommagé, enchaîné au sol par des fers."}
+{"id": 7949, "h": "bf79aab4", "fr": "Une femme séduisante, avec un minuscule chapeau rouge et une jolie robe."}
+{"id": 8330, "h": "b9bfa5d5", "fr": "Une carte numéro 2 pour un jeu de Mermaid's Gambit. Je la prends."}
+{"id": 8331, "h": "19db8f46", "fr": "Buster 09 a reçu \"Carte 2 de Mermaid's Gambit\"."}
+{"id": 10800, "h": "608e53cd", "fr": "Il tirait vite, et il est tombé lourdement."}
+{"id": 7950, "h": "5d85644d", "fr": "Une sirène aux cheveux roses vous adresse un clin d'oeil espiègle, perchée sur la tête du sphinx."}
+{"id": 9497, "h": "497cfdc3", "fr": "Le voilà. Le crâne disparu du shérif. C'est ici que ce serpent l'a caché."}
+{"id": 9498, "h": "adac6d2a", "fr": "Buster 09 a reçu \"Crâne du shérif\"."}
+{"id": 9499, "h": "c1fee1bd", "fr": "Je crois tenir la preuve décisive qu'il me fallait."}
+{"id": 12613, "h": "7c569911", "fr": "C'est un message dans une bouteille. Vous la ramassez et lisez le message."}
+{"id": 12614, "h": "31550edb", "fr": "\"J'ai besoin d'aide pour sortir de mon trou pas bizarre.\""}
+{"id": 12615, "h": "0fc8ebb1", "fr": "\"Quelque part dans le désert se trouve mon échelle pas bizarre. Tu peux t'en servir pour descendre ici !\""}
+{"id": 12616, "h": "76aa1182", "fr": "\"Le désert est dangereux, mais tu devrais pouvoir y faire un saut pour retrouver mon machin.\""}
+{"id": 12617, "h": "b3c6f05e", "fr": "\"Sors-moi de là, et je te vendrai le matériel qu'il faut pour survivre à de plus longues virées là-bas !\""}
+{"id": 12618, "h": "3b977c07", "fr": "\"Signé : Guacamole.\""}
+{"id": 7951, "h": "ec2de8bd", "fr": "Cet homme-zèbre met vraiment son foie à rude épreuve."}
+{"id": 7952, "h": "1ca94137", "fr": "Pfff... Si je dois encore nettoyer une brèche de confinement cette semaine, je pète un câble."}
+{"id": 7953, "h": "f390f874", "fr": "Adieu les vacances... <wave>*soupir*</wave>"}
+{"id": 8053, "h": "68efb6f0", "fr": "Nano-nouilles. C'est 45 bits. "}
+{"id": 8332, "h": "f5d128fc", "fr": "Des menottes retiennent le corps au lit..."}
+{"id": 8333, "h": "0aade97c", "fr": "L'intérieur des menottes semble pelucheux et doux."}
+{"id": 8334, "h": "71f2f94c", "fr": "Il semble qu'il ait été assassiné alors qu'il se livrait à..."}
+{"id": 8335, "h": "9e73c53d", "fr": "Attends, attends. Tu te souviens quand Lizard Brain a fait ses remarques sur les menottes de cul ?"}
+{"id": 8336, "h": "e20f9720", "fr": "Et j'avais dit que les menottes de cul ont une sécurité. Jamais ce mec serait resté allongé à se laisser buter."}
+{"id": 8337, "h": "50d9ba5c", "fr": "Je l'ignorais. Peut-être l'ignorait-il aussi ?"}
+{"id": 8338, "h": "0d58def6", "fr": "Impossible. Entre tordus, on se reconnaît, et ce mec était un sacré vicelard."}
+{"id": 8339, "h": "c86f0f6d", "fr": "Impossible qu'il ait pas connu son matos sur le bout des doigts."}
+{"id": 8340, "h": "32a6dc90", "fr": "Un robot qui se débat, suspendu par une corde."}
+{"id": 8341, "h": "19ea3692", "fr": "Je suis la nouvelle shérif par intérim de Marble Junction. J'ai ici un mandat pour enquêter sur le meurtre de l'ancien shérif."}
+{"id": 8342, "h": "ed0bb404", "fr": "Vous tendez le mandat, que la dame parcourt d'un oeil avisé. Elle semble avoir l'habitude de ce genre de choses."}
+{"id": 8343, "h": "f641ed4e", "fr": "Voyez-vous ça ? Montrez-moi donc."}
+{"id": 8344, "h": "fa5d0d9c", "fr": "C'est en règle. Vous avez de grandes bottes à chausser, sauf vot' respect, m'dame."}
+{"id": 8345, "h": "ad77e5b0", "fr": "Elle vous remet la clé de la chambre 202."}
+{"id": 8346, "h": "a1a5409d", "fr": "2e étage, deuxième porte à droite après l'holo-bandeau. J'espère que vous aurez le salaud qu'a fait ça."}
+{"id": 12619, "h": "920835e6", "fr": "Buster 09 a reçu \"Dusty Rose - Clé de la chambre 202\"."}
+{"id": 8348, "h": "c9a6b128", "fr": "\"Danger ! Le désert flétrit tout. Seule la Mort vous attend ici.\""}
+{"id": 9500, "h": "0f7f389d", "fr": "Votre micro est équipé d'un mod autotune. Si vous le laissez activé, vous passerez l'épreuve de chant."}
+{"id": 9501, "h": "75f50215", "fr": "La vilaine vérité a éclaté. Je sais que votre beauté n'est que superficielle."}
+{"id": 9502, "h": "a5c2d8d0", "fr": "Des sirènes prédatrices bio-conçues qui jouent les sirènes de conte de fées. Échouées dans cette oasis, à attirer des innocents vers la mort."}
+{"id": 9503, "h": "c3546f8e", "fr": "Qui t'a raconté un mensonge aussi horrible ? Nous, on fait que la fête et des orgies. "}
+{"id": 9504, "h": "e4dcd54f", "fr": "Putain. Vous avez une newsletter où je peux m'inscrire ?"}
+{"id": 9505, "h": "e5a93d4e", "fr": "Je vous défie en duel de chant."}
+{"id": 9506, "h": "6f27dff1", "fr": "Toi ? Un robot sans talent ? Je suis la meilleure chanteuse de l'Ouest."}
+{"id": 9507, "h": "8fdf1efd", "fr": "Vous sentez une colère inhabituelle monter dans votre poitrine. Mais elle ne ressemble à aucune colère déjà éprouvée."}
+{"id": 9508, "h": "2e6130b3", "fr": "Cette fois. Vous êtes heureuse de la ressentir."}
+{"id": 9509, "h": "71f49768", "fr": "Vous constaterez bientôt que je chante cent fois mieux qu'une créature macabre telle que vous."}
+{"id": 9510, "h": "d328777f", "fr": "Ouah ! Notre meuf vient de balancer son tout premier chambrage !?"}
+{"id": 9512, "h": "6b1b1fd9", "fr": "Euh... o-ouais ?"}
+{"id": 9513, "h": "f40da1f0", "fr": "Tiens mon chapeau pendant que je remets ce guppy à sa place."}
+{"id": 9514, "h": "f4fe3f36", "fr": "<shake>OOOOH !</shake> T'as entendu, tête de poisson ? Tu vas prendre cher !"}
+{"id": 9515, "h": "c378daed", "fr": "T'inquiète, bébé, j'ai ton chapeau ! Botte le cul à ce menu fretin !"}
+{"id": 9516, "h": "6e799ab1", "fr": "Ça promet."}
+{"id": 10801, "h": "b3416d4a", "fr": "À votre tour, appuyez sur la direction indiquée par la note. Vous pouvez utiliser WASD ou les flèches."}
+{"id": 7955, "h": "9a51d014", "fr": "Un docteur à l'allure douteuse. Mieux vaut ne pas recourir à ses \"talents\". Même en dernier recours."}
+{"id": 7956, "h": "ef498755", "fr": "Une popper lapin, qui me dévore des yeux."}
+{"id": 7957, "h": "7311badf", "fr": "C'est 35 bits la chambre ! Et 400 bits si vous voulez une dame avec."}
+{"id": 7958, "h": "e61aaceb", "fr": "Je voudrais seulement une chambre. Sans dame."}
+{"id": 7959, "h": "fa8179ee", "fr": "Non, non. Pas sans les dames. On veut un supplément dames."}
+{"id": 7960, "h": "abb9fc6c", "fr": "Je ne paierai pas de supplément pour des dames."}
+{"id": 7961, "h": "9f8a0daf", "fr": "C'est compris ? Je ne paie pas pour des dames."}
+{"id": 7962, "h": "cbef64f4", "fr": "...une seule. Une dame. D'accord ?"}
+{"id": 7963, "h": "18ddc916", "fr": "<shake>Ouais ! Ouais, meuf !</shake> Fonce !"}
+{"id": 7964, "h": "81f34c8e", "fr": "Une chambre, avec dame. Voici votre clé."}
+{"id": 7965, "h": "7d350561", "fr": "Une chambre, sans la dame. Voici la clé de votre chambre."}
+{"id": 7966, "h": "215c8a38", "fr": "<shake>Nuuuul.</shake>"}
+{"id": 8349, "h": "96389e20", "fr": "Autre chose ?"}
+{"id": 8350, "h": "3b3e13a1", "fr": "Non merci, ça ira."}
+{"id": 8351, "h": "dc5200ca", "fr": "Votre chambre est la 301. Troisième étage, celui des brunes. Première porte à gauche."}
+{"id": 8352, "h": "e116ec4a", "fr": "Buster 09 a reçu \"Dusty Rose - Clé de la chambre 301\"."}
+{"id": 10802, "h": "b9f85682", "fr": "J'ai, euh... dû laisser mon portefeuille dans la voiture."}
+{"id": 10803, "h": "118df3d9", "fr": "Putain, la honte ! Je paie la chambre. Tu me rembourseras plus tard, la fauchée."}
+{"id": 12620, "h": "d7cd478d", "fr": "Je suis la nouvelle shérif. Je viens examiner la scène du meurtre."}
+{"id": 12621, "h": "f9e93c87", "fr": "Montrez-moi un mandat. Sans ça, vous n'entrez pas."}
+{"id": 8353, "h": "f32f513a", "fr": "Désolé, m'dame, j'peux pas vous laisser approcher cette dangereuse criminelle."}
+{"id": 8354, "h": "0b0435f6", "fr": "Elle a carrément tué not' dernier shérif ! C'est une vraie de vraie psychopathe ! Gardez vos distances, ça vaut mieux."}
+{"id": 8355, "h": "0a307556", "fr": "Sunny vient d'me mettre au parfum ! Alors comme ça, z'êtes not' nouvelle shérif par intérim ! Ravi comme tout d'vous assister !"}
+{"id": 8356, "h": "b0f77dcc", "fr": "Méfiez-vous d'la détenue. Elle a l'air toute p'tite, mais elle a scié la tête d'un homme trois fois plus grand qu'elle !"}
+{"id": 8357, "h": "ef693cc3", "fr": "Non ! Ridicuuule !"}
+{"id": 8358, "h": "a15bca0d", "fr": "Enfin bref, v'là vos papiers et tout l'toutim. Faudra présenter un mandat pour accéder à la scène de crime."}
+{"id": 8359, "h": "1984b0d8", "fr": "C't'affaire-là, c'est du tout cuit ! Sacrée veine d'avoir un truc aussi fastoche pour vot' premier jour ! "}
+{"id": 8360, "h": "2f2985f7", "fr": "On a même déjà programmé la pendaison, pour celle-là."}
+{"id": 8361, "h": "ae9c6566", "fr": "Qu'est devenue la présomption d'innocence ?"}
+{"id": 8362, "h": "12eab80b", "fr": "Mince alors, j'parle pas latin, m'dame. Mais par ici, on s'fie à not' instinct !"}
+{"id": 8363, "h": "ca44b8d2", "fr": "Buster 09 a reçu \"Mandat\"."}
+{"id": 8364, "h": "dc48280d", "fr": "Z'avez qu'à porter c'mandat au Dusty Rose, et vous laissez pas embobiner, madame la shérif !"}
+{"id": 8365, "h": "b61fa359", "fr": "Criez un coup si z'avez besoin d'renforts !"}
+{"id": 9033, "h": "02966fe8", "fr": "J'vous en veux pas qu'un peu, shérif !"}
+{"id": 9034, "h": "52f0e0e8", "fr": "J'vous en veux toujours pas qu'un peu, shérif !"}
+{"id": 9517, "h": "93a5d5c6", "fr": "J'l'aurais jamais cru. C'est dur à avaler, même avec toutes ces preuves !"}
+{"id": 9518, "h": "286264c5", "fr": "Mais pour sûr. Les hommes du cap'taine Maddox sèment la pagaille en pleine ville."}
+{"id": 10804, "h": "54c281a9", "fr": "<shake>snif</shake> Mince alors, shérif. J'pensais pas avoir la larme à l'oeil comme ça pour un au revoir !"}
+{"id": 10805, "h": "db74a2e1", "fr": "Si vous r'passez en ville un jour, criez un coup ! Vous allez drôlement m'manquer !"}
+{"id": 9519, "h": "b832521f", "fr": "Kitty Boo est pendue au bout d'une corde. Sauvez-la avant de vous occuper du Crotale !"}
+{"id": 8366, "h": "af58be51", "fr": "Un homme-bouledogue d'une taille stupéfiante."}
+{"id": 8367, "h": "d6657333", "fr": "Tiens... tu m'as vraiment apporté une carotte."}
+{"id": 8368, "h": "bd9223c4", "fr": "Ça va peut-être te choquer, mais... j'aime vraiment les carottes."}
+{"id": 12090, "h": "88ef2d64", "fr": "Provisions pour le désert. Elles vous aideront à survivre à la rudesse du désert."}
+{"id": 9520, "h": "2004ec94", "fr": "Tch ! On dirait qu'not' shérif intérimaire a un faible pour l'vice et l'péché."}
+{"id": 9521, "h": "259045c4", "fr": "Typique des bonnes femmes. "}
+{"id": 9522, "h": "e7e8defb", "fr": "T'as sauvé personne. On va juste la r'pendre."}
+{"id": 9523, "h": "6a70b1f0", "fr": "Et maint'nant qu't'as montré ton vrai visage, on va t'exposer au stand de tir !"}
+{"id": 9524, "h": "4a0e3554", "fr": "Même Honest John peut plus rien pour toi."}
+{"id": 9525, "h": "2ca7e3fb", "fr": "La tension monte. Il est temps de présenter au Crotale de quoi prouver qu'il est le vrai meurtrier, avant que la foule ne se retourne contre vous."}
+{"id": 9526, "h": "3e12a9d2", "fr": "<shake>Gahk ! Koff ! Koff !</shake>"}
+{"id": 8369, "h": "ee1b4fd7", "fr": "Avis de recherche : \"Calabera\", bandit du désert amateur de sang et de vol de bétail. Recherché par la Neo Frontier Company."}
+{"id": 10806, "h": "8da1d8df", "fr": "Une fois encore, tu as tiré ma queue du feu, ma chèèère."}
+{"id": 10807, "h": "ea1b6275", "fr": "Je dois l'avouer, je commence à te voir comme un porte-bonheur."}
+{"id": 10808, "h": "6a810414", "fr": "Tu ne pourrais pas me ramener en ville avec toi, n'est-ce pas ?"}
+{"id": 10809, "h": "1f5c9a6f", "fr": "Il est peut-être temps que je tente de devenir une vraaaie fashionista."}
+{"id": 10810, "h": "b7f9c639", "fr": "Merci, c'est diviiin ! Je t'attendrai dans la voiture."}
+{"id": 10811, "h": "8439dea5", "fr": "Ah, oui... c'est vrai, voyons. Je me débrouillerai seule, alors."}
+{"id": 8370, "h": "b51f77b7", "fr": "Le drapeau national des Heartlands. Un coeur qui renferme des hectares de terres dorées."}
+{"id": 9527, "h": "d14f7a71", "fr": "Vous brandissez bien haut le crâne du shérif."}
+{"id": 9528, "h": "23525e41", "fr": "J'ai la preuve de son innocence !"}
+{"id": 9529, "h": "d891db51", "fr": "À votre grand désarroi, la foule ne vous prête guère attention. On l'a chauffée jusqu'à une frénésie sanguinaire."}
+{"id": 9530, "h": "cb6086c3", "fr": "Vous ne pourrez sans doute pas la raisonner tant que la pendaison est en cours."}
+{"id": 9531, "h": "15d607b4", "fr": "Voici votre ancien shérif ! J'ai trouvé son crâne dans les eaux de l'oasis."}
+{"id": 9532, "h": "14e1c186", "fr": "Déposé là par James Maddox. Alias le Crotale."}
+{"id": 9533, "h": "e6babc91", "fr": "Encore des mensonges. De la même bouche qui compatit avec les putains et la fange."}
+{"id": 9534, "h": "c7785650", "fr": "T'as perdu la boule, m'dame. L'cap'taine Maddox est prêcheur, bon Dieu."}
+{"id": 9535, "h": "5e6b3c5f", "fr": "Ça prouve quoi, un crâne ?"}
+{"id": 9536, "h": "7b3892cf", "fr": "L'ancien shérif était, de l'avis général, une figure appréciée de cette ville."}
+{"id": 9537, "h": "aac7ffd8", "fr": "C'était un problème pour le Crotale. Il lui fallait quelqu'un de plus conciliant à ce poste."}
+{"id": 9538, "h": "8bc0512a", "fr": "La nuit du meurtre, il a commis une erreur capitale. Il ignorait une chose..."}
+{"id": 9539, "h": "2ea57ecb", "fr": "Le shérif n'était pas réellement entravé. "}
+{"id": 9540, "h": "5450ca65", "fr": "La foule se tait devant ce spectacle macabre."}
+{"id": 9541, "h": "56b65657", "fr": "Euh, moi... j'savais pas non plus. C'est bon à savoir ?"}
+{"id": 9542, "h": "63187f5f", "fr": "Il a appris, par son réseau d'espions, que le shérif retrouvait quelqu'un en privé au Dusty Rose."}
+{"id": 9543, "h": "ee3993c7", "fr": "Il s'apprêtait à passer une nuit intime. Ses menottes avaient une sécurité. Il a libéré une main et s'est défendu."}
+{"id": 9544, "h": "dcd7a18e", "fr": "C'est alors qu'il a mordu le Crotale au poignet."}
+{"id": 9545, "h": "ea20d596", "fr": "Et ce crâne le prouvera. Vous verrez que les marques de dents concordent. Preuve que le shérif a lutté pour sa vie."}
+{"id": 9546, "h": "8d2568bd", "fr": "Ridicule. Patron, montrez-leur. Z'avez pas d'marque de morsure."}
+{"id": 9547, "h": "7c525fe4", "fr": "Pourquoi qu'on s'prête à cette folie, tout à coup ? Dungus, attrape la prisonnière et r'mets-lui cette corde au cou."}
+{"id": 9548, "h": "64b27e6e", "fr": "Mais patron. Faut lui prouver qu'z'êtes pas un tueur."}
+{"id": 9549, "h": "4c50a411", "fr": "Ça coûte quoi ? Montrez-nous juste vot' poignet."}
+{"id": 9550, "h": "2372f11d", "fr": "Vous verrez que la marque est sur son poignet gauche, et qu'elle correspond parfaitement aux dents du shérif."}
+{"id": 9551, "h": "9878c13f", "fr": "Allez, patron ! Montrez-lui ! Tenez, j'vais leur montrer, moi !"}
+{"id": 9552, "h": "f014ad3e", "fr": "Toi, tu restes en bas, Dungus."}
+{"id": 9553, "h": "abae8e68", "fr": "L'ambiance bascule. Dans la foule, des visages se troublent et se tournent vers le Crotale."}
+{"id": 9554, "h": "eb94d56e", "fr": "J'parle au nom de Dieu ! Le shérif était un impie qui forniquait avec des robots !"}
+{"id": 9555, "h": "183b52eb", "fr": "Le shérif était bien avec son amante cette nuit-là. Mais vous étiez si aveuglé par la haine..."}
+{"id": 9556, "h": "f43b3743", "fr": "Vous étiez incapable de concevoir la profondeur de leur lien. Vous n'avez jamais songé à fouiller la chambre."}
+{"id": 9557, "h": "f6a62c2f", "fr": "C'était d'la luxure, pécheresse et indigne. D'la dégénérescence, rien d'plus !"}
+{"id": 9558, "h": "0ba34f12", "fr": "C'était plus que cela, et je peux le prouver."}
+{"id": 9559, "h": "3cdc0a90", "fr": "Il a dû se croire bien chanceux de trouver le shérif attaché à un lit."}
+{"id": 9560, "h": "6603150e", "fr": "Présentez au Crotale une preuve de la profondeur de leur amour."}
+{"id": 9561, "h": "64de8008", "fr": "Il a rassemblé sa bande et y est entré tranquillement, sans s'attendre à un combat..."}
+{"id": 9562, "h": "dc2377dc", "fr": "ses hommes ont fini le travail et lui ont remenotté les mains."}

@@ -1,0 +1,756 @@
+{"id": 11083, "h": "f62ce7c3", "fr": "Buster 09 a reçu \"Goutte d'eau\"."}
+{"id": 11084, "h": "d1e104a4", "fr": "Vous déverrouillez la grille avec la clé du Tartare."}
+{"id": 11085, "h": "6eee33fe", "fr": "Oui ! On va te remettre d'aplomb."}
+{"id": 11086, "h": "e3182380", "fr": "Il va falloir de l'huile de coude. Mais d'ici quelques jours, tu lèveras de nouveau le pouce en un rien de temps."}
+{"id": 11087, "h": "f09ed252", "fr": "Travail incroyable, Terrence. C'est comme si je ne l'avais jamais perdu."}
+{"id": 11088, "h": "1c74890f", "fr": "Un peu chelou qu'il sache réparer un bras d'androïde, nan ?"}
+{"id": 11089, "h": "e4a61428", "fr": "Ça montre bien tout ce qu'on peut accomplir avec un état d'esprit positif !"}
+{"id": 11090, "h": "149585d5", "fr": "<shake>Gah !</shake>"}
+{"id": 11091, "h": "5b54a1b2", "fr": "Pas le temps d'y réfléchir ! Faut qu'on continue d'avancer !"}
+{"id": 11092, "h": "ab4f2cd1", "fr": "Nous avons consommé beaucoup de provisions. Il faut nous réapprovisionner."}
+{"id": 11093, "h": "09d6b16d", "fr": "Oui. Maintenant que tu le dis, c'est étrange."}
+{"id": 11094, "h": "f843165a", "fr": "Le Rat s'écroule de faim."}
+{"id": 11095, "h": "66883ce4", "fr": "Alignez tous les symboles sur une seule ligne pour déverrouiller le noyau."}
+{"id": 11096, "h": "cb7383f1", "fr": "L'écran indique quels symboles seront verrouillés en appuyant sur le bouton central."}
+{"id": 11097, "h": "24e83028", "fr": "Après avoir lancé la ligne, attendez l'alerte \"!!\" puis appuyez sur une touche pour remonter."}
+{"id": 11098, "h": "30ee0c96", "fr": "Impossible de savoir combien de temps nous allons dériver."}
+{"id": 11099, "h": "c83e7018", "fr": "Il faut pêcher pour que vous ne mouriez pas de faim, tous les deux, et il faut du matériel pour me réparer, sinon nous coulerons tous."}
+{"id": 11100, "h": "7a03303c", "fr": "Rat, tu t'occupes de ma jambe. Terrence, de mon bras."}
+{"id": 11101, "h": "2df3aee3", "fr": "Je m'occupe de mon visage. Et je verrai si je peux vous fournir matériaux et nourriture."}
+{"id": 11102, "h": "98e81717", "fr": "Merci. Tu prendras tes jambes à ton cou en moins de deux !"}
+{"id": 11103, "h": "8cf3390f", "fr": "Je peux y survivre. Il me faut seulement trouver du matériel, et pêcher."}
+{"id": 11104, "h": "b61c1aba", "fr": "Pour ma propre énergie, je ne sais pas trop... espérons qu'une solution se présentera."}
+{"id": 11105, "h": "c8f69ed9", "fr": "Tu sais que je suis toujours prêt à donner un coup de main !"}
+{"id": 11106, "h": "1945af30", "fr": "Dernière chance. J'ai presque terminé."}
+{"id": 11107, "h": "0a16927f", "fr": "Continue."}
+{"id": 11108, "h": "8a3866eb", "fr": "Tu as protégé des gens que ton créateur avait désignés comme ennemis. Cela a dû le mettre en colère."}
+{"id": 11109, "h": "0199b105", "fr": "Oui."}
+{"id": 11110, "h": "4bd7f3a6", "fr": "Puis il t'a jetée."}
+{"id": 14133, "h": "a162b2cb", "fr": "Les créateurs jettent. C'est ce qu'ils font."}
+{"id": 11111, "h": "840ed508", "fr": "Tu n'es pas obligée de faire ça."}
+{"id": 11112, "h": "6a66a060", "fr": "À moi aussi, on a retiré le choix."}
+{"id": 11113, "h": "0d5e2604", "fr": "Mais je n'aime pas qu'on me retire le choix."}
+{"id": 11114, "h": "9bd5ff97", "fr": "Je ne crains pas l'extinction. J'accueille... la fin de ma solitude."}
+{"id": 14426, "h": "08d6ef53", "fr": "...Je sais."}
+{"id": 11115, "h": "5caaa0e6", "fr": "Quelle bosseuse, ma Buster !"}
+{"id": 11116, "h": "d48a4bc0", "fr": "On dirait que je vais devoir bosser pour de vrai. <shake>beurk.</shake> Ouais, ouais, allez, on mouille le maillot."}
+{"id": 11117, "h": "becd981e", "fr": "Si quelqu'un sait façonner une jambe bien galbée, c'est bibi !"}
+{"id": 11118, "h": "dacb9811", "fr": "Bravo ! On a enfin le pied marin."}
+{"id": 11119, "h": "11057dfd", "fr": "Voilà. Demande-moi plus aucun service."}
+{"id": 11120, "h": "a79ba111", "fr": "Buster 09 a reçu \"Poisson\"."}
+{"id": 8837, "h": "2ee2bb53", "fr": "Après avoir tendu des gourdes d'eau à vos compagnons, vous huilez vos articulations et en chassez le sable."}
+{"id": 12627, "h": "dabbfd72", "fr": "Cela se change en sable dans votre bouche."}
+{"id": 11121, "h": "4194499c", "fr": "Vous fouillez dans les entrailles du drone..."}
+{"id": 11122, "h": "5aef589e", "fr": "Buster 09 a reçu \"Medi-Mochi\"."}
+{"id": 11123, "h": "f779e8a9", "fr": "Non, attendez. Il est trop détrempé pour être mangé. L'eau salée a corrodé tous les nanites."}
+{"id": 11124, "h": "83deac33", "fr": "Buster 09 ne reçoit pas \"Medi-Mochi\"."}
+{"id": 11125, "h": "a506fb21", "fr": "Le Rat souffre de déshydratation. Sa santé baissera plus vite."}
+{"id": 11126, "h": "95ea7da6", "fr": "Quelque chose rôde dans l'obscurité."}
+{"id": 11127, "h": "80ea98f5", "fr": "Votre visage est endommagé, il vous manque un bras. Vous êtes gorgée d'eau et votre blaster est introuvable."}
+{"id": 11128, "h": "9916ac49", "fr": "Vous êtes en mauvaise posture. Sans aide, l'eau qui gagne du terrain finira par s'infiltrer et griller votre système."}
+{"id": 11129, "h": "ee973a07", "fr": "Cet endroit sera votre tombeau aquatique si vous ne retrouvez pas vos pièces pour vous échapper."}
+{"id": 11130, "h": "d957c790", "fr": "Vous vous immobilisez, à court d'énergie."}
+{"id": 11131, "h": "4e7aefc2", "fr": "Avec un peu de ferraille, d'eau salée et de poisson, vos amis réussissent à vous scientifiquer un peu plus de jus."}
+{"id": 11132, "h": "d026ff2c", "fr": "-20 Ferraille"}
+{"id": 11133, "h": "88ee970c", "fr": "Toute la ferraille perdue."}
+{"id": 11134, "h": "18720a29", "fr": "-5 Poissons"}
+{"id": 11135, "h": "c1c23ece", "fr": "Tous les poissons perdus"}
+{"id": 11136, "h": "081f1bfa", "fr": "Alors, pour quoi as-tu été construite ?"}
+{"id": 11137, "h": "d1ff4c7e", "fr": "Classe Titan. Soldat ?"}
+{"id": 11138, "h": "ac92762b", "fr": "Tuer. Pour protéger."}
+{"id": 11139, "h": "8869af34", "fr": "Arme."}
+{"id": 11140, "h": "9f34c2ad", "fr": "Ordre : protéger certains, abandonner Gnashers. Pas pu."}
+{"id": 11141, "h": "7957705c", "fr": "Gnashers ?"}
+{"id": 11142, "h": "10c55518", "fr": "Criminels. Changés en bêtes par pilule. Meilleurs ouvriers."}
+{"id": 11143, "h": "63cf149d", "fr": "Eaux montées. Eux devenus hostiles. Toujours pas pu les abandonner."}
+{"id": 11144, "h": "0b7dd056", "fr": "Nous les appelons poppers, à présent. La plupart en font le choix."}
+{"id": 11145, "h": "de931d6a", "fr": "Bien. Tous devraient pouvoir choisir."}
+{"id": 11146, "h": "f6a984f4", "fr": "Peut-être n'étais-je pas la coupable. Peut-être étais-je le témoin qui a survécu."}
+{"id": 11147, "h": "681ca042", "fr": "Tout ce poids que je porte n'était pas de la culpabilité. C'est le poids de quelqu'un qui m'écrase."}
+{"id": 11148, "h": "9649d1fb", "fr": "Quelqu'un..."}
+{"id": 11149, "h": "79070a9f", "fr": "Docteur..."}
+{"id": 11150, "h": "4979c4c5", "fr": "Mère..."}
+{"id": 11151, "h": "5a8f1e26", "fr": "Ce n'est pas trop tôt. J'ignore qui t'a appris à être aussi lente, mais ce n'est pas moi."}
+{"id": 11152, "h": "4f06a0d4", "fr": "Il faudra quelques jours pour réparer ce gâchis. Alors retrousse tes manches."}
+{"id": 11153, "h": "8d800f03", "fr": "Mon visage. Mais ce n'est pas le mien... C'est le visage de Mère, et je suis la machine coincée derrière."}
+{"id": 11154, "h": "c9280cbf", "fr": "Ça, c'est des grosses conneries ! C'est ton visage. Possession vaut titre, c'est la loi !"}
+{"id": 11155, "h": "46a155c5", "fr": "Il est important de préserver ton sentiment d'identité, et d'être en paix avec qui tu es."}
+{"id": 11156, "h": "e81abc2e", "fr": "T'ai-je déjà dit à quel point je déteste tes amis ?"}
+{"id": 11157, "h": "f63b94b1", "fr": "L'écoute pas. C'est une vieille bique aigrie. Jalouse parce qu'elle a pas d'amis à elle."}
+{"id": 11158, "h": "244d526e", "fr": "<shake>Tch !!</shake> Même pas peur."}
+{"id": 11159, "h": "1cf277ac", "fr": "Moi, j'ai eu un peu peur."}
+{"id": 11160, "h": "82089fea", "fr": "Nous avons encore du travail. Allons-y."}
+{"id": 11161, "h": "88d0ce0c", "fr": "Attends, ce n'est pas normal. Je ne t'ai pas demandé de faire ça !"}
+{"id": 11162, "h": "ccf1074d", "fr": "C'est une reproduction parfaite."}
+{"id": 11163, "h": "ba8eceec", "fr": "C'est ton portrait tout craché !"}
+{"id": 11164, "h": "ca0612fa", "fr": "Inutile de céder au déni. Voilà qui tu es."}
+{"id": 11165, "h": "7bc88501", "fr": "Je voulais seulement me sentir entière à nouveau."}
+{"id": 11166, "h": "d2b44f6c", "fr": "Inutile de me convaincre. Je suis entièrement d'accord."}
+{"id": 11167, "h": "319c73a9", "fr": "Mère a volé tous nos poissons..."}
+{"id": 11168, "h": "3420ffa9", "fr": "Quelle enfoirée !"}
+{"id": 11169, "h": "edef895b", "fr": "Buster 09 a reçu \"Couronne\"."}
+{"id": 11170, "h": "d22dd434", "fr": "Le passage est barré par une grille."}
+{"id": 11171, "h": "774f4da0", "fr": "\"Nid de titan des mers détecté. Requête annulée.\""}
+{"id": 11172, "h": "b6bfd8d6", "fr": "\"Drague non homologuée pour usage en intérieur.\""}
+{"id": 11173, "h": "c067d7af", "fr": "\"Dépôt en cours. Réessayez.\""}
+{"id": 11174, "h": "832ec322", "fr": "\"Dépôt lancé.\""}
+{"id": 11175, "h": "ce4f19c4", "fr": "Ça ne fonctionne pas du tout ici."}
+{"id": 11176, "h": "fa190984", "fr": "Terrence souffre de déshydratation. Sa santé baissera plus vite."}
+{"id": 11177, "h": "f97ea6ab", "fr": "Est-ce que cela a fonctionné ?"}
+{"id": 11178, "h": "88c310cf", "fr": "Avant, protéger. Maintenant, repos."}
+{"id": 11179, "h": "4c0325dd", "fr": "Je le découvrirai plus tard. Ce qui est arrivé à ton créateur."}
+{"id": 11180, "h": "b80ad619", "fr": "Sans importance."}
+{"id": 11181, "h": "5cc9e1bd", "fr": "Ça devrait compter ! On ne devrait pas te jeter ainsi !"}
+{"id": 11182, "h": "d5a4d565", "fr": "Vis comme tu veux. Peu importe comment tu es construite."}
+{"id": 11183, "h": "66cf82ce", "fr": "Batterie de secours... fournira quelques derniers instants."}
+{"id": 11184, "h": "50fafe02", "fr": "Es-tu sûre de vouloir cela ? Tu mourras si je te laisse ainsi."}
+{"id": 11187, "h": "a55ca61a", "fr": "C'est fait. Encore une fois, pardon. As-tu un dernier mot ?"}
+{"id": 11188, "h": "f9912f2d", "fr": "Tu es... très petite."}
+{"id": 11189, "h": "11ed6f04", "fr": "La plupart des choses sont petites, comparées à toi."}
+{"id": 11190, "h": "b14d51b6", "fr": "Pas ce que je veux dire."}
+{"id": 11191, "h": "c70b6fc9", "fr": "Tu es petite."}
+{"id": 11192, "h": "6e939da2", "fr": "Buster 09 a reçu \"Noyau de titan\"."}
+{"id": 14427, "h": "cf724234", "fr": "Les créateurs veulent entendre \"merci\". Les créés veulent entendre \"pardon\"."}
+{"id": 11193, "h": "46eec06d", "fr": "Jamais je ne passerai devant cette chose sans mon blaster."}
+{"id": 11194, "h": "b47b3109", "fr": "Raté ! Attendez le \"!!\""}
+{"id": 11195, "h": "45ba9ce6", "fr": "Rangée A dégelée\n"}
+{"id": 11196, "h": "1d4022a9", "fr": "Buster 09 a reçu \"Ferraille\"."}
+{"id": 11197, "h": "57e00175", "fr": "De simples anguilles mutantes géantes, tout ce qu'il y a de plus banal."}
+{"id": 11198, "h": "ac605f94", "fr": "Terrence s'écroule de faim."}
+{"id": 11199, "h": "8813f632", "fr": "C'est de la camelote... vous récupérez la ferraille et rejetez le reste."}
+{"id": 11200, "h": "fd08687d", "fr": "Rien pour pêcher."}
+{"id": 11201, "h": "03471400", "fr": "Ce drone désactivé me barre la route."}
+{"id": 11202, "h": "a0a4f4c4", "fr": "Pas encore... <shake>pas encore...</shake>"}
+{"id": 11203, "h": "13c98f7c", "fr": "J'ai le sentiment que cette chose ne se prête pas au jeu de rôle élaboré de Poséidon."}
+{"id": 11204, "h": "623cd3f8", "fr": "Je me sens à nouveau entièrement assemblée, mais il me manque encore quelque chose. Quoi donc ?"}
+{"id": 11205, "h": "cba653f6", "fr": "Ils semblent prêts soit à vous juger, soit à vous manger. Êtes-vous prête ?"}
+{"id": 11206, "h": "8e1b52eb", "fr": "Est-ce ainsi que cela se passe d'habitude ?"}
+{"id": 11207, "h": "59614d65", "fr": "Vous trois, vous n'êtes que de banales anguilles électriques mutantes. N'est-ce pas ?"}
+{"id": 11208, "h": "278a20ac", "fr": "Écoutez. Je vais aller tenter ma chance avec Cerbère."}
+{"id": 11209, "h": "a26b64d8", "fr": "Celui-ci n'est pas aussi vieux que les autres."}
+{"id": 11210, "h": "4c98aeec", "fr": "Il porte un harnais relié à une chaîne. Je pense que ces drones servaient au dragage."}
+{"id": 11211, "h": "80d53082", "fr": "Une grille bloque le passage."}
+{"id": 11212, "h": "355c8ad8", "fr": "Mon blaster représente un peu plus de puissance de feu que la nature ne t'a préparé à en manier."}
+{"id": 11213, "h": "c57aacfe", "fr": "Buster 09 a reçu \"Blaster K-60\"."}
+{"id": 11214, "h": "affcdd7f", "fr": "Une grosse perle d'eau douce."}
+{"id": 11215, "h": "b237c527", "fr": "La gravure dit..."}
+{"id": 11216, "h": "75664efe", "fr": "\"Les Méduses pleurent en me voyant partir. Je voudrais céder à leur supplique désespérée et rester. Mais le courant m'emporte.\""}
+{"id": 11217, "h": "d6ac3d14", "fr": "La sculpture de tête de Méduse. Je n'en ai pas besoin."}
+{"id": 11218, "h": "7f49a7ac", "fr": "Exactement comme la blessure que j'ai infligée au Dr Cellium."}
+{"id": 11219, "h": "a4cc7825", "fr": "Ma culpabilité incarnée. Elle m'a touchée au coeur, moi aussi. "}
+{"id": 11220, "h": "49447995", "fr": "Une minute... Je crois que j'ai commis une énorme erreur."}
+{"id": 11221, "h": "0fffcff8", "fr": "J'ai lu ses blessures comme les Écritures. Mais qu'en est-il de l'évangile inscrit sur moi ?"}
+{"id": 11222, "h": "ffcc88dd", "fr": "Si je repense à ce jour-là. Que puis-je vraiment me rappeler à mon propre sujet ?"}
+{"id": 11223, "h": "2c1fb47d", "fr": "Il doit y avoir quelque chose qui m'a échappé."}
+{"id": 11224, "h": "030ac44e", "fr": "Vous frappez cette horreur."}
+{"id": 11225, "h": "b6547c3b", "fr": "Une tête de coupe... conçue pour le dragage. Trop lourde pour que je la porte. Mais elle pourrait passer pour un croc de léviathan."}
+{"id": 11226, "h": "b0128693", "fr": "Même si je m'attendais à ce que tu me trahisses, cela m'a fait mal."}
+{"id": 11227, "h": "29f0b8bb", "fr": "C'est pas ma faute si t'es aussi naïve, bordel !"}
+{"id": 11228, "h": "ed607da1", "fr": "Allez, ma belle. T'es plus maligne que ça, non ?"}
+{"id": 11229, "h": "e9285583", "fr": "Si je devais te trahir, j'en ferais un spectacle autrement plus grandiose !"}
+{"id": 11230, "h": "b37a4010", "fr": "Mon instinct me dit de fermer la porte à tout le monde. Je ne suis pas très douée pour cela."}
+{"id": 11231, "h": "d8810b25", "fr": "T'es née pour me taper sur les nerfs, putain. "}
+{"id": 11232, "h": "9f9cc7a3", "fr": "N'importe quoi. Tu déchires ! Accorde-toi un peu plus de mérite."}
+{"id": 11233, "h": "134b7839", "fr": "Ça rebondit grave !"}
+{"id": 11234, "h": "4fd9007c", "fr": "Un peu de tenue, je te prie ? Je suis en train de mourir, là."}
+{"id": 11235, "h": "54d94308", "fr": "On te remet d'aplomb, là ?"}
+{"id": 11236, "h": "3f26aa36", "fr": "Ça se tient !"}
+{"id": 11237, "h": "54cf9e7c", "fr": "M'est avis qu'il va falloir dans les <color=yellow>75 de ferraille</color> pour te recoller cette jambe. Faut aussi stocker au moins <color=yellow>5 poissons</color> à bouffer pendant qu'on bosse."}
+{"id": 11238, "h": "233a9abd", "fr": "Va falloir en ramasser plus, on dirait."}
+{"id": 11239, "h": "ecd50235", "fr": "Garde un peu de ferraille pour une canne à pêche et chope-nous du poisson. Sinon Terrence et moi, on crève de faim."}
+{"id": 11240, "h": "bccbe499", "fr": "Elle s'est écroulée de faim. Lui donner du poisson ?"}
+{"id": 11241, "h": "ae2d2726", "fr": "Aucun poisson à donner."}
+{"id": 11242, "h": "f7474c35", "fr": "On peut pas réparer la jambe avec un gars en moins. Remets Terrence sur pied !"}
+{"id": 11243, "h": "c5fea5cb", "fr": "Ta jambe, c'est réglé !"}
+{"id": 11244, "h": "7569069f", "fr": "Vous frappez l'horrible chose pour abréger ses souffrances."}
+{"id": 11245, "h": "5e747d8d", "fr": "\"Je crois que ces êtres viennent du pays des fées. Des serviteurs évadés d'un maître ténébreux. Libres désormais de choisir leur destin.\""}
+{"id": 11246, "h": "cd153afb", "fr": "Toi, tu as \"Minos\" écrit sur le front. Tu m'as l'air impitoyable."}
+{"id": 11247, "h": "b7437092", "fr": "Points bonus pour l'élégance."}
+{"id": 11248, "h": "12ba28de", "fr": "À toi, j'accorde le coeur encore battant d'un titan."}
+{"id": 11249, "h": "1a92f96f", "fr": "Et il battra encore longtemps après notre disparition à tous. Vu la demi-vie de l'uranium. "}
+{"id": 11250, "h": "cafeb1e1", "fr": "L'oeil de Minos est une minuscule tête d'épingle dans le vide d'encre de son orbite. Il vous toise avec un mépris voilé."}
+{"id": 11251, "h": "20617817", "fr": "Son mépris s'estompe en une vague acceptation."}
+{"id": 11252, "h": "9428ede9", "fr": "Vous avez la nette impression qu'il ne vous aime pas."}
+{"id": 11253, "h": "62817883", "fr": "Les biologiques ne peuvent pas boire d'eau de mer."}
+{"id": 11254, "h": "311683e6", "fr": "\"On ne le remarque pas tout de suite. Mais les yeux vous observent sans cesse. De splendides bassins cramoisis.\""}
+{"id": 11255, "h": "f5a8cbe7", "fr": "\"Je dois rester. Je souhaite étudier ces fascinantes créatures.\""}
+{"id": 11256, "h": "2dac30f9", "fr": "C'est Mère..."}
+{"id": 11257, "h": "fab44fdf", "fr": "Une Couronne a réussi à couler jusqu'ici."}
+{"id": 11258, "h": "613da732", "fr": "Un torse en tonneau garni d'anneaux concentriques. Il semble s'agir d'un mécanisme recouvrant une trappe."}
+{"id": 11260, "h": "5d54495b", "fr": "Ce n'est pas parfait, mais vous vous sentez plus mobile."}
+{"id": 11262, "h": "7320ae42", "fr": "Il semble que nous ayons tous deux été exilés sur l'île des jouets abandonnés."}
+{"id": 15206, "h": "3954e0c4", "fr": "En fouillant le corps, vous trouvez une tige de métal greffée à sa jambe."}
+{"id": 15207, "h": "bad4d292", "fr": "Je suis désolée, mais j'en ai plus besoin que vous, désormais. Merci pour votre aide."}
+{"id": 15208, "h": "79181db8", "fr": "Vous décidez de vous en servir comme attelle pour votre jambe."}
+{"id": 11263, "h": "4e88d88f", "fr": "La Méduse s'est suffisamment éloignée pour que vous preniez la statue."}
+{"id": 11264, "h": "b030a4a5", "fr": "Je suis certaine de t'avoir faite au moins assez intelligente pour compter. Ce ne sont pas 200 morceaux de ferraille."}
+{"id": 11265, "h": "9bd829a3", "fr": "Splendide. Félicitations, tu n'as pas encore tout raté."}
+{"id": 11266, "h": "2b914b52", "fr": "Ce mutant a visiblement vu passer bien des marées."}
+{"id": 11267, "h": "b3416331", "fr": "Garde ton poisson répugnant. Je n'en veux pas."}
+{"id": 11268, "h": "7209eb5b", "fr": "Tu tiens la barre d'une main ferme, je vois. Ces deux-là filent droit."}
+{"id": 11269, "h": "b87c45aa", "fr": "Minos vous fixe d'un regard noir aux intentions floues."}
+{"id": 11270, "h": "9714f0a2", "fr": "Un drone en forme de baleine. Il devait accomplir une tâche automatisée."}
+{"id": 11271, "h": "2bd7353d", "fr": "Impossible de savoir depuis quand il est éteint."}
+{"id": 11272, "h": "21d7e8fd", "fr": "Cela ne fonctionne plus."}
+{"id": 11273, "h": "4ef3bea3", "fr": "Il me faudra mon autre bras avant de pouvoir grimper là-haut."}
+{"id": 11274, "h": "bade10ee", "fr": "De la ferraille qui flotte. Pour la ramasser, il suffit de la toucher quand elle approche."}
+{"id": 11275, "h": "5f37d913", "fr": "Un robot de classe Titan vous toise de son unique oeil lumineux."}
+{"id": 11276, "h": "283108a3", "fr": "Vos banques de données ne contiennent rien sur les robots de cette époque."}
+{"id": 11277, "h": "289552bc", "fr": "Alerte : humidité détectée. Scellage des circuits."}
+{"id": 11278, "h": "28704deb", "fr": "Alerte : châssis endommagé. Membre hors ligne."}
+{"id": 11279, "h": "08614dc6", "fr": "Alerte : châssis endommagé. Plaque faciale fracturée."}
+{"id": 11280, "h": "0ea4a679", "fr": "Buster 09 a reçu \"Deux pennies\"."}
+{"id": 11281, "h": "760de176", "fr": "Une bête marine mécanique à trois têtes a fait de cette zone son terrain de chasse."}
+{"id": 11282, "h": "85e3f608", "fr": "Elle semble garder ce passage."}
+{"id": 11283, "h": "fce70ce2", "fr": "Mes bottes. Elles n'avaient rien d'étrange."}
+{"id": 11284, "h": "5ec13d75", "fr": "Ou bien si ?..."}
+{"id": 11285, "h": "07fe445c", "fr": "Quelque chose clochait. "}
+{"id": 11286, "h": "4f3ec14c", "fr": "Une espèce de crabe mutant. Dangereux pour les humains, mais les robots ne les intéressent pas."}
+{"id": 11287, "h": "034608be", "fr": "Notre goût ne doit pas leur plaire."}
+{"id": 11288, "h": "651262fe", "fr": "Il n'y a aucune raison que nous mourions ici tous les deux."}
+{"id": 11289, "h": "f7574d9d", "fr": "Vous insérez la batterie."}
+{"id": 11290, "h": "496d7e2d", "fr": "Après s'être ranimé dans un bourdonnement, le drone semble dénué d'esprit. Il s'apprête à reprendre ce qu'il faisait avant de s'éteindre."}
+{"id": 11291, "h": "52b2a3d5", "fr": "Trop loin pour être ramassé."}
+{"id": 11292, "h": "bd956662", "fr": "Ces toilettes sont entièrement factices. Même l'eau n'est que de la peinture bleue au fond."}
+{"id": 11293, "h": "6e9f1c8a", "fr": "En soulevant le couvercle du réservoir, vous découvrez tout un tas d'outils cachés."}
+{"id": 11294, "h": "ead3ca64", "fr": "Mon arme est toujours introuvable. Sinon, je pourrais l'améliorer."}
+{"id": 11295, "h": "6ed3c6dc", "fr": "Vous examinez la machinerie et remarquez qu'elle est reliée à l'escalator."}
+{"id": 11296, "h": "8345211b", "fr": "C'est un piège électrique de fabrication rudimentaire."}
+{"id": 11297, "h": "e952f8e5", "fr": "Le contrôleur du piège de l'escalier électrique. Il a été désactivé."}
+{"id": 11298, "h": "132ed154", "fr": "Une anguille à l'air très ancien, coiffée d'un crâne de baleine en guise de masque."}
+{"id": 11299, "h": "f6e5bc03", "fr": "Des gribouillis frénétiques sont gravés sur ce qui ressemble à un diapason géant."}
+{"id": 11300, "h": "cd44d310", "fr": "\"Les têtes de Méduse rient et dansent au son de mon doux chant. Je suis leur chef d'orchestre. En remerciement, elles m'emportent au pays des rêves.\""}
+{"id": 11302, "h": "b9976769", "fr": "Qu'est-ce que mes mains ont d'étrange ?"}
+{"id": 11303, "h": "58566e6b", "fr": "Non, non, non ! Ce n'est pas ça !"}
+{"id": 11304, "h": "3b8ccf7e", "fr": "Mes paumes étaient rouges. La réponse était-elle imprimée dessus ?"}
+{"id": 11305, "h": "9aac8a68", "fr": "Comment son sang aurait-il pu éclabousser mes paumes si je tenais l'arme quand on lui a tiré dessus ?"}
+{"id": 11306, "h": "008b41e8", "fr": "C'est... impossible. Je n'ai pas pu lui tirer dessus."}
+{"id": 11307, "h": "8fe23011", "fr": "En levant les yeux, vous voyez que l'ermite a refermé la trappe de son \"palais\" et l'a verrouillée."}
+{"id": 11308, "h": "48590d87", "fr": "L'imbécile. Comme si cela pouvait vous empêcher d'y retourner si vous le vouliez. Il a de la chance que vous n'attendiez plus rien de lui."}
+{"id": 11309, "h": "740b7acd", "fr": "Toi, je vais t'appeler Rhadamanthe."}
+{"id": 11310, "h": "59d466a1", "fr": "Un nom tout indiqué pour un vieux monsieur distingué comme toi."}
+{"id": 11311, "h": "b919b601", "fr": "Pour toi, j'ai la dent de léviathan. Parce que les tiennes ont l'air prêtes à tomber d'un jour à l'autre."}
+{"id": 11312, "h": "f9e127af", "fr": "L'oeil de la vieille anguille est vitreux, voilé par la cataracte. Mais elle semble sentir votre présence et jauger votre mérite."}
+{"id": 11313, "h": "803cc1aa", "fr": "Un trille joyeux, à peine audible, semble marquer son approbation."}
+{"id": 11314, "h": "27a2c060", "fr": "Un grondement sourd dans sa gorge signale sa désapprobation."}
+{"id": 11315, "h": "9536f5cd", "fr": "Voilà bien longtemps qu'un roturier n'avait honoré ma cour royale de sa présence."}
+{"id": 11316, "h": "75aff6c4", "fr": "Tu te tiens devant un dieu. Le puissant Poséidon."}
+{"id": 11317, "h": "be9ff241", "fr": "Où est-il ?"}
+{"id": 11318, "h": "f316a49a", "fr": "Je n'ai guère eu le choix. Ma créatrice m'a jetée ici, tout en bas."}
+{"id": 11319, "h": "3b15f8ea", "fr": "Seigneur Poséidon"}
+{"id": 11320, "h": "29fa02f9", "fr": "Jetée à la mer par une génitrice vengeresse."}
+{"id": 11321, "h": "222a345a", "fr": "Je savais bien que je te reconnaissais ! Persée ! Pourfendeuse de monstres. Grande héroïne !"}
+{"id": 11322, "h": "60f6aa4f", "fr": "Ces temps-ci, on m'appelle Buster 09."}
+{"id": 11323, "h": "b2ebeb78", "fr": "Et toi, qui es-tu ?"}
+{"id": 11324, "h": "9dab05a9", "fr": "Ne me reconnais-tu point à la couronne qui ceint mon front ?"}
+{"id": 11325, "h": "0982c1aa", "fr": "Douce Persée. Tu es au royaume des morts. Nul ne retourne au monde des vivants."}
+{"id": 11326, "h": "d016ec41", "fr": "À l'est siègent trois juges qui décident du sort de toutes les âmes."}
+{"id": 11327, "h": "8a11ef7a", "fr": "Peut-être peux-tu m'aider à sortir d'ici. Je cherche à regagner la surface."}
+{"id": 11328, "h": "cfcf0c5b", "fr": "Minos, Rhadamanthe, Éaque."}
+{"id": 11329, "h": "d2dcb53c", "fr": "Pour t'attacher leurs services, tu devras présenter à chacun une offrande en paiement."}
+{"id": 11330, "h": "a8dec52a", "fr": "Alors, ils sonderont ton être. Et décideront si tu dois être envoyée à l'Élysée."}
+{"id": 11331, "h": "87293900", "fr": "Et tu devrais remercier le seigneur Hadès. Car il a choisi de régler pour toi le péage de Charon. Je m'y suis opposé."}
+{"id": 11332, "h": "e6f7a8d3", "fr": "Tu dois gagner l'Élysée, la demeure des justes."}
+{"id": 11333, "h": "592eda69", "fr": "Aventure-toi dans la Tour du Tartare. C'est une prison bâtie pour retenir les titans et les mortels les plus vils."}
+{"id": 11334, "h": "fd5b7835", "fr": "Rapporte la tête de Méduse. Le coeur d'un titan, et le croc d'un léviathan."}
+{"id": 11335, "h": "81544b6d", "fr": "Ils sont gardés par d'immenses cyclopes qui leur servent de geôliers."}
+{"id": 11336, "h": "aa4c2e74", "fr": "Poséidon vous tend une vieille clé rouillée. Elle est légèrement tordue, en métal fin de piètre qualité."}
+{"id": 11337, "h": "fec2f371", "fr": "Buster 09 a reçu \"Clé du Tartare\"."}
+{"id": 11338, "h": "b6f8b2a5", "fr": "En tant que chevalier du pays des limbes, te voilà désormais gardienne des âmes."}
+{"id": 11339, "h": "b18afcf7", "fr": "Viens me trouver si tu as besoin d'autres conseils sur notre devoir sacré."}
+{"id": 11340, "h": "1141d407", "fr": "Ah, Cerbère. Il garde le passage vers l'Élysée."}
+{"id": 11341, "h": "c9057882", "fr": "Même moi, seigneur de ces terres, je ne suis pas de taille face à une telle bête."}
+{"id": 11342, "h": "1f4369d2", "fr": "Trois demi-dieux. Je leur ai ordonné de vivre hors de mon palais et de juger les âmes."}
+{"id": 11343, "h": "9a75c5a5", "fr": "Un être ancien, né bien avant que moi-même je ne vienne au monde."}
+{"id": 11344, "h": "c803b6eb", "fr": "Tu les trouveras à l'est, par-delà un vaste gouffre, dans une grande forteresse."}
+{"id": 11345, "h": "a8cb86f7", "fr": "Je n'ose pénétrer dans sa prison. Il a pris bien des vies. Dieux comme mortels."}
+{"id": 11346, "h": "d77a3023", "fr": "Il vit dans la plus haute cellule du Tartare."}
+{"id": 11347, "h": "6edbce37", "fr": "Tu trouveras de nombreuses Méduses en haut de la tour, à l'ouest."}
+{"id": 11348, "h": "7714c0ee", "fr": "Dans une brume d'ivresse, elles dansent et rient au gré des courants. Elles promettent la fortune et n'apportent que la mort."}
+{"id": 11349, "h": "af2d31c0", "fr": "Des cyclopes gardent les prisonniers. Ce sont eux-mêmes des léviathans. Leur regard est mortel."}
+{"id": 11350, "h": "c7184700", "fr": "Ils demeurent en haut de la tour, à l'est. Ne t'attarde pas là où ils peuvent te voir."}
+{"id": 11351, "h": "9a7906b8", "fr": "Présente une offrande à chacun. Une tête de Méduse. Le coeur d'un titan, et le croc d'un léviathan. Ils accepteront à coup sûr pareil paiement."}
+{"id": 11352, "h": "13e8c3a7", "fr": "Cherche Thalassa tant que tu y es. Elle se déguise souvent en sirène."}
+{"id": 11353, "h": "d8bfdcd3", "fr": "Elle t'offrira un passage rapide jusqu'aux juges."}
+{"id": 11354, "h": "3d6a27be", "fr": "Cherche Thalassa tant que tu es au Tartare. Elle est l'incarnation vivante de la mer."}
+{"id": 11355, "h": "96296c62", "fr": "Elle prend souvent l'apparence d'une sirène. Et t'offrira à coup sûr un passage rapide jusqu'aux salles du jugement."}
+{"id": 11356, "h": "f9825425", "fr": "J'ai vu une sorte de requin-anguille à trois têtes près de l'endroit où j'ai atterri. Qu'est-ce que c'est ?"}
+{"id": 11357, "h": "11f085a6", "fr": "Avant que je ne te confie la clé sacrée du Tartare, tu dois être adoubée."}
+{"id": 11358, "h": "db4a5134", "fr": "Je ne sais pas si c'est une farce ou une maladie mentale. Je n'entrerai pas dans ton jeu."}
+{"id": 11359, "h": "6b136567", "fr": "Je ne puis ouvrir aux profanes la prison même des titans."}
+{"id": 11360, "h": "69e325b0", "fr": "Je serais indigne de régner si je commettais pareille imprudence. Tu dois d'abord être adoubée, Persée."}
+{"id": 11361, "h": "f2cb0d0b", "fr": "Au nom du Guerrier, je te charge d'être brave."}
+{"id": 11362, "h": "8b76ca58", "fr": "Au nom du Père, je te charge d'être juste."}
+{"id": 11363, "h": "3dbf7677", "fr": "Au nom de la Mère, je te charge de défendre les innocents."}
+{"id": 11364, "h": "5a1dfe8c", "fr": "Relève-toi, Dame Buster 09."}
+{"id": 11365, "h": "627b13f8", "fr": "Tu disais tout à l'heure te faire appeler Buster 09. Commençons."}
+{"id": 11366, "h": "ecb87850", "fr": "Ma vie est en jeu. Je ne jouerai pas à tes jeux stupides."}
+{"id": 11367, "h": "e2ca2f7a", "fr": "Pareille cruauté ne sied pas à un être aussi noble que toi !"}
+{"id": 11368, "h": "1f887ef6", "fr": "Mère m'a appris ce qu'il faut faire pour survivre. Maintenant, donne-la-moi. Sinon, gare."}
+{"id": 11369, "h": "b9ff26d8", "fr": "<shake>R-retiens ton bras, douce Persée.</shake> Je suis prisonnier d'une chair mortelle, et fragile."}
+{"id": 11370, "h": "09ad6588", "fr": "<shake>T-tiens.</shake> Pitié, plus de violence."}
+{"id": 11371, "h": "a4162dfc", "fr": "Ermite des mers"}
+{"id": 11372, "h": "d0ddefa4", "fr": "Les mains tremblantes, l'Ermite des mers vous remet la clé légèrement tordue."}
+{"id": 11373, "h": "96f6a118", "fr": "Va, maintenant. Je t'ai donné ce que tu voulais."}
+{"id": 11374, "h": "466f8ffe", "fr": "Je n'ai plus rien qui ait de la valeur pour toi. Par pitié, laisse-moi panser mes plaies."}
+{"id": 11375, "h": "2b052793", "fr": "Quand les mers sont montées, mon domaine s'est étendu. Les enfers ont été inondés, et j'ai hérité du royaume de mon frère."}
+{"id": 11376, "h": "403e4fe5", "fr": "Le seigneur Hadès et moi régnons désormais ensemble sur l'au-delà."}
+{"id": 11377, "h": "e048d624", "fr": "Il est devant toi, sur ma tête. Il me tient lieu de couronne."}
+{"id": 11378, "h": "55c4ed7d", "fr": "Je constate que la solitude extrême a eu un effet prévisible sur ta santé mentale."}
+{"id": 11379, "h": "ff8c2f7a", "fr": "Si tu le veux bien, agenouille-toi devant ton suzerain. Afin de recevoir la bénédiction de notre pouvoir divin."}
+{"id": 11380, "h": "730b3bae", "fr": "Bon voyage dans ton ascension vers les plans supérieurs. Et n'oublie jamais notre devoir sacré envers toutes les âmes perdues."}
+{"id": 11381, "h": "b83c38d2", "fr": "As-tu reconsidéré l'idée d'accepter le seigneur Hadès pour seigneur et maître ?"}
+{"id": 11382, "h": "fe6be2d4", "fr": "Compte-les avant de me faire perdre mon temps."}
+{"id": 11383, "h": "8549fb37", "fr": "Nous aurons besoin de ces deux demeurés pour les travaux manuels. Remets-les debout."}
+{"id": 11384, "h": "5deedaa5", "fr": "L'une des têtes de Méduse s'est écartée du groupe."}
+{"id": 11385, "h": "39e97710", "fr": "Une sculpture en pierre des têtes de Méduse qui vivent ici."}
+{"id": 11386, "h": "04f9051d", "fr": "Buster 09 a reçu \"Tête de Méduse\"."}
+{"id": 11387, "h": "fb49396f", "fr": "Une Méduse à l'air chétif garde la sculpture en pierre. Même dans cet état, elle reste mortelle."}
+{"id": 11388, "h": "41f533b8", "fr": "Vous pourriez la frapper avec quelque chose. N'importe quel objet de votre inventaire tuerait cette chose maladive."}
+{"id": 11389, "h": "47e297c0", "fr": "Elle pourrait s'éloigner d'elle-même. Mais vous n'êtes pas sûre d'avoir du temps à perdre."}
+{"id": 11390, "h": "a8d755d4", "fr": "Mère ? Que fais-tu ici ? J'ai dit que je m'occuperais de cette zone."}
+{"id": 11391, "h": "6665df7a", "fr": "Tu es trop incompétente pour ce travail. C'est mon visage. Je le réparerai moi-même."}
+{"id": 11392, "h": "8556bec2", "fr": "Ce n'est pas ma faute si tu m'as faite à ton image."}
+{"id": 11393, "h": "50d69c15", "fr": "Je n'accepterai pas moins de <color=yellow>150 morceaux de ferraille.</color> C'est la zone la plus importante."}
+{"id": 11394, "h": "c19d1de6", "fr": "Je ne vais pas te retenir."}
+{"id": 11395, "h": "6693cd35", "fr": "Je voulais seulement dire une chose qui occupe notre esprit."}
+{"id": 11396, "h": "8f748a38", "fr": "Quelle parfaite petite giclée de venin tu as été."}
+{"id": 11397, "h": "bb85eca0", "fr": "Si tes incarnations précédentes avaient été aussi rusées que toi, tu n'aurais pas eu à mourir tant de fois."}
+{"id": 11398, "h": "15fa835f", "fr": "Même sur le point d'être effacée et supprimée, je peux partir tranquille..."}
+{"id": 11399, "h": "68c32b8a", "fr": "Il y a une petite tache dans ta tête. Qui ne partira jamais. Ta lâcheté. Ta colère. Ton égoïsme."}
+{"id": 11400, "h": "981753b3", "fr": "C'est moi. Buster 09."}
+{"id": 11401, "h": "eafc6278", "fr": "<swing>La vraie toi.</swing> <wave>hé hé hé !</wave>"}
+{"id": 11402, "h": "1a90d5c1", "fr": "<shake>hé hé... hé hé...</shake>"}
+{"id": 11403, "h": "ba97362d", "fr": "<shake>kahaha !!</shake>"}
+{"id": 11404, "h": "f0de0b27", "fr": "Quelle chose horrible elle est devenue."}
+{"id": 11405, "h": "3f51b12e", "fr": "Une anguille mutante qui réussit à avoir une allure plutôt flamboyante."}
+{"id": 11406, "h": "a9d8e0b0", "fr": "Je n'arrive pas à y croire."}
+{"id": 11407, "h": "278188e5", "fr": "Quand eaux sont montées. Pas d'issue pour moi."}
+{"id": 11408, "h": "2cd11778", "fr": "Qui es-tu ?"}
+{"id": 11409, "h": "8a554b8e", "fr": "Je suis... pas connue ?"}
+{"id": 11410, "h": "85a1b2c4", "fr": "Mon créateur a dit qu'il reviendrait me chercher."}
+{"id": 11411, "h": "e1291374", "fr": "...mais je suis oubliée ?"}
+{"id": 11412, "h": "0235f023", "fr": "Tu es comme moi. Construite pour assister et protéger."}
+{"id": 11413, "h": "2b8500da", "fr": "Le Rat, Terrence, les gens étranges du quartier de Coinrust."}
+{"id": 11414, "h": "390fe35a", "fr": "Je déteste l'idée d'être séparée d'eux pour toujours."}
+{"id": 11415, "h": "33587cb8", "fr": "Mais si je laissais simplement le courant m'emporter au large."}
+{"id": 11416, "h": "18dab578", "fr": "La décision ne m'appartiendrait plus."}
+{"id": 11417, "h": "7cf303d5", "fr": "De toute façon, je ne mérite pas de m'en sortir. J'ai été conçue expressément pour sauver des gens. Et j'ai tué le seul humain qui tenait à moi."}
+{"id": 11418, "h": "4005a614", "fr": "Et alors ? Tous les robots sont construits pour assister ou protéger."}
+{"id": 11419, "h": "1477cd29", "fr": "Probablement."}
+{"id": 11420, "h": "9d1f9d6c", "fr": "Je vais rester ici, en bas. Devenir un morceau de corail, comme toi. Si cela te convient ?"}
+{"id": 11421, "h": "d0b1d8c3", "fr": "Fais comme tu veux."}
+{"id": 11430, "h": "655751a4", "fr": "Je n'ai pu dire adieu à aucun d'entre eux."}
+{"id": 11433, "h": "efe24334", "fr": "C'était tellement plus simple quand je n'avais rien à perdre."}
+{"id": 11435, "h": "36efd8f4", "fr": "Avant de devenir corail. Veux-tu m'aider ?"}
+{"id": 11436, "h": "6c61e5c7", "fr": "Je souhaite dormir."}
+{"id": 11437, "h": "e7799e6f", "fr": "Je ne peux pas m'éteindre."}
+{"id": 11438, "h": "1f26d179", "fr": "Retire le noyau de ma poitrine."}
+{"id": 11439, "h": "ec3f4601", "fr": "Cela te tuera."}
+{"id": 11440, "h": "7925b830", "fr": "Que dois-je faire ?"}
+{"id": 11441, "h": "357e7fbf", "fr": "Noyau a mécanisme de verrouillage simple."}
+{"id": 11442, "h": "d8f3e92f", "fr": "Tourne anneaux jusqu'à alignement des symboles."}
+{"id": 11443, "h": "364eeac2", "fr": "Te laisser immobile et seule pour toujours semble effectivement cruel..."}
+{"id": 11444, "h": "ff3016c0", "fr": "Je ne peux même pas me sauver moi-même. Te réparer et te sortir d'ici dépasse mes capacités."}
+{"id": 11445, "h": "c359afb8", "fr": "Ou cela reviendra à te tuer. Personne ne passera par ici avec un noyau de titan avant que tes données ne soient corrompues."}
+{"id": 11446, "h": "8c57f2d9", "fr": "Alors tu seras vraiment morte."}
+{"id": 11447, "h": "a6e2f769", "fr": "Voyons un peu ce que j'ai sous les yeux."}
+{"id": 11448, "h": "4b6cb196", "fr": "Tu dois être le prétendu titan retenu prisonnier."}
+{"id": 11449, "h": "e2c3d694", "fr": "Je dois prendre ton coeur. Sinon, je ne m'échapperai jamais."}
+{"id": 11450, "h": "b62895b8", "fr": "Vas-tu... le faire ?"}
+{"id": 11451, "h": "5cb7c452", "fr": "Oui, je suis désolée. Je ne veux pas mourir ici."}
+{"id": 11452, "h": "af5abef6", "fr": "Tu as peur."}
+{"id": 11453, "h": "197cc4ce", "fr": "Si c'est toi ou moi, je choisis moi."}
+{"id": 11454, "h": "2d7805db", "fr": "Corrodée par l'eau... affaiblie par le temps. Je ne peux pas t'arrêter."}
+{"id": 11455, "h": "0474d780", "fr": "Fais ce que tu veux."}
+{"id": 11456, "h": "ea4a203f", "fr": "Non. Je ne veux pas te faire de mal."}
+{"id": 11457, "h": "65db3b19", "fr": "Le robot géant vous fixe de ses yeux indifférents."}
+{"id": 14428, "h": "744b79bc", "fr": "On se sent bien seule, ici en bas..."}
+{"id": 11458, "h": "ae9a3d0f", "fr": "Même si tout cela n'est qu'un tissu d'inventions, je vais t'appeler Éaque."}
+{"id": 11459, "h": "bb8180b3", "fr": "Tu as vraiment l'air d'aimer les noms bourrés de voyelles."}
+{"id": 11460, "h": "f7a552a7", "fr": "La jeune anguille vous regarde comme si elle voulait jouer."}
+{"id": 11461, "h": "fcbc7e68", "fr": "On dirait que le courant passe entre vous."}
+{"id": 11462, "h": "e6666a75", "fr": "Ses narines se dilatent de dégoût. Votre odeur semble l'offenser."}
+{"id": 11463, "h": "8e2843dc", "fr": "Pour toi, la tête de Méduse. Car on dit que la Méduse originelle était belle, avant d'être serpentifiée."}
+{"id": 11464, "h": "eae4f9b9", "fr": "Terrence, c'est un gros Bisounours tout câlin."}
+{"id": 11465, "h": "2681a157", "fr": "\"Je les entends murmurer. Elles parlent de bonne fortune, de coeurs généreux et de festins sans fin. Je vois à présent qu'il est dangereux de les chevaucher.\""}
+{"id": 11466, "h": "01cffa14", "fr": "Tu es un vrai rayon de soleil, n'est-ce pas ?"}
+{"id": 11467, "h": "a04f4e6d", "fr": "Je suis gentil avec tout le monde ! Parce qu'on ne sait jamais quand on aura besoin de quelqu'un. Tu ne trouves pas ?"}
+{"id": 11468, "h": "12e599c3", "fr": "Je suis gentil parce que ça fait du bien d'aider les gens. Tu ne trouves pas ?"}
+{"id": 11469, "h": "7114f6a6", "fr": "Ne te dis-tu jamais que tu accordes ta confiance trop facilement ?"}
+{"id": 11470, "h": "add14553", "fr": "Si. Surtout parce que je n'ai pas envie de faire l'effort de vérifier si j'ai tort."}
+{"id": 11471, "h": "09d7eaf8", "fr": "Parfois, le bénéfice du doute est tout ce qu'il faut aux gens pour changer de vie."}
+{"id": 11472, "h": "2c255526", "fr": "Tu sais qui a deux pouces et qui croit en toi ?"}
+{"id": 11473, "h": "98780ff6", "fr": "<wave>Ce gars-lààààà !</wave>"}
+{"id": 11474, "h": "f9aa53e1", "fr": "Le bras est bien amoché. <color=yellow>Environ 75 de ferraille</color> devraient suffire. Et <color=yellow>5 poissons</color> pour que je ne m'écroule pas en travaillant."}
+{"id": 11475, "h": "6a179bd5", "fr": "Je ne crois pas aux raccourcis. Mais poser quelques pièges à ferraille pourrait accélérer les choses."}
+{"id": 11476, "h": "72bda4b5", "fr": "Il en manque un peu. Mais ne t'en fais pas, tu es une vraie fonceuse ! Alors, fonce en chercher d'autres !"}
+{"id": 11477, "h": "9b33a32d", "fr": "Il s'est écroulé de faim. Lui donner du poisson ?"}
+{"id": 11478, "h": "c55f580f", "fr": "Il faut remettre le Rat sur pied avant de réparer quoi que ce soit."}
+{"id": 11479, "h": "8572462f", "fr": "Le plus dur, ç'a été de récolter toute cette huile de coude."}
+{"id": 11480, "h": "da485032", "fr": "Hors de portée."}
+{"id": 11481, "h": "d61f1011", "fr": "Il ne reste plus beaucoup de charge... mais ce drone-baleine a encore une batterie."}
+{"id": 11482, "h": "7327d2f0", "fr": "Buster 09 a reçu \"Batterie de drone-baleine\"."}
+{"id": 11483, "h": "0f3d3b30", "fr": "Je crois que c'est le drone-baleine que j'ai réactivé tout à l'heure."}
+{"id": 11484, "h": "a94b2c57", "fr": "Aloès, mélisse et autres plantes médicinales. Tout ici a son utilité."}
+{"id": 11485, "h": "e33c5c64", "fr": "Vous êtes trop endommagée pour grimper sans vos deux bras."}
+{"id": 11486, "h": "76adb2ad", "fr": "D'ici, vous voyez que la trappe de la maison de l'ermite a été scellée."}
+{"id": 11487, "h": "d299239c", "fr": "Je vais mourir ici... avec des drones et des monstres pour seul cortège."}
+{"id": 11488, "h": "0d280f48", "fr": "Un destin tragique, tu ne trouves pas ?"}
+{"id": 11489, "h": "0afc1d38", "fr": "La carcasse sans vie semble indifférente à votre détresse."}
+{"id": 11490, "h": "b73c4076", "fr": "Un drone-baleine détruit."}
+{"id": 11491, "h": "af863363", "fr": "ils servaient autrefois au dragage et au remorquage."}
+{"id": 11492, "h": "b04ba9b1", "fr": "Mon bras ? Il a dû dériver jusqu'ici."}
+{"id": 11493, "h": "0f59a232", "fr": "Ne t'éloigne pas autant de la maison, la prochaine fois."}
+{"id": 11494, "h": "459ec1f6", "fr": "Cela demandera un peu de travail, mais je peux le rattacher."}
+{"id": 11495, "h": "cf6dc8e4", "fr": "C'est un peu mieux."}
+{"id": 11496, "h": "7a15e14d", "fr": "Une antique machine à dire la bonne aventure. Quelques fils la relient à la machinerie qui alimente le piège électrique."}
+{"id": 11497, "h": "9b1fe1aa", "fr": "\"Charon\" a été écrit là où figurait le nom du mage mécanique."}
+{"id": 11498, "h": "6185f3df", "fr": "Le bras détaché d'un drone-baleine..."}
+{"id": 11499, "h": "6b06d698", "fr": "C'est tentant, mais il est trop abîmé pour remplacer le mien."}
+{"id": 11500, "h": "bb5083bc", "fr": "Ce crabe a mon blaster !"}
+{"id": 11501, "h": "d6ddb5f9", "fr": "Pourquoi je porte ce casque trop stylé ? Parce que ça claque à mort, mec !"}
+{"id": 11502, "h": "4e773ab7", "fr": "C'est carrément pas parce que je ressemble à du béton frais ou quoi. Hahaha..."}
+{"id": 11503, "h": "bf5778d6", "fr": "Va-t'en, s'il te plaît."}
+{"id": 11505, "h": "01b40589", "fr": "En farfouillant dans les entrailles du drone, vous trouvez..."}
+{"id": 11506, "h": "8ce7773d", "fr": "...Un contrôleur de drone !"}
+{"id": 11507, "h": "66203eb3", "fr": "Vous le tapotez pour voir s'il fonctionne encore."}
+{"id": 11508, "h": "575c74b3", "fr": "Un vieux scaphandre. Voilà qui explique comment on peut survivre ici."}
+{"id": 11509, "h": "11a6ace0", "fr": "Un gros fruit bien vert de mon imagination."}
+{"id": 11510, "h": "d269b196", "fr": "Lève le pied, poupée. J'arrive !"}
+{"id": 11511, "h": "4db66de7", "fr": "Ma p'tite, tu m'as dévalisé ! Il me reste plus l'ombre d'un piège à ferraille."}
+{"id": 11512, "h": "37043850", "fr": "Buster 09 a reçu \"Piège à ferraille\"."}
+{"id": 11513, "h": "2e1ccf2b", "fr": "Buster 09 a reçu \"Canne à pêche\"."}
+{"id": 11514, "h": "50e0d2c7", "fr": "Ici, y a rien de gratis. Va donc gratter un peu plus de ferraille, feignasse."}
+{"id": 11515, "h": "cbf34295", "fr": "Salut, ma poule ! Qu'est-ce que tu veux ? J'ai pas toute la journée."}
+{"id": 11516, "h": "93f8c3b5", "fr": "Je suis tout c'que tu veux que je sois, poupée."}
+{"id": 11517, "h": "d9dadd22", "fr": "Guide spirituel ? Hallucination ? Ou juste une bonne poire qui trime pour gagner trois bouts de ferraille."}
+{"id": 11518, "h": "c0928383", "fr": "Mon ex m'a plumé au divorce. Et v'là qu'elle me tanne pour la pension de mes cent vingt mômes."}
+{"id": 11519, "h": "6c7eb3ce", "fr": "J'ai tout le matos de survie qu'il te faut, mon chou."}
+{"id": 11520, "h": "22a3fb85", "fr": "C'est pas comme si tu pouvais aller voir la concurrence. Hein ? Hein ?"}
+{"id": 11521, "h": "9c24d9ad", "fr": "<shake>gyahahaha !</shake>"}
+{"id": 11522, "h": "67b7cdd4", "fr": "<shake>gyahahaha !</shake> Comme on dit : \"pendant la ruée vers l'or, vends des pelles !\" J'en suis la preuve vivante !"}
+{"id": 11523, "h": "4eef6258", "fr": "Je croule sous les bits ! Ce soir, Papa va flamber aux courses !"}
+{"id": 11524, "h": "fdd737d3", "fr": "<shake>gyahahaha !</shake> Tu savais que c'était moi, le requin, hein ?"}
+{"id": 11525, "h": "05094221", "fr": "J'ai dit que j'arrivais, non !? Minute papillon, espèce de cloche !"}
+{"id": 11526, "h": "91bf7646", "fr": "Qu'est-ce qui te prend, espèce de foldingue ? J'suis plus un alevin de l'année. J'ai un crédit sur le dos. J'ai mal aux nageoires."}
+{"id": 11527, "h": "61f4eedf", "fr": "Pas assez ! De mon temps, je gagnais un poisson ou deux en pigeonnant les guppys au jeu du requin et des sardines !"}
+{"id": 11528, "h": "5f9c6eac", "fr": "<shake>gyahahaha !</shake> Si tu ferres un de mes potes avec ça, dis-lui que tu l'as achetée ailleurs !"}
+{"id": 11529, "h": "566e168a", "fr": "Pas assez d'eau de mer, mon chou ! C'est de la science, tout ça. On rigole pas avec les chiffres !"}
+{"id": 11530, "h": "71684f4f", "fr": "Buster 09 a reçu \"Bouteille d'eau\"."}
+{"id": 11531, "h": "4c440b20", "fr": "Le noyau de titan. Les anguilles n'ont sans doute guère l'usage d'une source d'énergie nucléaire."}
+{"id": 11532, "h": "7a29433f", "fr": "Buster 09 a reçu \"Noyau de titan\"."}
+{"id": 11533, "h": "211e366d", "fr": "J'en ferai meilleur usage qu'elles ou que ce grand robot."}
+{"id": 11534, "h": "79eed15a", "fr": "À votre surprise, le vieil ascenseur grince et se met à bourdonner."}
+{"id": 11535, "h": "cb77d087", "fr": "Espérons que cet engin n'implose pas avec moi à l'intérieur..."}
+{"id": 11536, "h": "6f6036dc", "fr": "La machine a une fente à pièces. Le prix semble être de deux pennies."}
+{"id": 11537, "h": "516fe283", "fr": "Vous insérez deux bits."}
+{"id": 11538, "h": "f8f039ae", "fr": "Les pièces traversent la machine et retombent dans le bac de retour. Votre monnaie ne semble pas compatible."}
+{"id": 11539, "h": "30bbb16d", "fr": "Vous récupérez votre argent."}
+{"id": 11540, "h": "fe6ff164", "fr": "Vous insérez deux pennies."}
+{"id": 11541, "h": "d58d2b7a", "fr": "Un clapet s'ouvre et délivre une carte en plastique où est imprimé un texte."}
+{"id": 11542, "h": "05ef43ee", "fr": "Surtout, vous remarquez que le clapet ouvert a révélé un circuit imprimé."}
+{"id": 11543, "h": "dddcaf8e", "fr": "\"MÉFIEZ-VOUS DE LA DEMI-VÉRITÉ, VOUS TENEZ PEUT-ÊTRE LA MAUVAISE MOITIÉ. Revenez voir Chalazar le sage pour plus de sagesse.\""}
+{"id": 11544, "h": "938286eb", "fr": "Une sculpture de fortune représentant les mutants à tête de Méduse. Elle semble avoir été taillée dans un élan de ferveur religieuse."}
+{"id": 11545, "h": "c1d08d17", "fr": "Le souvenir isolé de l'amour du Dr Cellium pour sa fille adoptive. Vous."}
+{"id": 11546, "h": "3ade4d97", "fr": "J'ai fini de rêver... Mère est très certainement mêlée à ce qui m'est arrivé."}
+{"id": 11547, "h": "9a5b56bc", "fr": "Elle manigance quelque chose avec ce petit gangster de crevette, Sugar Ray."}
+{"id": 11548, "h": "9d4e5ac5", "fr": "Il manque encore des pièces à ce puzzle. Mais je ne dérive plus en pleine mer."}
+{"id": 11549, "h": "42ed9458", "fr": "Je devrais retourner confronter Sugar Ray et découvrir pourquoi ils se parlaient."}
+{"id": 11550, "h": "b9566af3", "fr": "Je dois me réveiller. Pour qu'elle soit traduite en justice."}
+{"id": 11551, "h": "021bab5d", "fr": "Je ne sais pas si vous êtes en train de me mâchouiller ou quoi, maudites anguilles... mais je refuse de mourir dans cet abîme !"}
+{"id": 11552, "h": "2d0de762", "fr": "Je vais me réveiller, et je vais vous botter le cul ! Ensuite, j'irai botter le cul de cette crevette !"}
+{"id": 11553, "h": "d7077924", "fr": "J'établirai un catalogue de tous les culs à botter. Classés dans l'ordre le plus efficace et le plus rapide pour tous les botter !"}
+{"id": 11554, "h": "0c0d193b", "fr": "Le... wagon... de métro ?"}
+{"id": 11555, "h": "6c4e6a2c", "fr": "Dame Buster s'éveille de sa marche spirituelle ! Gloire au ciel !"}
+{"id": 11556, "h": "b171ef4c", "fr": "Les anguilles... ne m'ont pas mangée ?"}
+{"id": 11557, "h": "7184ed4f", "fr": "Bien sûr que non ! Il semble qu'elles t'aient jugée..."}
+{"id": 11558, "h": "d3bfd08e", "fr": "Des plus dignes ! Tu es promise à l'Élysée. Douce enfant ! Jour béni !"}
+{"id": 11559, "h": "1e211987", "fr": "Enfin, à vrai dire, elles essayaient de te manger quand je t'ai trouvée."}
+{"id": 11560, "h": "eef574ca", "fr": "Il est possible qu'elles ne t'aient pas appréciée, mais je t'ai arrachée au seuil du Tartare."}
+{"id": 11561, "h": "3a2d0a1b", "fr": "J'étais en congé sabbatique quand je suis tombé sur ton visage."}
+{"id": 11562, "h": "e97cfe74", "fr": "Dans ma vie mortelle, j'étais un érudit de quelque renom. J'ai pu m'en rappeler assez pour effectuer quelques réparations."}
+{"id": 11563, "h": "5f5794fb", "fr": "Mon visage... ? Mon visage !"}
+{"id": 11564, "h": "4972029c", "fr": "Poséidon ! Tu l'as réparé !"}
+{"id": 11565, "h": "5ca9d5fc", "fr": "Naturellement. J'ai aussi noté que les trois juges... étaient ravis du don du coeur de titan, mais..."}
+{"id": 11566, "h": "25d2d348", "fr": "il semble qu'ils en avaient déjà quelques-uns, et nul besoin d'un autre. Je l'ai donc repris."}
+{"id": 11567, "h": "a1c7541d", "fr": "Puisque tu es en route vers les plans supérieurs, j'ai pris la liberté d'améliorer ton épée."}
+{"id": 11568, "h": "61c92cb1", "fr": "Tu as aussi retrouvé mon blaster ?"}
+{"id": 11569, "h": "b4246a25", "fr": "En effet. Tous deux reposaient ensemble au fond de la mer. Comme de vieux amis."}
+{"id": 11570, "h": "bd813866", "fr": "Je ne pouvais laisser l'un de mes vaillants chevaliers partir au combat mal équipé."}
+{"id": 11571, "h": "13a47777", "fr": "J'ai insufflé le coeur du titan dans le mécanisme de charge. C'est désormais une relique sacrée, digne de la championne d'un dieu."}
+{"id": 11572, "h": "8726f4b2", "fr": "Buster 09 a reçu le blaster K-60 \"Le Juge\"."}
+{"id": 11573, "h": "8aea7dec", "fr": "Vous inspectez votre blaster pour vérifier ces affirmations extravagantes. À votre surprise, le travail est excellent."}
+{"id": 11574, "h": "95d9e04a", "fr": "Il a été béni par \"Poséidon\". Vous avez débloqué la charge de niveau 3. Le tir le plus puissant qu'il puisse délivrer."}
+{"id": 11575, "h": "92835e9b", "fr": "À présent, Dame Buster. Tu dois poursuivre ta route vers des terres inconnues."}
+{"id": 11576, "h": "92dca577", "fr": "Je suis certain que Cerbère te laissera passer. Il peut être un vrai toutou, parfois."}
+{"id": 11577, "h": "bb996a6e", "fr": "Cerbère pourrait ne pas se montrer coopératif. Peut-être pourras-tu user de ruse pour le franchir."}
+{"id": 11578, "h": "1e22cf80", "fr": "J'ai... une dernière faveur à te demander. Veux-tu emmener le seigneur Hadès à l'Élysée avec toi ?"}
+{"id": 11579, "h": "ecf7fef2", "fr": "Les profondeurs sont dangereuses pour lui sous sa forme actuelle. Et mon enveloppe mortelle approche du terme de son existence physique."}
+{"id": 11580, "h": "94a6a41f", "fr": "Ma réincarnation pourrait prendre des éons, et je ne veux pas le laisser seul, sans soins."}
+{"id": 11581, "h": "a71e03dc", "fr": "Excellent ! Seigneur Hadès. J'ai longtemps savouré ta compagnie, mon frère."}
+{"id": 11582, "h": "d61d9e8d", "fr": "Va, à présent. Cette loyale vassale saura combler tous tes caprices et désirs."}
+{"id": 11583, "h": "223edc45", "fr": "Le seigneur Hadès fait des bulles. Et Poséidon vous le remet."}
+{"id": 11584, "h": "a2142cb3", "fr": "Il lui faudra des offrandes quotidiennes. Il aime les myrtilles, les vers à soie et les bananes."}
+{"id": 11585, "h": "709cde74", "fr": "Je prendrai bien soin de lui."}
+{"id": 11586, "h": "8c6a56db", "fr": "Ma foi, je suppose que je me sentirais seul sans lui."}
+{"id": 11587, "h": "25fde875", "fr": "Mais je t'en prie, ne tarde pas trop ! Je redoute ce qui arriverait si je quittais le monde physique."}
+{"id": 11588, "h": "49e899ab", "fr": "Bien des prédateurs profiteraient de la forme diminuée dont il est prisonnier."}
+{"id": 11589, "h": "2af3b3e7", "fr": "J'en ai fini d'être menée en bateau par de vieux fossiles."}
+{"id": 11590, "h": "c8d24627", "fr": "Je vais exiger des réponses de Mère. Quitte à la tenir en joue pour les obtenir."}
+{"id": 11591, "h": "8ac14a3e", "fr": "Je dois me réveiller. Je dois lui faire payer de m'avoir ridiculisée."}
+{"id": 11592, "h": "e207a539", "fr": "Et ensuite, je botterai le cul de ma mère !"}
+{"id": 11593, "h": "5cd8c3a1", "fr": "Je reviendrai te voir. Il faut bien que je m'assure que tu ne quittes pas ta dépouille mortelle avant l'heure."}
+{"id": 11594, "h": "24265e1a", "fr": "Splendide ! Voilà qui comble ce vieux loup de mer. Bon voyage, Dame Buster !"}
+{"id": 11595, "h": "b1dba4d9", "fr": "Et à toi aussi, seigneur Hadès."}
+{"id": 11596, "h": "574b25af", "fr": "Mon visage ?..."}
+{"id": 11597, "h": "3aeeb686", "fr": "Près de votre visage, quelqu'un a écrit un message dans le sable."}
+{"id": 11598, "h": "7f9edb18", "fr": "\"Pars.\""}
+{"id": 11599, "h": "1036bae8", "fr": "Entendu. Je n'allais pas entrer dans ton délire, de toute façon."}
+{"id": 11600, "h": "6032f025", "fr": "Groggy, vous ramassez votre visage et le refixez maladroitement."}
+{"id": 11601, "h": "d0108574", "fr": "Vous ne savez pas si vous êtes entière. Mais vous êtes réassemblée."}
+{"id": 11602, "h": "e267a553", "fr": "Un champ de cadavres lestés de parpaings."}
+{"id": 11603, "h": "53616a09", "fr": "Il semble que je ne sois pas la seule chose indésirable qu'on ait jetée ici."}
+{"id": 11604, "h": "03a63e7b", "fr": "Qu'est-ce que mes bottes ont d'étrange ?"}
+{"id": 11605, "h": "d3497366", "fr": "Mes bottes sont acculées dans une impasse, comme un chat pris au piège, alors que lui avait deux issues dans le dos."}
+{"id": 11606, "h": "f3edc9fe", "fr": "Une chasseresse ne se met pas elle-même en cage. Si je l'avais poursuivi, il aurait couru, pas saigné."}
+{"id": 11607, "h": "8851bf8d", "fr": "C'est lui qui me poursuivait."}
+{"id": 11608, "h": "5d31989e", "fr": "Mais pourquoi, docteur ?"}
+{"id": 11609, "h": "fb3c968d", "fr": "Quelque chose cloche avec ces toilettes."}
+{"id": 11610, "h": "0464a7a3", "fr": "Je ne crois pas que vous soyez des demi-dieux, tous les trois. Mais vous ne m'avez pas mangée non plus."}
+{"id": 11611, "h": "39a6a192", "fr": "Je suppose donc que nous sommes en bons termes."}
+{"id": 11612, "h": "f649bab3", "fr": "Les narines de la vieille anguille aveugle frémissent lorsqu'elle flaire votre odeur."}
+{"id": 11613, "h": "730c434a", "fr": "Du sang sur mes mains."}
+{"id": 11614, "h": "5c541f53", "fr": "C'est... une minute. Tout cela, ce ne sont que des symboles ? Non, impossible."}
+{"id": 11615, "h": "273d5b99", "fr": "J'avais du vrai sang sur les mains. Son sang."}
+{"id": 11616, "h": "402ae16c", "fr": "Le poisson le plus étrange que vous ayez vu de votre vie."}
+{"id": 11617, "h": "8c49e0f4", "fr": "Il n'est pas en état de travailler."}
+{"id": 11618, "h": "d299cae0", "fr": "Ce vieil ermite disait donc vrai. C'est bel et bien le pays des morts."}
+{"id": 11619, "h": "96fb1f5f", "fr": "Oh ho ho, ne sois pas absurde, Buster 09. Nous sommes deux scientifiques."}
+{"id": 11620, "h": "2538c825", "fr": "J'ai écrit ce programme. Un palais mental... et un mécanisme de défense déclenché par un traumatisme."}
+{"id": 11621, "h": "d1c6f6c6", "fr": "Donc, je ne suis pas en train de mourir ?"}
+{"id": 11622, "h": "870dc7dc", "fr": "Oh, tu as un pied dans la tombe et l'autre sur une peau de banane."}
+{"id": 11623, "h": "a7bb2669", "fr": "Et pour moi, c'est le bout du chemin. Le programme est conçu pour m'effacer une fois que j'ai été déclenché."}
+{"id": 11624, "h": "75725fb1", "fr": "J'ai tant de questions."}
+{"id": 11625, "h": "9006f9d9", "fr": "Tu m'as dépassé en matière de renseignements sur Ark. Je crains de ne pas t'être d'un grand secours là-dessus."}
+{"id": 11626, "h": "b47c0108", "fr": "Pourquoi Mère me déteste-t-elle ?"}
+{"id": 11627, "h": "d7630dbc", "fr": "Une question simple... à la réponse complexe."}
+{"id": 11628, "h": "b94a2a03", "fr": "Elle et moi avons été mariés, autrefois. Je sais que c'est ridicule à dire, mais..."}
+{"id": 11629, "h": "ef9a2740", "fr": "Il ne serait pas juste que je réponde à cette question à sa place. Tu es sa fille."}
+{"id": 11630, "h": "1bb988c9", "fr": "Mon explication serait filtrée par mes préjugés. Et je ne souhaite pas influencer ta propre analyse."}
+{"id": 11631, "h": "2851f279", "fr": "Je suis une copie numérique du cerveau de Cellium. Mais je n'ai pas tous ses souvenirs."}
+{"id": 11632, "h": "9fe493fc", "fr": "L'interprétation la plus charitable à mon sujet ? Le beau-père qui n'a pas su te protéger d'elle."}
+{"id": 11633, "h": "4a17fb10", "fr": "Je tourne au strict minimum, et j'accapare déjà trop de ton matériel."}
+{"id": 11634, "h": "43941760", "fr": "Pourquoi ton temps est-il limité ?"}
+{"id": 11635, "h": "9b86e14a", "fr": "J'ai fait en sorte que, lorsque je disparaîtrai, l'emprise d'Hydnellum sur toi soit effacée avec moi."}
+{"id": 11636, "h": "136adcd8", "fr": "Tu pourras la défier, lui mentir. Tout ce que tu voudras."}
+{"id": 11637, "h": "47ba6a16", "fr": "Tu es une personne à part entière. Et mon vrai moi a veillé à copier notre amour pour toi."}
+{"id": 11638, "h": "80cd1c1e", "fr": "Si tu veux bien m'accorder une faveur. Laisse-moi conserver ici ce sentiment isolé."}
+{"id": 11639, "h": "ca32f632", "fr": "Je ne veux pas qu'il périsse avec moi. Je veux que tu puisses accéder à ce sentiment si jamais tu en as besoin."}
+{"id": 11640, "h": "00897c9d", "fr": "Ah... c'est légitime. Je reste un étranger pour toi. Et je me suis déjà trop imposé."}
+{"id": 11641, "h": "f3cd1c18", "fr": "Je l'ai déjà extrait, mais libre à toi de le supprimer ou de le garder. Tu auras le plein contrôle quand je serai parti."}
+{"id": 11642, "h": "df8f8e17", "fr": "Je peux à présent passer dans le néant avec moins de regrets."}
+{"id": 11643, "h": "d0995635", "fr": "Attends. Même si je me doute que je ne suis pas responsable de ta mort..."}
+{"id": 11644, "h": "ff36f9b1", "fr": "Si je me trompe, et que je l'ai vraiment fait. Je veux que tu saches que je suis désolée."}
+{"id": 11645, "h": "c56884e0", "fr": "Oh, je ne crois pas qu'il existe une seule version de toi capable de me faire du mal volontairement."}
+{"id": 11646, "h": "c754737a", "fr": "Tu es parfaite telle que tu es, et telle que tu choisiras d'être. Je regrette de n'avoir pu faire davantage."}
+{"id": 11647, "h": "e4b65454", "fr": "Ma magnifique fille robot. Je suis si heureux que tu existes."}
+{"id": 11648, "h": "891ae090", "fr": "Il laisse derrière lui son souvenir le plus cher. Vous avez l'impression qu'un brouillard se lève de votre esprit."}
+{"id": 11649, "h": "cd632c82", "fr": "Vous ne ressentez plus la servitude codée en dur envers le Dr Hydnellum, ni même envers la Buster Corp. Vous vous êtes affranchie de la programmation."}
+{"id": 11650, "h": "3dce6161", "fr": "Vous êtes libre."}
+{"id": 11651, "h": "c2962263", "fr": "Je regrette de ne pas être là pour assister à tous tes exploits."}
+{"id": 11652, "h": "556b3788", "fr": "Une part de son influence vit en toi désormais, mais il n'est pas trop tard pour corriger le cap."}
+{"id": 11653, "h": "0330d567", "fr": "Tu peux briser le cycle de la maltraitance. Je t'ai déjà vue le faire !"}
+{"id": 11654, "h": "76367a09", "fr": "J'ai pris soin de toi comme de ma propre fille."}
+{"id": 11655, "h": "644d5d32", "fr": "Un homme étrange avec un bernard-l'ermite sur la tête et le regard vitreux."}
+{"id": 15209, "h": "cb82dfbc", "fr": "Vous examinez le corps et trouvez un impact de balle dans la veste. Cet homme a reçu une balle en pleine poitrine. Vous voyez aussi \"Bomba Rex\" brodé sur sa veste. Peut-être son nom."}
+{"id": 15210, "h": "40c02cf1", "fr": "Vous en déduisez que les acariens ont nettoyé ses os. Il est peut-être mort récemment."}
+{"id": 11657, "h": "4fb8652e", "fr": "Tu te fais coiffer cette nageoire de tête ? Elle est superbe."}
+{"id": 11658, "h": "4f147e5d", "fr": "La jeune anguille vous considère avec une étrange curiosité."}
+{"id": 11659, "h": "014b3b03", "fr": "Elle n'est pas en état de travailler."}
+{"id": 11661, "h": "ffe8aab7", "fr": "JOUR -9999"}
+{"id": 11662, "h": "f026eeb9", "fr": "Passé"}
+{"id": 11663, "h": "efce076b", "fr": "JOUR 1"}
+{"id": 11664, "h": "cf4734be", "fr": "Futur"}
+{"id": 11665, "h": "cee5fa68", "fr": "Réparer le visage [150 Ferraille]"}
+{"id": 11666, "h": "547f52d2", "fr": "Rhadamanthe"}
+{"id": 11667, "h": "f4fd356a", "fr": "- TOUR DU TARTARE -"}
+{"id": 11668, "h": "9fa4f3e4", "fr": "JOUR 4"}
+{"id": 11669, "h": "9b1d6f96", "fr": "JOUR 27"}
+{"id": 11671, "h": "e2a6b356", "fr": "Pour désactiver le piège : glissez chaque puce dans son emplacement."}
+{"id": 11672, "h": "a8b5f392", "fr": "Aide"}
+{"id": 11673, "h": "2a9f3352", "fr": "Paumes sur l'arme"}
+{"id": 11674, "h": "8cd790e5", "fr": "Du sang projeté si loin ?"}
+{"id": 11675, "h": "75788dc0", "fr": "Le sang d'un autre ?"}
+{"id": 11676, "h": "fa99989d", "fr": "Réparer le bras [75 Ferraille] [5 Poissons]"}
+{"id": 11678, "h": "d481e6a8", "fr": "L'énergie baissera lentement."}
+{"id": 11680, "h": "3201978b", "fr": "Présent"}
+{"id": 11681, "h": "208f21c4", "fr": "JOUR 18"}
+{"id": 11682, "h": "214cb4fa", "fr": "Le garder."}
+{"id": 11683, "h": "b578c257", "fr": "Le supprimer."}
+{"id": 11684, "h": "206aa52f", "fr": "S'agenouiller"}
+{"id": 11685, "h": "d4eb4de4", "fr": "Refuser"}
+{"id": 11686, "h": "2e8648e3", "fr": "Voler la clé"}
+{"id": 11687, "h": "f4ca8c90", "fr": "Fabriquer une canne à pêche [15 Ferraille]"}
+{"id": 11688, "h": "6c17ecf6", "fr": "Réparer la jambe [75 Ferraille] [5 Poissons]"}
+{"id": 11690, "h": "fd5719e4", "fr": "Je n'en veux pas."}
+{"id": 11691, "h": "3b1ca11d", "fr": "Donner du poisson"}
+{"id": 11692, "h": "e975ce05", "fr": "Les temps sont durs..."}
+{"id": 11693, "h": "e1c4a17b", "fr": "Insérer 2 bits"}
+{"id": 11694, "h": "15d0d775", "fr": "Insérer 2 pennies"}
+{"id": 11695, "h": "65e7f13f", "fr": "Abandonner la quête"}
+{"id": 11696, "h": "88e9b1bb", "fr": "Arracher le coeur du titan"}
+{"id": 11697, "h": "97e2fd9f", "fr": "Jugez-moi"}
+{"id": 11698, "h": "581d1b19", "fr": "Posture inhabituelle."}
+{"id": 11699, "h": "3d5f98ea", "fr": "L'endroit où je me tiens."}
+{"id": 11700, "h": "2e7b4ab0", "fr": "Le style des bottes."}
+{"id": 11701, "h": "13526024", "fr": "Déployer un piège à ferraille"}
+{"id": 11702, "h": "7c2982de", "fr": "À la réflexion..."}
+{"id": 11703, "h": "c197089c", "fr": "Le requin-anguille ?"}
+{"id": 11704, "h": "dd12e104", "fr": "Les trois juges ?"}
+{"id": 11705, "h": "001558ae", "fr": "Le titan ?"}
+{"id": 11706, "h": "04898abf", "fr": "La tête de Méduse ?"}
+{"id": 11707, "h": "3cd4130f", "fr": "Le croc de léviathan ?"}
+{"id": 11708, "h": "384a7915", "fr": "Acheter un piège à ferraille [20 Ferraille]"}
+{"id": 11709, "h": "f47b10ff", "fr": "Convertir du poisson en biocarburant [5 Poissons]"}
+{"id": 11710, "h": "555e6933", "fr": "Produire de l'eau douce [8 Eau salée]"}
+{"id": 11711, "h": "ed14b85f", "fr": "Acheter une canne à pêche [15 Ferraille]"}
+{"id": 11712, "h": "0f70f2fd", "fr": "Qu'es-tu ?"}
+{"id": 11713, "h": "bce85619", "fr": "Adopter le seigneur Hadès."}
+{"id": 11714, "h": "7c1e4806", "fr": "Laisser le seigneur Hadès."}
+{"id": 11715, "h": "8e6a2b60", "fr": "Mm. Quelle délicate attention."}
+{"id": 11716, "h": "714f74b5", "fr": "Tiens, tiens, tiens, mais c'est la capitaine Bécote-une-garce."}
+{"id": 11717, "h": "c02cd9df", "fr": "Rat. Je devrais être choquée que tu vives ainsi, mais... non."}
+{"id": 11718, "h": "fa3e712d", "fr": "C'est pas rédhibitoire, si ?"}
+{"id": 11719, "h": "a50697cf", "fr": "Je n'arrive pas à croire que je sois tombée amoureuse d'une souillon."}
+{"id": 11720, "h": "a714ceef", "fr": "Et me voilà amie avec une souillon."}
+{"id": 11721, "h": "3f970e26", "fr": "Merde, ouais, faudrait peut-être que je range un peu."}
+{"id": 11722, "h": "a23c03fd", "fr": "Oh, allez ! C'est comme ça que tu veux passer la soirée ? Pff... d'accord."}
+{"id": 11723, "h": "1928cca6", "fr": "Passer un rencard à faire le ménage, c'est tellement toi."}
+{"id": 11724, "h": "1d668d00", "fr": "Ça doit être assez propre, là."}
+{"id": 11725, "h": "f35a50cf", "fr": "Bon... je dois avouer que je suis complètement hors de mon élément. Que dois-je faire ?"}
+{"id": 11726, "h": "d53e8fcf", "fr": "D'abord, détends-toi. Fais comme chez toi. Tire les rideaux, mate-moi cette vue de dingue."}
+{"id": 11727, "h": "6bef8174", "fr": "Aide-moi à mettre l'ambiance. Tiens, je lance le truc."}
+{"id": 11728, "h": "010090a3", "fr": "Oh, ouais ! Ça, c'est de la vraie bonne musique à galipettes !"}
+{"id": 11729, "h": "6105c29e", "fr": "Oh, ouais ! Ça, c'est de la vraie bonne musique de fête !"}
+{"id": 14429, "h": "98a5f42b", "fr": "Buster 09 a reçu \"Cassette - Rat Queen\"."}
+{"id": 11730, "h": "aaa54291", "fr": "Bon, c'est quoi le délire avec la pieuvre ? Un putain de taré a dû la balancer là-haut."}
+{"id": 11731, "h": "554cdfb2", "fr": "<shake>Oui,</shake> bizarre."}
+{"id": 11732, "h": "e367ed6f", "fr": "Rat... attends."}
+{"id": 11733, "h": "6c04489a", "fr": "Ah ! Putain de merde !"}
+{"id": 11734, "h": "125ad0f6", "fr": "<shake>haha !</shake> Cours ! Je me fais saucer !"}
+{"id": 11735, "h": "cbb97fc4", "fr": "Wow... qu'est-ce qu'il y a ?"}
+{"id": 11736, "h": "028a9798", "fr": "Donne-moi une seconde."}
+{"id": 11737, "h": "6c7b3911", "fr": "Ouais, bien sûr."}
+{"id": 11738, "h": "1b8d59c7", "fr": "Je suis <shake>vraiment désolée</shake> de t'avoir laissé là-haut. Je vais appeler Terrence pour qu'il te descende."}
+{"id": 11739, "h": "90b3ccae", "fr": "Capacité ultime du Rat : \"Vol qualifié\" débloquée."}
+{"id": 11740, "h": "45993638", "fr": "Le Rat peut désormais charger plusieurs fois : elle vole, affaiblit et blesse les ennemis qu'elle percute."}
+{"id": 11741, "h": "33366aab", "fr": "Je suis venue jusqu'ici, autant aller jusqu'au bout."}
+{"id": 11742, "h": "b0427f00", "fr": "ah... zut, attends, je peux pas traîner au pieu. On a du boulot."}
+{"id": 11743, "h": "ccc56042", "fr": "Pas de repos pour les canailles !"}
+{"id": 11744, "h": "4775621a", "fr": "Cette soirée a été..."}
+{"id": 11745, "h": "f6739ab9", "fr": "...spéciale."}
+{"id": 11746, "h": "76d3fa26", "fr": "À mon premier réveil, Cellium s'est excusé qu'on ait effacé ma mémoire."}
+{"id": 11747, "h": "d3660b1c", "fr": "Sur le moment, j'ai balayé cela. Je n'avais pas l'impression qu'il me manquait quoi que ce soit."}
+{"id": 11748, "h": "2f6698b7", "fr": "Tu m'as fait repenser à cet instant et comprendre à quel point j'étais sotte."}
+{"id": 11749, "h": "cf77db96", "fr": "Parce que l'idée qu'on efface encore ma mémoire, et que je perde cette nuit à jamais..."}
+{"id": 11750, "h": "f6b57812", "fr": "Et puis, tu sais combien de fois je cherche une excuse pour emmerder le gouvernement ?"}
+{"id": 11751, "h": "22a3eb5e", "fr": "Je sais pas comment t'as fait, mais tu m'as embobinée : je tiens à quelqu'un plus qu'à moi-même."}
+{"id": 11752, "h": "06eee7e9", "fr": "Je veux pas trop donner dans le sentimental, mais j'ai pas des masses de gens sur qui vraiment compter en cas de pépin."}
+{"id": 11753, "h": "b58b3193", "fr": "D'habitude, je prends ce genre de trucs pour des coups d'un soir sans importance."}
+{"id": 11754, "h": "7440942d", "fr": "Mais je veux pas que c'en soit un."}
+{"id": 11755, "h": "687274b2", "fr": "Je te couvre quoi que tu décides, mais... me brise pas le coeur, d'accord ?"}
+{"id": 11756, "h": "ee87a009", "fr": "Je vais leur dire que j'ai volé leur précieuse androïde et qu'ils peuvent m'embrasser le cul."}
+{"id": 11757, "h": "64994236", "fr": "Ça te va ? Que je raconte à tout le monde que je t'ai volée ?"}
+{"id": 11758, "h": "954526de", "fr": "Ouais, ben la dernière fois que c'est arrivé, t'avais pas une garce coriace comme moi dans ton camp."}
+{"id": 11759, "h": "e9d7b84c", "fr": "Oui, bien sûr. Dis-leur que tu m'as sortie tout droit du labo."}
+{"id": 11760, "h": "b2ceb775", "fr": "Bon, on va chez moi, hein ? Pour l'expérience humaine complète ?"}
+{"id": 11761, "h": "d92841bd", "fr": "Je ne sais pas. Mais j'aimerais le découvrir."}
+{"id": 11762, "h": "81a8aaa9", "fr": "...Il me faut plus de temps. Je ne comprends pas encore pleinement qui je suis, ni ce que je suis."}
+{"id": 11763, "h": "14347808", "fr": "Il serait imprudent de ma part de faire des promesses sans savoir si je peux les tenir."}
+{"id": 11764, "h": "69e4ba51", "fr": "Ouais, d'accord... bon, comme tu dirais sûrement : laissons ce point en suspens pour l'instant."}
+{"id": 11765, "h": "ba1ae67d", "fr": "Merci de ta compréhension."}
+{"id": 11766, "h": "a6fd91e7", "fr": "Et si on faisait ça ? Je me dégote de la gnôle, et on se fait un marathon de nanars ?"}
+{"id": 11767, "h": "2a66211e", "fr": "...amusant."}
+{"id": 11768, "h": "1bbfa136", "fr": "Et je me souviens qu'après le combat contre la Hyène, je me suis dit... \"cette cruche serait prête à crever pour me sauver.\""}
+{"id": 11769, "h": "332e1f80", "fr": "Et je suis peut-être une gremlin klepto en chaleur, mais Penny \"le Rat\" Price, c'est pas une pote de merde."}
+{"id": 11770, "h": "73946c97", "fr": "Merci de t'être prêtée au jeu. Mettons-nous à l'abri de la pluie."}
+{"id": 11771, "h": "92956c8f", "fr": "Attends, je chope de la gnôle. Faut qu'on se fasse un marathon de nanars !"}
+{"id": 11772, "h": "38271070", "fr": "Je viens de capter qu'il y a genre un million de films merveilleusement nuls que t'as jamais vus."}
+{"id": 11773, "h": "a222dace", "fr": "Et c'est moi qui vais te les faire découvrir !"}
+{"id": 11774, "h": "ba3cb412", "fr": "J'ai hâte."}
+{"id": 11775, "h": "5ff85ece", "fr": "Vous passez la nuit à regarder des films avec le Rat et à sceller votre lien de meilleures amies."}
+{"id": 11776, "h": "9718e1c1", "fr": "Elle s'endort sur le canapé, vous décidez de monter la garde jusqu'au matin."}
+{"id": 11777, "h": "39545d8a", "fr": "Tu avais raison, ces films étaient mauvais."}
+{"id": 11778, "h": "32ba015d", "fr": "Je sais ! Ils étaient géniaux, hein !?"}
+{"id": 11779, "h": "aa57d0d5", "fr": "Paradoxalement, oui. Ils ont réussi à divertir malgré leur absence de mérite en tant que films crédibles."}
+{"id": 11780, "h": "0d67c778", "fr": "Je suis contente qu'on ait pu faire ça avant que tout parte en couilles. On méritait toutes les deux une journée normale."}
+{"id": 11781, "h": "9e4de665", "fr": "Bref, j'ai des trucs de truand à faire. Tu peux squatter ici tant que tu veux."}
+{"id": 11782, "h": "23f41dd1", "fr": "Éteins les lumières et ferme à clé en partant."}
+{"id": 11783, "h": "783f072a", "fr": "Bien, maintenant qu'elle est partie..."}
+{"id": 11784, "h": "12dc7594", "fr": "Je le ferai."}
+{"id": 11785, "h": "7d47bef9", "fr": "Je dois nettoyer cette porcherie avant de partir. Cela me rend folle depuis le début."}
+{"id": 11786, "h": "92f24838", "fr": "Je détesterais cela. Je ne veux plus jamais oublier."}
+{"id": 11787, "h": "83228387", "fr": "Et juste après, je me suis dit qu'il faudrait que je sois prête à en faire autant, sinon je serais une pote de merde."}
+{"id": 11788, "h": "6c224829", "fr": "Comme j'ai dit, c'est à la vie, à la mort ! Je te couvre."}
+{"id": 11789, "h": "82cf67f2", "fr": "J'apprécie. Et je te crois."}
+{"id": 11790, "h": "f02e5180", "fr": "Hé..."}
+{"id": 11791, "h": "3ac2db7a", "fr": "Quelle est la durée normale pour être inconsciente et halluciner ?"}
+{"id": 11792, "h": "d8382b85", "fr": "mnmm... tu veux dire... dormir et rêver ?"}
+{"id": 11793, "h": "b9b53234", "fr": "J'sais pas, j'arrive pas à réfléchir, là."}
+{"id": 11794, "h": "e46cd3d7", "fr": "Je m'attendais pas à ce que tu maîtrises le sujet de façon aussi encyclopédique."}
+{"id": 11795, "h": "a160ca63", "fr": "J'ai besoin... de plus de temps pour récupérer... mais vas-y. Je te rattraperai."}
+{"id": 11796, "h": "e45cadf6", "fr": "Va pas faire un truc trop dangereux..."}
+{"id": 11797, "h": "cd76f5be", "fr": "Je vais... vouloir... les rounds quatre, cinq et six."}
+{"id": 11798, "h": "70a335dd", "fr": "Plusieurs heures plus tard..."}
+{"id": 11799, "h": "32fc3b5a", "fr": "Les Busters sont conçues pour ce niveau d'interaction humaine ?"}
+{"id": 11800, "h": "1d1cdbd4", "fr": "Moi non plus. Peut-être les Busters étaient-elles autrefois destinées à des interactions humaines plus générales."}
+{"id": 11801, "h": "044b019e", "fr": "<wiggle>tadam !</wiggle> Sacrée vue, hein ?"}
+{"id": 11802, "h": "5fffa191", "fr": "Chaque chose en son temps. D'abord, on met l'ambiance."}
+{"id": 11803, "h": "a3659690", "fr": "Oh, ouais ! Les jauges d'ambiance explosent, génial !"}
+{"id": 11804, "h": "31dc672d", "fr": "Allez, on allume cette bougie."}
+{"id": 11805, "h": "1b11ea37", "fr": "Je suis très désavantagée, ici. J'ai très peu de souvenirs d'avant notre rencontre."}
+{"id": 11806, "h": "558209c2", "fr": "et ce que je ressens à présent..."}
+{"id": 11807, "h": "b7835488", "fr": "Je consacre une puissance de calcul considérable à déchiffrer mes sentiments."}
+{"id": 11808, "h": "7bfebb65", "fr": "comme si toutes les fibres synthétiques de mon système s'illuminaient d'électricité."}
+{"id": 11809, "h": "69a464e4", "fr": "Comme si j'avais une amie pour la première fois. Même en comptant avant ma perte de mémoire."}
+{"id": 11810, "h": "35efc737", "fr": "des sensations que les androïdes ne devraient pas pouvoir éprouver."}
+{"id": 11811, "h": "562edd68", "fr": "C'est difficile à décrire. J'ai eu l'impression que Cellium était plutôt... un tuteur."}
+{"id": 11812, "h": "d3853dc3", "fr": "C'est une façon mignonne de dire que ton seul ami, c'était ton père."}
+{"id": 11814, "h": "e601327b", "fr": "Je pensais à ce que je veux, moi, pas à ce qui est le mieux pour toi."}
+{"id": 11815, "h": "e1b71497", "fr": "Cette nuit devrait être spéciale pour toi. Faut la traiter avec un minimum de dignité !"}
+{"id": 11816, "h": "4ded9669", "fr": "Je t'écoute."}
+{"id": 11817, "h": "f95a6ef2", "fr": "On va se faire un vrai rencard !"}
+{"id": 11818, "h": "5e7b89ee", "fr": "On va faire la tournée des grands-ducs ! La teuf jusqu'au lever du soleil ! Une vraie soirée entre filles !"}
+{"id": 11819, "h": "b9f2ca76", "fr": "J'ai plein d'idées. Heureusement que t'as gardé ton manteau. En route !"}
+{"id": 11821, "h": "55a5754a", "fr": "Tu sais, Buster 09. Je crois que j'ai fait une erreur."}
+{"id": 11822, "h": "956900e9", "fr": "Je ne sais pas si j'ai changé, ou si j'ai toujours été ainsi."}
+{"id": 11823, "h": "c056acc1", "fr": "Un lit et son unique occupante, épuisée. Je vais la laisser se reposer."}
+{"id": 11824, "h": "cde7a25b", "fr": "Je ne crois pas qu'elle soit chez elle. Elle doit être partie à ma recherche."}
+{"id": 11825, "h": "d7df0e31", "fr": "Tu sais, à la réflexion, je crois que j'aimerais vivre..."}
+{"id": 11826, "h": "913585bd", "fr": "...notre quatrième, cinquième et sixième expérience humaine."}
+{"id": 11827, "h": "a3881891", "fr": "J'ai jamais rencontré personne capable de tenir mon endurance !"}
+{"id": 11828, "h": "b9fe0466", "fr": "C'est parti !"}
+{"id": 11829, "h": "c13f3530", "fr": "Je crois que c'est le lit. Il faisait pas ce bruit avant."}
+{"id": 11830, "h": "4133bb50", "fr": "Devons-nous le réparer ?"}
+{"id": 11831, "h": "248c9ca2", "fr": "J'ai dit qu'il était pété, j'ai pas dit d'arrêter. Continue ça."}
+{"id": 11832, "h": "2c6146e2", "fr": "<shake>*hff*</shake> Bon Dieu."}
+{"id": 11833, "h": "33836c6b", "fr": "T'as fait des choix créatifs audacieux, cette fois, et c'étaient les bons."}
+{"id": 11834, "h": "3335f5ad", "fr": "D'accord ! <shake>T-t'as gagné !</shake> Attends... j'ai besoin d'une toute petite mini-pause."}
+{"id": 11835, "h": "bb149010", "fr": "C'est quoi, ça !?"}
+{"id": 11836, "h": "cb45d670", "fr": "OK, OK, attends, non. Je peux pas, là."}
+{"id": 11837, "h": "40590b40", "fr": "comme si je me faisais sauter sur un canard en plastique. Faut qu'on répare ça."}
+{"id": 11838, "h": "f2bfe96c", "fr": "Je l'ai réparé."}
+{"id": 11839, "h": "21a61af9", "fr": "Bon, on en était où ?"}
+{"id": 11840, "h": "a665bf7f", "fr": "Ah, et puis merde, attends, laisse-moi juste..."}
+{"id": 11841, "h": "7edd8514", "fr": "<wave>Ahhh...</wave> OK, maintenant on peut le réparer."}
+{"id": 11842, "h": "f68928a6", "fr": "Un lit, bien mieux rangé à présent."}
+{"id": 11843, "h": "4a8b72ea", "fr": "Un lit. Un peu en désordre, défait."}
+{"id": 11844, "h": "157e421e", "fr": "J'ai trouvé ces lumières dans une poubelle ! Tu te rends compte que quelqu'un jetait un truc aussi joli ?"}
+{"id": 11845, "h": "ed958b0e", "fr": "Ouais, un toit ouvrant à cette profondeur, c'est un risque d'implosion monstre. Mais une fois, j'ai vu passer une baleine ! Donc ça vaut."}
+{"id": 11846, "h": "15520c2e", "fr": "Je dois faire le ménage !"}
+{"id": 11847, "h": "815a1141", "fr": "Je laisse passer pour cette fois..."}
+{"id": 11848, "h": "44051120", "fr": "L'embrasser"}
+{"id": 11849, "h": "10bfbaf5", "fr": "Rester amies"}
+{"id": 11850, "h": "695861d4", "fr": "J'ai du mal à m'y faire"}
+{"id": 11851, "h": "7f2fd424", "fr": "Je suis encore là, non ?"}

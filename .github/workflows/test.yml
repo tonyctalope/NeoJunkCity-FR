@@ -15,9 +15,22 @@ jobs:
         env:
           PYTHONIOENCODING: utf-8
         run: python dev\selftest.py "%RUNNER_TEMP%\vf"
+      - name: Fichiers de traduction et outil de construction
+        shell: cmd
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          python dev\verifier_traduction.py || exit /b 1
+          python -m pip install -q -r build\requirements.txt || exit /b 1
+          python build\construire.py --help
   linux:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Installateur Linux sur un faux dossier de jeu
         run: python3 dev/selftest.py "$RUNNER_TEMP/vf"
+      - name: Fichiers de traduction et outil de construction
+        run: |
+          python3 dev/verifier_traduction.py
+          python3 -m pip install -q -r build/requirements.txt
+          python3 build/construire.py --help

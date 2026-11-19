@@ -1,0 +1,1114 @@
+{"id": 400, "h": "9ae2cb2b", "fr": "Importer"}
+{"id": 401, "h": "c1b6a81f", "fr": "Sauvegarde auto"}
+{"id": 14058, "h": "9fb57f53", "fr": "Joueuse"}
+{"id": 404, "h": "22c0e20b", "fr": "Bol de ramen"}
+{"id": 405, "h": "5d9f6e78", "fr": "Seau avec logo d'eau"}
+{"id": 407, "h": "80fa5756", "fr": "Coupe glacée"}
+{"id": 406, "h": "66a01b72", "fr": "Bidon de carburant"}
+{"id": 3273, "h": "f0408eef", "fr": "Canette de soda"}
+{"id": 3274, "h": "2d383580", "fr": "Douilles"}
+{"id": 3275, "h": "7f3ec3e9", "fr": "Tournevis"}
+{"id": 3276, "h": "2d5c1be5", "fr": "Poils verts"}
+{"id": 3277, "h": "10f83d35", "fr": "Blaster K-60 \"Le Juge\""}
+{"id": 3278, "h": "858a471c", "fr": "Plaque Buster"}
+{"id": 9412, "h": "4f76c565", "fr": "Couronne"}
+{"id": 11993, "h": "2adb5e7b", "fr": "Carte d'accès - \"Le Nid du Rat\""}
+{"id": 4688, "h": "46b66db6", "fr": "Bouteille de whisky"}
+{"id": 6667, "h": "25bd9f85", "fr": "Protéine en poudre Dnali"}
+{"id": 3279, "h": "4a9f2168", "fr": "Balle meurtrière"}
+{"id": 3281, "h": "be40db64", "fr": "Clé du pont"}
+{"id": 3282, "h": "930389d7", "fr": "Moufle"}
+{"id": 3284, "h": "c3e4b44b", "fr": "Medi-Mochi"}
+{"id": 3286, "h": "54a44dda", "fr": "Nano-nouilles"}
+{"id": 3285, "h": "bf719ed8", "fr": "Nano-breuvage"}
+{"id": 14069, "h": "5d962b9a", "fr": "Bubble tea énergisant"}
+{"id": 3287, "h": "a0118070", "fr": "Roue"}
+{"id": 3288, "h": "660c0d01", "fr": "Carte d'identité [impact de balle]"}
+{"id": 3289, "h": "eaefba10", "fr": "Magazine Hot Car"}
+{"id": 3290, "h": "f96b227d", "fr": "Magazine Grow"}
+{"id": 3291, "h": "e826599d", "fr": "Magazine Prim"}
+{"id": 3292, "h": "d4911f3a", "fr": "Nettoyant auto"}
+{"id": 3296, "h": "533aa7b7", "fr": "Injecteur Neuro-Sync"}
+{"id": 3293, "h": "3f498dd1", "fr": "Chiffon"}
+{"id": 3294, "h": "a50d2a1d", "fr": "Chiffon imbibé de nettoyant"}
+{"id": 3295, "h": "6ef659a9", "fr": "Témoignage - Cindy"}
+{"id": 3298, "h": "406b948c", "fr": "Clé lézard"}
+{"id": 3299, "h": "69d0b5ab", "fr": "Clé musicale verte"}
+{"id": 3301, "h": "e9608d21", "fr": "Clé musicale violette"}
+{"id": 3300, "h": "732940b2", "fr": "Clé musicale rouge"}
+{"id": 3306, "h": "1d09c035", "fr": "Clé holo-données"}
+{"id": 3302, "h": "3d389f08", "fr": "Clé musicale bleue"}
+{"id": 3303, "h": "99f472d3", "fr": "Clé du bureau"}
+{"id": 3304, "h": "e60b0b41", "fr": "Statuette de lune"}
+{"id": 3305, "h": "bd1a5a2b", "fr": "Dose de nourriture pour chat"}
+{"id": 3307, "h": "11c5a52e", "fr": "Briquet"}
+{"id": 3308, "h": "7b744d27", "fr": "Jeton de pierre - Épée"}
+{"id": 3309, "h": "c1bef06a", "fr": "Jeton de pierre - Hache"}
+{"id": 3310, "h": "7e0f048b", "fr": "Jeton de pierre - Lance"}
+{"id": 3312, "h": "ad925e4f", "fr": "Engrenage 6"}
+{"id": 3311, "h": "33f6cbec", "fr": "Engrenage 1"}
+{"id": 3313, "h": "700e7ff4", "fr": "Levier de roue orange"}
+{"id": 3314, "h": "a186cd74", "fr": "Levier de roue violet"}
+{"id": 3315, "h": "4ce97103", "fr": "Verre de vin"}
+{"id": 3317, "h": "ef708b06", "fr": "Masque de Digit"}
+{"id": 3318, "h": "1e684e61", "fr": "Puce informatique -"}
+{"id": 3319, "h": "62629857", "fr": "Lunettes de DJ"}
+{"id": 3321, "h": "ecb0d495", "fr": "Buster - Masque de gala"}
+{"id": 3320, "h": "e96720e5", "fr": "Cisailles de l'Araignée"}
+{"id": 3322, "h": "8779e24c", "fr": "Pizza aux champis"}
+{"id": 3323, "h": "6132b306", "fr": "Petite caméra de stream"}
+{"id": 3325, "h": "3a6ea129", "fr": "Billet du gala - Camille Jackson"}
+{"id": 3324, "h": "ebf4f0e8", "fr": "Tenue de détective"}
+{"id": 3326, "h": "1d8f92b4", "fr": "Tablette"}
+{"id": 4232, "h": "6732cca9", "fr": "Romarin"}
+{"id": 4233, "h": "991689bd", "fr": "Tasse de sang"}
+{"id": 4231, "h": "bc999186", "fr": "Baies de belladone"}
+{"id": 4234, "h": "39420a2d", "fr": "Bol vide"}
+{"id": 4235, "h": "da567cee", "fr": "Sel de cimetière"}
+{"id": 4236, "h": "7392bf32", "fr": "Bol de soupe de sang"}
+{"id": 4247, "h": "da77b704", "fr": "Corne d'or"}
+{"id": 4689, "h": "9a3956f1", "fr": "Actée rouge"}
+{"id": 4690, "h": "5fb92620", "fr": "Citron"}
+{"id": 4691, "h": "5a0b480b", "fr": "Citron vert"}
+{"id": 4692, "h": "707a9fa2", "fr": "Oeuf"}
+{"id": 4693, "h": "63fb9df7", "fr": "Capuchon-de-moine"}
+{"id": 4694, "h": "b95b8c19", "fr": "Cocktail Tête de mort"}
+{"id": 4695, "h": "856777ac", "fr": "Bombe au whisky"}
+{"id": 4696, "h": "468f048d", "fr": "Tasse à thé vide"}
+{"id": 4697, "h": "7d6c8240", "fr": "Terre consacrée"}
+{"id": 4698, "h": "2fc94fc9", "fr": "Sel"}
+{"id": 4699, "h": "4a055f7e", "fr": "Avis de recherche de Kitty Boo"}
+{"id": 4700, "h": "c92b84c9", "fr": "Couteau ensanglanté"}
+{"id": 4701, "h": "e7253e6b", "fr": "Clé de la chambre d'invités"}
+{"id": 4702, "h": "7a7c3706", "fr": "Arme d'hast décorative"}
+{"id": 4703, "h": "a4bc039a", "fr": "Échantillon de poison"}
+{"id": 6668, "h": "4749caf0", "fr": "Pelle d'or"}
+{"id": 6669, "h": "08901c6e", "fr": "Uniforme de la KDR"}
+{"id": 6670, "h": "4869ad24", "fr": "Carte d'identité du Dr Hydnellum"}
+{"id": 6671, "h": "f64ceb44", "fr": "Badge KDR - Jaune"}
+{"id": 6672, "h": "7a80afce", "fr": "Peluche Buster [uniforme]"}
+{"id": 6673, "h": "e848a233", "fr": "Sac de courses"}
+{"id": 6675, "h": "dffa6312", "fr": "Boîte de donuts"}
+{"id": 6676, "h": "a75929e4", "fr": "Coupe-boulons"}
+{"id": 6677, "h": "02572b20", "fr": "Clé de la trappe de la bombe"}
+{"id": 6678, "h": "41ad9911", "fr": "Badge KDR - Vert"}
+{"id": 8757, "h": "908935d6", "fr": "Carte 1 de Mermaid's Gambit"}
+{"id": 6679, "h": "efeb21b8", "fr": "Petit engin explosif"}
+{"id": 6680, "h": "3b8db6a3", "fr": "Badge KDR - Orange"}
+{"id": 6681, "h": "0586c849", "fr": "Clé de casier"}
+{"id": 6682, "h": "f4a73a1d", "fr": "Manuel de moteur à réaction"}
+{"id": 6683, "h": "e7bbd570", "fr": "Corde de remorquage"}
+{"id": 8754, "h": "4d5dbc01", "fr": "Réserve de Zahara"}
+{"id": 8755, "h": "fbc152a9", "fr": "Anneau d'éternité"}
+{"id": 8756, "h": "ac9a5ef0", "fr": "Pot de peinture"}
+{"id": 8758, "h": "161d4778", "fr": "Carte 2 de Mermaid's Gambit"}
+{"id": 8759, "h": "dd4194dd", "fr": "Carte 3 de Mermaid's Gambit"}
+{"id": 8760, "h": "c044a465", "fr": "Carte 4 de Mermaid's Gambit"}
+{"id": 8761, "h": "c059965d", "fr": "Carte Sirène de Mermaid's Gambit"}
+{"id": 8762, "h": "110f2d8e", "fr": "Jeu de Mermaid's Gambit"}
+{"id": 8763, "h": "5c437c31", "fr": "Grog"}
+{"id": 8764, "h": "befeb390", "fr": "Miel"}
+{"id": 8765, "h": "161c8e57", "fr": "Eau froide"}
+{"id": 8766, "h": "69d33a6b", "fr": "Eau chaude"}
+{"id": 8767, "h": "56c9b645", "fr": "Bague de fiançailles"}
+{"id": 8768, "h": "b6c81a3a", "fr": "Étoile de shérif"}
+{"id": 8770, "h": "68efff54", "fr": "Pomme"}
+{"id": 8769, "h": "83815a4b", "fr": "Provisions pour le désert"}
+{"id": 8771, "h": "3fee570a", "fr": "Tuner à sirènes"}
+{"id": 8772, "h": "bf17eb77", "fr": "Échelle télescopique"}
+{"id": 8774, "h": "514c20b6", "fr": "Verre vide"}
+{"id": 8775, "h": "f19be302", "fr": "Clé du coffre"}
+{"id": 8776, "h": "a880492e", "fr": "Mandat pour le Dusty Rose"}
+{"id": 8777, "h": "fea5c2b6", "fr": "Dusty Rose - Clé de la chambre 301"}
+{"id": 8779, "h": "ccb42483", "fr": "Mot de passe"}
+{"id": 8778, "h": "666ef93b", "fr": "Dusty Rose - Clé de la chambre 202"}
+{"id": 8780, "h": "977b149c", "fr": "Caillou"}
+{"id": 8781, "h": "9303e57b", "fr": "Coeur d'or (faux)"}
+{"id": 9182, "h": "d0f3f31c", "fr": "Oeil de robot rouge"}
+{"id": 9183, "h": "c5e23170", "fr": "Carte en soie"}
+{"id": 9258, "h": "2652688c", "fr": "Micro"}
+{"id": 9638, "h": "a6b23da3", "fr": "Mod autotune"}
+{"id": 9639, "h": "17434c43", "fr": "Micro modifié"}
+{"id": 11990, "h": "dbaabb60", "fr": "Clé de l'ascenseur de Sugar"}
+{"id": 11991, "h": "43c6ae5a", "fr": "Gin Prism"}
+{"id": 11992, "h": "58fb63e5", "fr": "Oeuf de flamant rose"}
+{"id": 11994, "h": "3c21b472", "fr": "Batterie de drone-baleine"}
+{"id": 11995, "h": "dd4edc01", "fr": "Deux pennies"}
+{"id": 11999, "h": "077f6629", "fr": "Contrôleur de drone-baleine"}
+{"id": 11996, "h": "bfaa15c3", "fr": "Noyau de titan"}
+{"id": 11997, "h": "fbaabf5e", "fr": "Clé du Tartare"}
+{"id": 9640, "h": "917a8c84", "fr": "Crâne du shérif"}
+{"id": 11998, "h": "5dc6da9f", "fr": "Tête de Méduse"}
+{"id": 12000, "h": "01a3dbcd", "fr": "Métal"}
+{"id": 12001, "h": "e2e91434", "fr": "Piège à ferraille"}
+{"id": 12002, "h": "c9dccfe8", "fr": "Canne à pêche"}
+{"id": 12003, "h": "07b76576", "fr": "Seigneur Hadès"}
+{"id": 12004, "h": "d220a0ff", "fr": "Clé du manoir"}
+{"id": 12005, "h": "504ebbf5", "fr": "Carte d'accès du portail"}
+{"id": 12006, "h": "8fdb5683", "fr": "Orbe du destin"}
+{"id": 12007, "h": "e3604966", "fr": "Eau de mer"}
+{"id": 12008, "h": "70357fac", "fr": "Bouteille d'eau"}
+{"id": 12009, "h": "8428f911", "fr": "Coeur d'or"}
+{"id": 12010, "h": "f81b6962", "fr": "Chausse-trapes"}
+{"id": 12011, "h": "fdef1dda", "fr": "Singe à cymbales"}
+{"id": 12012, "h": "10a4f81d", "fr": "Clé de chambre de l'hôtel de la Toile"}
+{"id": 12013, "h": "62095b09", "fr": "Cookie batterie"}
+{"id": 14060, "h": "901c5a5f", "fr": "Fragment de mémoire A"}
+{"id": 14061, "h": "09150be5", "fr": "Fragment de mémoire B"}
+{"id": 14062, "h": "5bcc21d1", "fr": "Fragment de mémoire C"}
+{"id": 14063, "h": "e076aed0", "fr": "Fragment de mémoire D"}
+{"id": 14064, "h": "97719e46", "fr": "Fragment de mémoire E"}
+{"id": 14059, "h": "0e78cffc", "fr": "Fragment de mémoire F"}
+{"id": 14065, "h": "797fff6a", "fr": "Fragment de mémoire G"}
+{"id": 14066, "h": "88ae0efb", "fr": "Preuve contre Ark : charité"}
+{"id": 14067, "h": "def95954", "fr": "Télécommande"}
+{"id": 14068, "h": "293bb252", "fr": "Carte d'accès de la réserve"}
+{"id": 14070, "h": "2ca8dbcf", "fr": "Carte de salle de sport - Zahara Madara"}
+{"id": 14071, "h": "82a2be3c", "fr": "\"Le grand livre de l'amitié\""}
+{"id": 14987, "h": "9bda60b9", "fr": "Carte de visite de Cyn"}
+{"id": 15287, "h": "d045d819", "fr": "Clé de la Cité Engloutie"}
+{"id": 3327, "h": "4cb2f934", "fr": "En cours"}
+{"id": 3328, "h": "bb11b275", "fr": "Terminé"}
+{"id": 3329, "h": "26158477", "fr": "Échoué"}
+{"id": 408, "h": "abad6584", "fr": "Parler au Dr Cellium"}
+{"id": 3330, "h": "0653446c", "fr": "Bonjour, le monde ! Allez parler au Dr Cellium pour commencer. C'est le type aux cheveux en champignon."}
+{"id": 409, "h": "7b2baf46", "fr": "Commencé"}
+{"id": 410, "h": "b809decd", "fr": "Terminé"}
+{"id": 411, "h": "477d8ccb", "fr": "Défi #1 - Utiliser des objets"}
+{"id": 3331, "h": "459491c7", "fr": "Parlez au minibot pour apprendre à examiner et à utiliser les objets."}
+{"id": 414, "h": "7d6c10cf", "fr": "Vous avez été bernée !"}
+{"id": 415, "h": "b2bc0f0b", "fr": "Bernée, mais victorieuse !"}
+{"id": 9202, "h": "ed0fce17", "fr": "Défi #2 - Utiliser des objets (en cours)"}
+{"id": 416, "h": "f02c7fff", "fr": "Défi #2 - Tirer sur le mannequin de tir"}
+{"id": 3332, "h": "26d4ab5a", "fr": "Utilisez le mannequin de tir au chapeau melon et à la mitraillette pour visiter la ruelle du crime et apprendre à tirer."}
+{"id": 3333, "h": "fc97a4e1", "fr": "Examiner le corps du Dr Cellium"}
+{"id": 3334, "h": "5c94127c", "fr": "Vous vous réveillez dans une ruelle, debout au-dessus du cadavre de votre tuteur. Dans vos mains, une arme encore fumante. Élucidez ce mystère : pourquoi avoir tué un si gentil vieil homme ?"}
+{"id": 3337, "h": "dd51af31", "fr": "Traverser le pont"}
+{"id": 3338, "h": "5787b277", "fr": "Trouvez le moyen de traverser le pont pour continuer à poursuivre le Rat. Commencez par interroger les habitants."}
+{"id": 3341, "h": "e3b8505a", "fr": "Quête annexe : tirer sur huit bouteilles"}
+{"id": 3342, "h": "58d50148", "fr": "Deux fumeurs de joints désoeuvrés vous ont mise au défi de trouver huit bouteilles et de tirer dessus. Peut-être vous donneront-ils quelque chose d'intéressant si vous y arrivez ? Si vous ne savez plus combien il en reste, demandez-leur. Elles se trouvent toutes dans la zone basse de Water Way et à l'hôtel de la Toile."}
+{"id": 3345, "h": "0be1d777", "fr": "Sprinkle va à la pêche"}
+{"id": 3346, "h": "8b99a625", "fr": "Sprinkle dit qu'elle vous aidera si vous l'aidez. Apportez-lui quelque chose à base de vers qui serve d'appât."}
+{"id": 3349, "h": "d972e839", "fr": "Explorer l'hôtel de la Toile"}
+{"id": 3350, "h": "323cf50e", "fr": "Une fois le pont traversé, vous découvrez une zone truffée de droïdes de combat et de cadavres : l'hôtel de la Toile. Vous devez suivre la femme rat à travers cet endroit dangereux."}
+{"id": 3353, "h": "0829de29", "fr": "Suivre ce Rat !"}
+{"id": 3354, "h": "18fda94b", "fr": "La femme rat vous a vue commettre le crime. Vous devez la retrouver pour qu'elle comble les trous de votre mémoire !"}
+{"id": 3357, "h": "911e89e4", "fr": "Retourner sur la scène de crime"}
+{"id": 3358, "h": "0c44fb37", "fr": "Vous devez retourner sur la scène de crime pour diriger l'enquête sur le meurtre du Dr Cellium."}
+{"id": 3361, "h": "321385f0", "fr": "Trouver le QG Buster"}
+{"id": 3362, "h": "a33a6495", "fr": "Localisez votre base."}
+{"id": 3365, "h": "ad7adb63", "fr": "Réparer votre voiture"}
+{"id": 3366, "h": "9ba26ab3", "fr": "Pour réparer votre voiture, il va falloir un peu d'huile de coude. Mais une fois que ce sera fait, elle devrait pouvoir vous emmener au QG Buster."}
+{"id": 3369, "h": "4ba19cf0", "fr": "Trouver quatre roues"}
+{"id": 3370, "h": "c9f89614", "fr": "Toutes les réparations du monde ne serviront à rien si la voiture n'a pas de roues. Trouvez-en quatre et montez-les sur votre voiture."}
+{"id": 3372, "h": "22d39adb", "fr": "Les quatre roues sont localisées !"}
+{"id": 3373, "h": "575363d5", "fr": "Vous avez trouvé des roues ! Il ne reste plus qu'à les monter."}
+{"id": 3375, "h": "061f2f6c", "fr": "L'affaire de l'injecteur disparu"}
+{"id": 3376, "h": "37e2c2b5", "fr": "Si vous retrouvez l'injecteur Neuro-Sync perdu, apportez-le aux bots garagistes pour qu'ils le remontent."}
+{"id": 3378, "h": "d05a7832", "fr": " Injecteur Neuro-Sync localisé !"}
+{"id": 3379, "h": "eda8f220", "fr": "Vous avez localisé l'injecteur Neuro-Sync ! Apportez-le maintenant aux bots."}
+{"id": 3381, "h": "aa753e58", "fr": "Nettoyer la voiture"}
+{"id": 3382, "h": "e5b34166", "fr": "Vous allez vous faire remarquer et paraître très suspecte si vous roulez dans une voiture sale et cabossée. Rendez-la présentable, qu'elle ait au moins l'air en état de rouler."}
+{"id": 3385, "h": "c37b511b", "fr": "Parler à votre créatrice, le Dr Hydnellum"}
+{"id": 3386, "h": "43a5d717", "fr": "Vous devez parler à votre mère au QG Buster."}
+{"id": 3389, "h": "29797536", "fr": "Localiser le domicile du Dr Cellium."}
+{"id": 3390, "h": "edfdf077", "fr": "On vous a remis une clé du domicile du Dr Cellium. Il se trouverait à Coinrust, à côté du garage Two Bots."}
+{"id": 3393, "h": "c47895dd", "fr": "Déverrouiller l'ordinateur du Dr Cellium."}
+{"id": 3394, "h": "a56e635a", "fr": "En arrivant chez le Dr Cellium, vous avez trouvé un ordinateur portable aux données verrouillées. Il doit contenir des informations importantes. "}
+{"id": 3397, "h": "3cda768d", "fr": "Fouiller les fichiers"}
+{"id": 3398, "h": "9792537b", "fr": "Maintenant qu'ils sont déverrouillés, fouillez les fichiers de l'ordinateur du Dr Cellium."}
+{"id": 3401, "h": "697ce59d", "fr": "Enrôler l'Araignée"}
+{"id": 3402, "h": "528a1d8d", "fr": "Et si l'on tissait une alliance avec l'Araignée ? Allez voir si vous pouvez le convaincre de rallier votre cause. Il est actuellement détenu au QG Buster."}
+{"id": 3405, "h": "68fa62c2", "fr": "Aller au chantier"}
+{"id": 3406, "h": "3f66cb4c", "fr": "Situé juste au sud de Coinrust. Montez une souricière avec l'Araignée pour piéger l'agent d'Ark."}
+{"id": 3409, "h": "f0d9cca3", "fr": "Percer le code du van"}
+{"id": 3410, "h": "85a07ece", "fr": "En vous servant uniquement de ce que contient le van, essayez de découvrir tous les chiffres du code de la porte de Lizard Logic. Aucune honte à deviner s'il vous en manque !"}
+{"id": 3413, "h": "dcde870b", "fr": "Vaincre le Lézard !"}
+{"id": 3414, "h": "ea500a6a", "fr": "Vous avez pisté et acculé le Lézard dans sa station de radio. Franchissez tous ses pièges et ses périls, puis affrontez le Lézard en personne."}
+{"id": 3417, "h": "f514e92b", "fr": "Retourner voir le Dr Hydnellum"}
+{"id": 3418, "h": "519cbae5", "fr": "Le Lézard vaincu, vous devriez faire votre rapport à votre mère."}
+{"id": 3421, "h": "390b35e3", "fr": "Interroger le Lézard"}
+{"id": 3422, "h": "ad1f84b2", "fr": "Le Lézard, alias \"DJ Lizard Brain\", se trouve en détention au QG Buster. Vous devez maintenant l'interroger pour obtenir des renseignements."}
+{"id": 3425, "h": "433cab7d", "fr": "Enrôler le Lézard"}
+{"id": 3426, "h": "7e03ad87", "fr": "Si vous lui donnez une caméra de stream, le Lézard accepte de vous fournir des renseignements."}
+{"id": 3429, "h": "eb6835d3", "fr": "Déchiffrer le code du billet du gala"}
+{"id": 3430, "h": "73419976", "fr": "Le billet du gala porte au dos un message codé qui semble donner au Lézard des instructions ultrasecrètes."}
+{"id": 3434, "h": "9ae94574", "fr": "Le code du billet du gala est déchiffré. Vous devriez rapporter ses secrets au Dr Hydnellum."}
+{"id": 3437, "h": "0b0f0b92", "fr": "Se préparer pour le gala"}
+{"id": 3438, "h": "47ba2a0e", "fr": "Quand vous aurez tout ce qu'il faut pour le gala, sautez dans votre voiture et roulez jusqu'au château Thornheart !"}
+{"id": 3440, "h": "880a7fd4", "fr": "Préparatifs du gala"}
+{"id": 3442, "h": "e57b2266", "fr": "Trouver un rencard pour le gala"}
+{"id": 3443, "h": "3d382895", "fr": "Impossible d'y aller seule. C'est une réception huppée, pleine de regards réprobateurs. Vous devez y paraître comme n'importe quelle invitée : accompagnée."}
+{"id": 3446, "h": "e5bcff88", "fr": "Parler à Cindy"}
+{"id": 3447, "h": "cb436aa9", "fr": "D'après le Rat, Cindy, ou \"la fille à tête de calmar\" si vous préférez, vous a choisi une tenue pour le gala. Allez la récupérer auprès d'elle."}
+{"id": 3450, "h": "d6cff9b9", "fr": "Se procurer un masque"}
+{"id": 3451, "h": "17c88891", "fr": "Le gala est un bal masqué. En plus de tout le reste, il vous faudra aussi un masque !"}
+{"id": 3454, "h": "5f82e7d3", "fr": "Trouver une tenue convenable"}
+{"id": 3455, "h": "745dc6eb", "fr": "Il faut être bien habillée. Un justaucorps bleu et des épaulettes, ça ne suffira pas."}
+{"id": 3458, "h": "e6f43563", "fr": "Rouler jusqu'au château Thornheart"}
+{"id": 3459, "h": "28df3c2b", "fr": "En route pour le gala !"}
+{"id": 4237, "h": "8f87cf50", "fr": "Nourrir le roi Midas"}
+{"id": 4238, "h": "cda84c82", "fr": "Le roi Midas vous a priée de lui apporter de la soupe de sang et du vin empoisonné."}
+{"id": 4239, "h": "bd5f336c", "fr": "Ingrédients de la soupe de sang"}
+{"id": 4240, "h": "684624eb", "fr": "Ingrédients de la soupe de sang\n- Sang frais\n- Romarin\n- Sel de cimetière\n"}
+{"id": 4241, "h": "8ce649af", "fr": "Ingrédients du cocktail Tête de mort"}
+{"id": 4242, "h": "029ac399", "fr": "Ingrédients du cocktail Tête de mort\n- Baies de belladone\n- Baies d'actée rouge\n- Pétales de capuchon-de-moine\n- Jus de citron vert"}
+{"id": 4243, "h": "5cbfdfba", "fr": "Préparer un verre à Zahara"}
+{"id": 4244, "h": "e1a70333", "fr": "Zahara ne coopérera pas tant que vous ne lui aurez pas préparé une bombe au whisky. Vous devriez pouvoir en trouver la recette en cherchant un peu."}
+{"id": 6684, "h": "2d773516", "fr": "L'ordre de Mère"}
+{"id": 6685, "h": "8f56fbd0", "fr": "Bien qu'elle l'ait reconnue innocente, le Dr Hydnellum vous a tout de même ordonné d'arrêter le Rat."}
+{"id": 6686, "h": "651954cd", "fr": "Retourner au QG Buster"}
+{"id": 6687, "h": "31de2a9c", "fr": "Parlez à la Chauve-souris dans sa cellule et tâchez de lui soutirer d'autres renseignements."}
+{"id": 6688, "h": "3a431acf", "fr": "À manger pour le chat et le Rat"}
+{"id": 6689, "h": "8cbcbc8f", "fr": "Les biologiques ont besoin de se sustenter. Achetez de quoi manger pour le Rat et refaites le stock de nourriture pour chat de Chief."}
+{"id": 6690, "h": "bb055e9a", "fr": "Quête annexe : la quête des donuts"}
+{"id": 15288, "h": "5e60be48", "fr": "Cinq boîtes de donites empoisonnées ont été déposées dans Coinrust. Trouvez-les avant que quelqu'un n'en mange une."}
+{"id": 6691, "h": "8e1c403c", "fr": "Buster a fait un trip de malade"}
+{"id": 6692, "h": "eeeff4a7", "fr": "Buster a fait un trip de malade et a eu une agréable conversation avec elle-même."}
+{"id": 6693, "h": "ae80d09e", "fr": "Les nouveautés de Skeen"}
+{"id": 6694, "h": "e7a2dd20", "fr": "Skeen a un nouvel article qui pourrait servir à organiser une rencontre avec l'ex-agent de la KDR. Achetez-le, puis remettez-le au Rat."}
+{"id": 6695, "h": "540c277e", "fr": "La KDR rôde"}
+{"id": 6696, "h": "38549bdb", "fr": "La KDR fouine du côté de Soggy Ankles. Vous devriez aller voir si vous pouvez découvrir où se trouve Roost Prime.\n\nSoggy Ankles se situe dans le sud du quartier de Coinrust, après le chantier."}
+{"id": 6697, "h": "e49abc2f", "fr": "Roost Prime localisée"}
+{"id": 6698, "h": "9a0c6daf", "fr": "L'emplacement de Roost Prime est découvert ! Il ne vous reste qu'à rencontrer l'ex-agent de la KDR pour savoir comment vous y introduire. "}
+{"id": 6699, "h": "ffb81fd2", "fr": "Rencontre ex-KDR amorcée"}
+{"id": 6700, "h": "92976a82", "fr": "La rencontre avec l'ex-agent de la KDR est amorcée. Il suffit d'attendre que la peluche soit déposée devant votre bureau : ce sera le signal que la rencontre peut avoir lieu.\n\nEn attendant, on vous a conseillé d'aller faire un tour à Soggy Ankles pour tâcher d'en apprendre plus sur Roost Prime."}
+{"id": 6701, "h": "5d6b59d7", "fr": "Traquer la Chauve-souris !"}
+{"id": 6702, "h": "0d7723f4", "fr": "Lazarus se cache. Mais il ne peut pas être loin. Il doit être quelque part dans le parc du château. Trouvez-le !"}
+{"id": 8782, "h": "e88761d2", "fr": "Trouver la réserve"}
+{"id": 8783, "h": "c7fa0959", "fr": "Zahara accepte de vous aider si vous remettez à Dr Eightball sa réserve secrète, cachée au Kraken Coffee."}
+{"id": 8784, "h": "27e980e1", "fr": "Livrer la réserve"}
+{"id": 8785, "h": "9f3076b3", "fr": "Vous avez mis la main sur la réserve de Zahara. Livrez-la maintenant à Dr Eightball, comme demandé."}
+{"id": 8796, "h": "ff716dcd", "fr": "Réserve de Zahara récupérée"}
+{"id": 8786, "h": "e957fcc7", "fr": "Retrouver Terrence"}
+{"id": 8787, "h": "cbd46864", "fr": "Terrence, un homme rencontré dans le hall du QG Buster, dit que vous avez une amie commune qui a besoin d'aide. Il vous a donné rendez-vous au bateau à ramen, juste avant la zone basse de Soggy Ankles."}
+{"id": 8788, "h": "a0d1bcae", "fr": "Pilules popper de contrefaçon"}
+{"id": 8789, "h": "8a11edc0", "fr": "Quelqu'un refourgue des pilules de contrefaçon qui font muter ceux qui les prennent. Terrence vous a chargée de retrouver le dealer. Commencez par son client, au Kraken Coffee."}
+{"id": 8790, "h": "74d8e623", "fr": "En attendant Edward"}
+{"id": 8791, "h": "c5c1e8a0", "fr": "Vous attendez maintenant qu'Edward appelle Terrence. Qui sait quand cela arrivera !?"}
+{"id": 8792, "h": "f7cf837d", "fr": "Aller rencontrer William"}
+{"id": 8793, "h": "e70e01c5", "fr": "Edward a fixé l'heure et le lieu du rendez-vous avec William, le dealer qui vend les fausses pilules. "}
+{"id": 8794, "h": "be3f6c10", "fr": "Parler à votre mère"}
+{"id": 8795, "h": "c5c4bb0b", "fr": "La Chauve-souris vous a renseignée sur la Hyène et sur l'endroit où elle se trouve. Vous devez maintenant en informer le Dr Hydnellum."}
+{"id": 8797, "h": "484668fe", "fr": "Aller parler à Zahara"}
+{"id": 8798, "h": "6ede69ac", "fr": "Sa réserve est livrée : allez maintenant parler à Zahara pour en apprendre plus sur le Crotale."}
+{"id": 8799, "h": "853afcc6", "fr": "À coeur ouvert avec Mère."}
+{"id": 8800, "h": "9a5cf150", "fr": "Allez dire au Dr Hydnellum que vous partez dans les Heartlands enquêter sur le Crotale."}
+{"id": 8801, "h": "2dc80b18", "fr": "Changement d'avis"}
+{"id": 8802, "h": "75335bde", "fr": "Vous avez changé d'avis. Vous avez décidé de garder votre mission secrète pour l'instant."}
+{"id": 8803, "h": "ec09241c", "fr": "Changement d'avis"}
+{"id": 8804, "h": "2213bbc6", "fr": "Aller à Marble Junction !"}
+{"id": 8805, "h": "1438173d", "fr": "Retrouvez Terrence et le Rat à votre voiture, puis roulez jusqu'à la lointaine bourgade de Marble Junction."}
+{"id": 15289, "h": "347e04da", "fr": "Coup de peinture"}
+{"id": 15290, "h": "2b9d99d4", "fr": "Les deux bots garagistes sont en ce moment chez Skeen, à Coinrust. Donnez-leur la peinture pour qu'ils maquillent votre voiture !"}
+{"id": 15291, "h": "6c2e59ae", "fr": "Cap sur l'ouest !"}
+{"id": 15292, "h": "65d2c129", "fr": "Votre voiture est maquillée. En route pour Marble Junction !"}
+{"id": 8806, "h": "0ce1a111", "fr": "La souricière est lancée."}
+{"id": 8807, "h": "ab638cb6", "fr": "La souricière va commencer. Cachez-vous quelque part sur le chantier, au sud de Coinrust, et faites sortir l'agent d'Ark de son trou."}
+{"id": 8808, "h": "d24b029f", "fr": "Recette du grog"}
+{"id": 8809, "h": "0d978716", "fr": "La recette du grog, la boisson préférée de Sally.\n1. Whisky\n2. Jus de citron\n3. Eau chaude\n4. Miel"}
+{"id": 8810, "h": "f3bb4958", "fr": "Interroger les filles du bordel"}
+{"id": 8811, "h": "bbf56c14", "fr": "Interrogez les employées du bordel pour découvrir laquelle l'avait pour client."}
+{"id": 8812, "h": "a90a40db", "fr": "Trouver l'oasis des sirènes"}
+{"id": 8813, "h": "ec562e78", "fr": "Utilisez le tuner à sirènes pour localiser l'Oasis. Tant que le tuner est dans votre inventaire, vous pourrez entendre le chant envoûtant des sirènes. Cochez \"Malentendants\" pour afficher une note de musique à suivre."}
+{"id": 8814, "h": "bc8ef354", "fr": "Entrer dans le stand de tir"}
+{"id": 8815, "h": "fb2b5b0f", "fr": "Honest John connaît le mot de passe du stand de tir. Peut-être acceptera-t-il de vous le confier."}
+{"id": 8816, "h": "78dda3e1", "fr": "Constituer un jeu de Mermaid's Gambit"}
+{"id": 8817, "h": "80c044d3", "fr": "Trouvez assez de cartes pour constituer un jeu de Mermaid's Gambit. Il vous faut un deux, un trois, un quatre et une carte Sirène pour un jeu complet."}
+{"id": 8818, "h": "ea381474", "fr": "L'épreuve de la sirène"}
+{"id": 8819, "h": "ca885d24", "fr": "On raconte depuis la nuit des temps qu'il faut repousser la sirène quatre fois avant de pouvoir entrer dans l'eau pétillante trop géniale. Et tout ça est vraiment, vraiment vrai. Genre, vraiment. C'est pas un piège, promis. Je te mentirais jamais, bébé. Viens dans l'eau."}
+{"id": 9203, "h": "5a3c2bd6", "fr": "Défi #3 - Simulateur de conduite"}
+{"id": 9204, "h": "097644dd", "fr": "Activez le simulateur de conduite, puis installez-vous au volant et allez faire un tour."}
+{"id": 9205, "h": "643841e2", "fr": "Franchir cette porte"}
+{"id": 9206, "h": "09681ddf", "fr": "Vous avez terminé tous les défis. Il est temps de partir et de prendre votre service actif."}
+{"id": 9259, "h": "cb9424be", "fr": "Trouver la générale"}
+{"id": 9260, "h": "14056bab", "fr": "Vous devez parler à la générale de l'armée de la KDR pour démasquer le traître qui se cache dans ses rangs."}
+{"id": 9261, "h": "4dca067d", "fr": "Monter jusqu'au tram"}
+{"id": 9262, "h": "04734b62", "fr": "Vous devez trouver un moyen d'éloigner les soldats du pied de l'escalier."}
+{"id": 9263, "h": "b93d5f1b", "fr": "Accéder au centre de commandement de la KDR"}
+{"id": 9264, "h": "50011670", "fr": "Il ne reste plus qu'à trouver un moyen d'accéder au centre de commandement. "}
+{"id": 9265, "h": "cff0ba86", "fr": "Traquer la Hyène !"}
+{"id": 9266, "h": "38f46b3b", "fr": "La Hyène s'est repliée dans la Casse. Vous allez devoir la poursuivre et désamorcer toutes les bombes."}
+{"id": 9267, "h": "a7b9fa39", "fr": "Interroger la Hyène"}
+{"id": 9268, "h": "0f8f1f6a", "fr": "Après avoir parlé à la générale Sar, retournez au QG Buster interroger la Hyène pour obtenir d'autres renseignements !"}
+{"id": 9269, "h": "43e4563a", "fr": "Mot ensanglanté - Frick"}
+{"id": 9270, "h": "ef390e30", "fr": "Frick vous a laissé un mot ensanglanté : il vous demande de venir le voir à Soggy Ankles, là où vous avez sauvé Olly."}
+{"id": 9271, "h": "03f9b0c6", "fr": "Infiltrer la base de la KDR"}
+{"id": 9272, "h": "3bf954a6", "fr": "Vous avez un déguisement et vous avez l'emplacement. Il est temps d'infiltrer la base de la KDR, Roost Prime."}
+{"id": 9273, "h": "fe158eb2", "fr": "Déguisement KDR obtenu"}
+{"id": 9274, "h": "daf93fa9", "fr": "Vous avez maintenant un déguisement pour infiltrer la KDR. Il ne reste qu'à trouver où elle se cache."}
+{"id": 12016, "h": "8de0646e", "fr": "Dusty Rose - Toc-toc secret"}
+{"id": 12017, "h": "cb45f199", "fr": "Vous connaissez le toc-toc secret qui permet d'accéder au dernier étage du Dusty Rose."}
+{"id": 12018, "h": "868a4ebb", "fr": "Défier les sirènes dans un duel de chant"}
+{"id": 12019, "h": "a17ec446", "fr": "Capturer le Crotale"}
+{"id": 12020, "h": "e2652bfe", "fr": "Le Crotale met la ville à sac. Traquez-le au nom de la justice !"}
+{"id": 12021, "h": "b570fb93", "fr": "Aller voir Sugar Ray"}
+{"id": 12022, "h": "6d707bdb", "fr": "Le Crotale vous a demandé de négocier sa libération avec Sugar Ray, en échange d'autres renseignements."}
+{"id": 12023, "h": "1a4347c1", "fr": "Survivre"}
+{"id": 12024, "h": "3cca1cc6", "fr": "Vous êtes endommagée et vous prenez l'eau. Vous devez trouver un moyen de regagner la surface, ou vous mourrez. Il vous faudra récupérer votre bras, votre visage et votre blaster."}
+{"id": 12025, "h": "ae876372", "fr": "Offrandes sacrées"}
+{"id": 12026, "h": "df4eb6a2", "fr": "Vous devez réunir le coeur d'un titan, la tête de pierre de Méduse et un croc de léviathan. Apportez-les ensuite en offrande aux juges demi-dieux, afin qu'ils décident de votre dernière demeure."}
+{"id": 12027, "h": "9f00e59d", "fr": "Capturer Sugar Ray"}
+{"id": 12028, "h": "2a633dc9", "fr": "Vous avez regagné la surface. Il est temps de découvrir ce que cette crevette de Sugar Ray manigançait avec le Dr Hydnellum."}
+{"id": 12029, "h": "67292f6f", "fr": "Trouver des renforts"}
+{"id": 12030, "h": "10b17f5b", "fr": "Retrouvez le Rat et Terrence pour ne pas affronter de nouveau Sugar Ray toute seule."}
+{"id": 15293, "h": "fc192adb", "fr": "Terrence retrouvé"}
+{"id": 15294, "h": "abbde7b7", "fr": "Terrence vous suit. Allez chercher le Rat ! Dernier signalement : près du Kraken Coffee."}
+{"id": 15295, "h": "26be7902", "fr": "Le Rat retrouvé"}
+{"id": 15296, "h": "cd884ef0", "fr": "Vous avez retrouvé le Rat. Allez voir si Terrence est à Coinrust."}
+{"id": 15297, "h": "bb496d5a", "fr": "Affronter Sugar"}
+{"id": 15298, "h": "172934d3", "fr": "Vos alliés sont là. Allez maintenant affronter Sugar à l'étage du manoir, dans son restaurant."}
+{"id": 14073, "h": "255b0b9e", "fr": "Sur le chemin des souvenirs"}
+{"id": 14074, "h": "8e6f12d7", "fr": "Retrouvez vos sept fragments de mémoire manquants. Ils sont éparpillés sur les différents chemins de l'Académie."}
+{"id": 14075, "h": "d3d3dcc9", "fr": "Localiser Mère"}
+{"id": 14076, "h": "dc8c6cf6", "fr": "Le Dr Hydnellum est quelque part dans les entrailles de l'Académie, sous le QG Buster. Trouvez-la et affrontez-la."}
+{"id": 14077, "h": "f1aeca3e", "fr": "Alimenter le moteur"}
+{"id": 14078, "h": "2033f601", "fr": "Vous avez trouvé sous le QG Buster un mystérieux moteur relié à votre domicile. Si vous captez assez d'énergie, vous pourrez peut-être l'activer."}
+{"id": 14079, "h": "baab5bf3", "fr": "L'\"échelle pas bizarre\""}
+{"id": 14080, "h": "5fe6ea0a", "fr": "Vous avez trouvé un mot. Il laisse entendre qu'il y a quelque part dans le désert une échelle télescopique qui vous permettrait de descendre dans le trou pas bizarre. Il est dangereux de s'attarder dans le désert, mais chercher l'échelle vaut peut-être le risque."}
+{"id": 14081, "h": "99df35d8", "fr": "Aller au bateau à ramen."}
+{"id": 14082, "h": "5f22e7b0", "fr": "Terrence et le Rat vous attendent au bateau à ramen, à Soggy Ankles."}
+{"id": 14083, "h": "53a569ef", "fr": "Mandat d'enquête."}
+{"id": 14084, "h": "cf37d015", "fr": "L'adjoint Texas vous a remis un mandat pour enquêter sur le meurtre du Dusty Rose."}
+{"id": 14085, "h": "71a72aad", "fr": "Meurtre dans la chambre 202."}
+{"id": 14086, "h": "237ed4dd", "fr": "Enquêtez sur le meurtre de la chambre 202."}
+{"id": 14087, "h": "3bd4efce", "fr": "L'appel de la Baleine"}
+{"id": 14088, "h": "033e4e2b", "fr": "La Baleine vous a convoquée dans son bureau."}
+{"id": 14089, "h": "db9efe4c", "fr": "Quête d'Ark : le chemin de la rédemption"}
+{"id": 14090, "h": "31b2edbf", "fr": "Slashmastah vous a demandé de jeter très rageusement aux pieds de la Hyène sa carte de salle de sport, avec un ricanement de mépris."}
+{"id": 14091, "h": "6ccf6498", "fr": "Quête d'Ark : Lizard Logic"}
+{"id": 14092, "h": "cba7e38b", "fr": "DJ Lizard Brain vous a invitée dans son émission ; en échange, vous devez enquêter sur sa ferme à spectateurs. Utilisez ses lunettes dans sa cabine d'enregistrement pour révéler le passage caché vers le sous-sol de Lizard Logic."}
+{"id": 14093, "h": "6efd73b3", "fr": "Quête d'Ark : le livre perdu"}
+{"id": 14094, "h": "ff68fc72", "fr": "Une étrange créature vous a demandé de rendre un livre volé au \"grand homme poilu qui tenait l'hôtel\"."}
+{"id": 14095, "h": "a0cdd301", "fr": "Quête d'Ark : ne pas perdre la tête"}
+{"id": 14096, "h": "f73daf90", "fr": "L'Araignée vous a demandé de l'aider à secourir des clients piégés au treizième étage de son hôtel. Prenez l'ascenseur pour l'appeler et explorez l'étage qui porte malheur."}
+{"id": 15003, "h": "60899b79", "fr": "Quête d'Ark : le village hanté"}
+{"id": 15004, "h": "2b4419de", "fr": "Cyn a sollicité votre aide pour une affaire mortellement sérieuse. Vous devez recruter Lazarus pour aider d'innocentes créatures qui vivent sous son château."}
+{"id": 15005, "h": "e66f3166", "fr": "Lazarus recruté"}
+{"id": 15006, "h": "9599d173", "fr": "Lazarus est recruté : il est temps de retourner au château Thornheart. Vos soeurs y amèneront Lazarus dès votre arrivée."}
+{"id": 15007, "h": "abce1c1b", "fr": "Un adjoint distrait"}
+{"id": 15008, "h": "7bda3c6f", "fr": "Trouvez un moyen de faire sortir l'adjoint Texas de la prison. Kitty Boo suggère d'en parler à son ami vautour, Cask."}
+{"id": 15009, "h": "294e7f5f", "fr": "Rendez-vous dans le désert"}
+{"id": 15010, "h": "42865ebb", "fr": "Kitty Boo vous attend dans le désert, près du trou pas bizarre."}
+{"id": 15011, "h": "3f26b151", "fr": "Charmeuse de serpents"}
+{"id": 15012, "h": "5166f20a", "fr": "Vous avez récupéré Kitty Boo. Vous devez maintenant l'escorter jusqu'au stand de tir pour qu'elle fasse sortir le Crotale de son trou."}
+{"id": 15013, "h": "51579ad9", "fr": "Toc-toc secret"}
+{"id": 15014, "h": "05569ccd", "fr": "Vous connaissez maintenant le toc-toc secret pour accéder au dernier étage du Dusty Rose."}
+{"id": 15300, "h": "6d50e8c5", "fr": "Il vous faut du gin Prism et un oeuf de flamant rose de la cuisine : Sam vous préparera alors son flamingotini mondialement célèbre."}
+{"id": 15301, "h": "1d0df800", "fr": "Parler à Kitty Boo"}
+{"id": 15302, "h": "dadbffde", "fr": "Les amies de la disparue ont mis en cause le Crotale. Retournez voir Kitty Boo pour décider de la suite."}
+{"id": 15303, "h": "c7e8b6b6", "fr": "Le mystérieux générateur"}
+{"id": 15304, "h": "bb180143", "fr": "Dr Eightball a disparu dans le labo caché sous le canapé de votre bureau, chez vous. Vous devriez sans doute lui emboîter le pas."}
+{"id": 15517, "h": "bb4073ef", "fr": "La carte en soie"}
+{"id": 15518, "h": "e98048b5", "fr": "Vous avez une carte qui détaille comment s'évader de la prison. Montrez-la à Kitty Boo."}
+{"id": 15058, "h": "3f6be055", "fr": "Lente]Moyenne]Rapide"}
+{"id": 420, "h": "09b629c8", "fr": "sur"}
+{"id": 421, "h": "243c0490", "fr": "Donner"}
+{"id": 422, "h": "d787d2c4", "fr": "à"}
+{"id": 423, "h": "a640b82d", "fr": "Aller vers"}
+{"id": 425, "h": "97a8a2b0", "fr": "Parler avec"}
+{"id": 426, "h": "03e34441", "fr": "Regarder"}
+{"id": 427, "h": "af01aeda", "fr": "Objet"}
+{"id": 430, "h": "6d064cb1", "fr": "Flirter"}
+{"id": 3462, "h": "cea9546e", "fr": "Pousser à droite"}
+{"id": 3463, "h": "731c35e3", "fr": "Pousser à gauche"}
+{"id": 3473, "h": "04ab6415", "fr": "Se cacher"}
+{"id": 8820, "h": "7246e766", "fr": "Profils"}
+{"id": 72, "h": "28363a09", "fr": "Volume des voix"}
+{"id": 73, "h": "2e53751d", "fr": "Volume de la musique"}
+{"id": 74, "h": "5d079222", "fr": "Volume des effets"}
+{"id": 75, "h": "2dad13e3", "fr": "Langue"}
+{"id": 3476, "h": "67e7dfc8", "fr": "Malentendants"}
+{"id": 8822, "h": "6833642b", "fr": "Télémétrie"}
+{"id": 12031, "h": "2d7ad76b", "fr": "Vitesse du texte"}
+{"id": 15313, "h": "9ba0e0fc", "fr": "Clic pour se déplacer"}
+{"id": 77, "h": "cdfc6e09", "fr": "Retour"}
+{"id": 15015, "h": "31a40d9f", "fr": "Modifier les commandes"}
+{"id": 3477, "h": "a24ac01c", "fr": "SAUVEGARDER"}
+{"id": 3478, "h": "237f9b4b", "fr": "Nouvelle sauvegarde"}
+{"id": 3480, "h": "3daaa90b", "fr": "Bouton"}
+{"id": 78, "h": "a5b87354", "fr": "Sauvegarder"}
+{"id": 3482, "h": "ad9c2e6b", "fr": "CHARGER"}
+{"id": 80, "h": "aa6e9d23", "fr": "Charger"}
+{"id": 443, "h": "7a767ed5", "fr": "Actuel :"}
+{"id": 444, "h": "8388b7bb", "fr": "Créer un profil"}
+{"id": 89, "h": "45536eb8", "fr": "Conteneur"}
+{"id": 91, "h": "ce056551", "fr": "Tout prendre"}
+{"id": 99, "h": "887ae5cd", "fr": "Créer"}
+{"id": 103, "h": "cb7211a8", "fr": "Résultat"}
+{"id": 450, "h": "19e91dd3", "fr": "Entrée"}
+{"id": 3495, "h": "b28e0c5a", "fr": "Résolution"}
+{"id": 3496, "h": "d93a12d7", "fr": "Plein écran"}
+{"id": 3497, "h": "44dff3f6", "fr": "Qualité graphique"}
+{"id": 3498, "h": "73611151", "fr": "Anticrénelage"}
+{"id": 3499, "h": "6f66af57", "fr": "Qualité des textures"}
+{"id": 3500, "h": "0789e015", "fr": "Synchro verticale"}
+{"id": 3486, "h": "4b8476f5", "fr": "LIBERTY OS\n\nBienvenue sur Liberty OS\n\nLes notes seront stockées ici."}
+{"id": 3487, "h": "d2921113", "fr": "Conseils généraux\n\n- Faites un clic droit sur les objets de l'inventaire pour les examiner.\n\n- Faites glisser les objets les uns sur les autres pour les combiner.\n\n- Consultez les objectifs pour suivre votre progression."}
+{"id": 3488, "h": "12be1f12", "fr": "Conseils de fusillade\n\n- Les tirs chargés ennemis ne peuvent être abattus que par vos propres tirs chargés.\n\n- Hors combat, cliquez sur les objets de soin pour vous soigner.\n\n- Choisissez entre attaquer et jouer la défense."}
+{"id": 3493, "h": "a6ee02f4", "fr": "ANNULER"}
+{"id": 447, "h": "cf667fec", "fr": "Étiquette"}
+{"id": 14097, "h": "e18fed68", "fr": "Nom complet du profil"}
+{"id": 14099, "h": "3dbe79b1", "fr": "Supprimer"}
+{"id": 14103, "h": "14f91acf", "fr": "Changer de profil ?"}
+{"id": 14104, "h": "17113748", "fr": "Toute progression non sauvegardée sera perdue."}
+{"id": 9184, "h": "7c4746a1", "fr": "Et cela fait huit... Je suppose que je devrais prévenir ces fumeurs de joints que j'ai terminé leur \"quête\"."}
+{"id": 9185, "h": "d015d658", "fr": "Cela fait deux..."}
+{"id": 9186, "h": "c6322db2", "fr": "Cela fait trois..."}
+{"id": 9187, "h": "dffb1c7a", "fr": "Cela fait quatre..."}
+{"id": 9188, "h": "83ccea91", "fr": "Cela fait cinq..."}
+{"id": 9189, "h": "df0ea025", "fr": "Cela fait six..."}
+{"id": 9190, "h": "e1b0807c", "fr": "Cela fait sept..."}
+{"id": 9276, "h": "74d1693c", "fr": "Obtenu : 1/5"}
+{"id": 9277, "h": "7697d765", "fr": "Obtenu : 2/5"}
+{"id": 9278, "h": "7755bd52", "fr": "Obtenu : 3/5"}
+{"id": 9279, "h": "721aabd7", "fr": "Obtenu : 4/5"}
+{"id": 9280, "h": "73d8c1e0", "fr": "Obtenu : 5/5"}
+{"id": 8825, "h": "c145baac", "fr": "Une masse de vase douée de conscience. Ses yeux jaunes luisants ont l'air hantés, mais elle semble peu intelligente."}
+{"id": 8824, "h": "e04a1ae7", "fr": "C'est la photo d'un injecteur. L'article explique comment les démonter des patrouilleurs Buster."}
+{"id": 9320, "h": "eb5444e8", "fr": "Un bot à la drôle de tête, monté sur une seule roue."}
+{"id": 9321, "h": "9ef84a04", "fr": "Un vieux drone-guêpe datant d'une guerre ancienne."}
+{"id": 9322, "h": "ed533900", "fr": "Un drone de patrouille aux pattes étonnamment robustes. Avec un blaster intégré dans l'orbite."}
+{"id": 12073, "h": "797a5ce8", "fr": "Soigne 25 dégâts."}
+{"id": 14105, "h": "9f7162e3", "fr": "Rend 10 d'énergie."}
+{"id": 14106, "h": "d5e627ac", "fr": "Rend 15 d'énergie."}
+{"id": 14107, "h": "7446d9e0", "fr": "Rend 20 d'énergie."}
+{"id": 14108, "h": "9575ebcf", "fr": "Rend 50 de santé."}
+{"id": 12032, "h": "79829e1e", "fr": "Sert un compliment sincère. Rend de la santé à Buster."}
+{"id": 12033, "h": "b7428119", "fr": "De solides encouragements de Terrence ! Augmente temporairement toutes vos stats !"}
+{"id": 12144, "h": "af80ead1", "fr": "On se motive ! Renforce votre confiance et augmente votre défense !"}
+{"id": 12034, "h": "4141fbdc", "fr": "Tente un vol. Les chances de réussite augmentent à chaque échec."}
+{"id": 12035, "h": "14cf10fa", "fr": "Balance des insultes si cinglantes que les ennemis subissent des dégâts et sont démoralisés."}
+{"id": 12036, "h": "c4aadc85", "fr": "Vole objets et bits, et neutralise les ennemis qu'elle percute."}
+{"id": 12037, "h": "dec6f073", "fr": "Ultime du Rat. Elle file dans tous les sens, vole, blesse et laisse les ennemis sur le carreau."}
+{"id": 12038, "h": "cd335c8d", "fr": "Libère une décharge électrique."}
+{"id": 12039, "h": "7d8b3538", "fr": "Une vague d'énergie chargée qui blesse tout le monde."}
+{"id": 15306, "h": "806a533b", "fr": "Électrise le bord de l'écran pour griller les balles qui arrivent."}
+{"id": 12040, "h": "a799ad44", "fr": "Overclocke pour prolonger le bullet time."}
+{"id": 12041, "h": "24ed0a2b", "fr": "Hé, tu sais quoi ? À cette heure-ci, le Naughty Nook est ouvert."}
+{"id": 12042, "h": "37fb7dab", "fr": "J'vais y faire un saut, dire bonjour à mon ancienne bande. Tu devrais passer !"}
+{"id": 6703, "h": "2dbd235f", "fr": "Attends ! <shake>Ahhh ! Merde, attends !</shake> J'étais à la bourre ! Attends !"}
+{"id": 6704, "h": "fb146afe", "fr": "Ah, bordel... Maintenant faut que j'appelle un taxi."}
+{"id": 15307, "h": "79a70ef5", "fr": "Première frappe ! Bonus de +5 énergie."}
+{"id": 15016, "h": "0adafb05", "fr": "Graisse thermique : porte à 3 les dégâts continus des brûlures."}
+{"id": 15017, "h": "459b6dc2", "fr": "Graisse thermique : porte à 4 les dégâts continus des brûlures."}
+{"id": 15018, "h": "5c805c83", "fr": "Graisse thermique : porte à 5 les dégâts continus des brûlures."}
+{"id": 15019, "h": "cc8a5e62", "fr": "Scan : Fonds insuffisants !"}
+{"id": 15020, "h": "0b7e8df4", "fr": "Résultat : Pas d'améliorations pour toi."}
+{"id": 15021, "h": "a3d7ca1b", "fr": "Améliorations au maximum."}
+{"id": 15022, "h": "6fc49fac", "fr": "Dégâts continus de brûlure portés à 3 !"}
+{"id": 15023, "h": "2085096b", "fr": "Dégâts continus de brûlure portés à 4 !"}
+{"id": 15024, "h": "399e382a", "fr": "Dégâts continus de brûlure portés à 5 !"}
+{"id": 15025, "h": "86c4993b", "fr": "Batterie statique : porte à 15 les dégâts de choc des munitions électriques."}
+{"id": 15026, "h": "f9f5d327", "fr": "Batterie statique : porte à 20 les dégâts de choc des munitions électriques."}
+{"id": 15027, "h": "84822762", "fr": "Batterie statique : porte à 25 les dégâts de choc des munitions électriques."}
+{"id": 15028, "h": "bea45d0b", "fr": "Dégâts de choc portés à 15 !"}
+{"id": 15029, "h": "c1951717", "fr": "Dégâts de choc portés à 20 !"}
+{"id": 15030, "h": "bce2e352", "fr": "Dégâts de choc portés à 25 !"}
+{"id": 12047, "h": "a0e63701", "fr": "Cet objet doublera la monnaie gagnée en combat. L'acheter ?"}
+{"id": 12048, "h": "b76f7efb", "fr": "Cet objet doublera le nombre de grenades ramassées en combat. L'acheter ?"}
+{"id": 12049, "h": "4b017e2e", "fr": "Cet objet doublera le nombre d'objets de soin ramassés en combat. L'acheter ?"}
+{"id": 9416, "h": "2e835f06", "fr": "Plus rien à l'antenne."}
+{"id": 4829, "h": "8909c633", "fr": "Ça devrait faire l'affaire ! Essayons la porte, elle devrait s'ouvrir."}
+{"id": 9323, "h": "e3a7f0c9", "fr": "Une enceinte-robot. Elle serait mignonne si elle n'essayait pas de me tuer."}
+{"id": 9338, "h": "9ac0efe8", "fr": "Un gros robot-tambour en forme de tonneau, avec des symboles sur les épaules."}
+{"id": 9337, "h": "6533e122", "fr": "Un bot volant sur lequel est fixée une trompette."}
+{"id": 15031, "h": "d1d65c11", "fr": "Vous entendez un gros verrou s'ouvrir au loin."}
+{"id": 15514, "h": "58a3d699", "fr": "Après une fouille du macchabée à faire rougir un légiste, vous découvrez quelque chose dans sa poche de devant."}
+{"id": 12050, "h": "f8f71bd1", "fr": "On dirait que quelqu'un vient."}
+{"id": 12051, "h": "5e34bc23", "fr": "Une porte secrète... que fait-il là-dedans ?"}
+{"id": 12052, "h": "8fd91c2a", "fr": "Que cache-t-il ? Je crois avoir vu quel livre il a déplacé pour l'ouvrir."}
+{"id": 12053, "h": "8b736b1c", "fr": "Comme nous... tu es... d'or..."}
+{"id": 12054, "h": "a57646e7", "fr": "chair enveloppée de métal... bonne..."}
+{"id": 12055, "h": "96dd92bb", "fr": "Nous... te faisons... confiance..."}
+{"id": 12056, "h": "a300f9c4", "fr": "Nous t'apportons quelque chose... une chose acquise au prix de grands risques."}
+{"id": 4766, "h": "657245af", "fr": "Les grandes lignes de ce tableau sanglant sont posées sur la toile."}
+{"id": 4767, "h": "2e6e1945", "fr": "Passons donc au détail de la mort de M. Duval."}
+{"id": 4768, "h": "33728e8c", "fr": "Cette... comédie des erreurs. Relevée d'une pointe de tragédie."}
+{"id": 4769, "h": "7ff31037", "fr": "Et vous avez tous joué un rôle dans sa fin. Mais un seul d'entre vous l'a voulue."}
+{"id": 4770, "h": "fae7daa3", "fr": "A-accusations sans fondement !"}
+{"id": 4771, "h": "72b23d7d", "fr": "Kitty Boo, c'est vous qui avez mis tout ce cirque en branle."}
+{"id": 4772, "h": "25b49687", "fr": "Impossiiible ! Absolument impossible ! Je le réfute de tout mon être !"}
+{"id": 4773, "h": "c37cf753", "fr": "Vous n'avez rien d'un cerveau. Mais l'or vous a éblouie. Vos doigts crochus n'ont pas pu résister."}
+{"id": 4774, "h": "2eebd2fb", "fr": "Et à la faveur de l'obscurité, vous avez vu votre chance."}
+{"id": 4775, "h": "d24e751f", "fr": "Ce petit méfait a fait tomber le premier domino. Tout s'est écroulé juste après."}
+{"id": 4777, "h": "39fb8966", "fr": "Comme il faisait noir, vous êtes passée à l'action."}
+{"id": 4778, "h": "446bc5df", "fr": "Vous pouvez aussi remercier votre bonne étoile. L'obscurité vous a sauvé la vie."}
+{"id": 4779, "h": "67626acf", "fr": "Comment !?"}
+{"id": 4780, "h": "a1bf1b1e", "fr": "C'est alors que le capitaine Maddox a voulu appliquer cette justice de la Frontière dont il est si fier."}
+{"id": 4781, "h": "f82a9928", "fr": "parce que quelqu'un d'autre est passé à l'action..."}
+{"id": 4782, "h": "45a0ba8e", "fr": "Vous lui avez fauché le nez en pleine figure."}
+{"id": 4783, "h": "76c5452b", "fr": "Il ne pouvait pas vous mener à la potence, alors il a amené la potence jusqu'à vous."}
+{"id": 4784, "h": "c4ebd291", "fr": "Quand les lumières se sont éteintes, il a vu sa chance, mais comme vous aviez bousculé le Rhino..."}
+{"id": 4785, "h": "d5dd259c", "fr": "Le noeud coulant s'est glissé autour du cou du Rhino, et non de celui de Kitty Boo."}
+{"id": 4786, "h": "8c68a3da", "fr": "Vous avez failli tuer cet homme sur-le-champ, capitaine. Ce n'est pourtant pas ce qui a mis fin à la vie du Rhino."}
+{"id": 4787, "h": "3e2207c9", "fr": "Alors pourquoi tu m'fais perdre mon temps à m'garder ici !?"}
+{"id": 4788, "h": "81266976", "fr": "Parce que nous n'en avons pas terminé... <color=red>Crotale.</color>"}
+{"id": 4789, "h": "b9cd7899", "fr": "Quoi !? Pas croyable ! Comment t'as bien pu déduire ça !?"}
+{"id": 4791, "h": "55f88282", "fr": "Je m'occuperai de vous quand nous aurons désigné notre véritable meurtrier. Ne bougez pas d'ici."}
+{"id": 4793, "h": "3440ebe8", "fr": "Ce qui explique les brûlures de corde sur son cou."}
+{"id": 4794, "h": "a6191ce1", "fr": "Je le savais !"}
+{"id": 4796, "h": "387d0830", "fr": "Comtesse Wolfbane. La piste de sang mène ensuite à vous."}
+{"id": 4797, "h": "d841b08d", "fr": "Le capitaine Maddox, alias le Crotale, pillait vos cargaisons."}
+{"id": 4798, "h": "e431b2d4", "fr": "Vous vous êtes sentie trahie. Vous êtes venue ici ce soir avec un meurtre prémédité en tête."}
+{"id": 4799, "h": "373b470f", "fr": "Vous avez préparé un petit verre au Crotale. Le cocktail Tête de mort."}
+{"id": 4800, "h": "1200fcb8", "fr": "En tâchant sans doute de le faire passer pour une création des domestiques."}
+{"id": 4801, "h": "5832188a", "fr": "Mais j'ai fini l'verre qu'elle m'a donné. Et j'me porte comme un charme."}
+{"id": 4802, "h": "0d506470", "fr": "La seule explication, c'est..."}
+{"id": 4803, "h": "cf8b4faf", "fr": "Vous avez dû poser votre verre à un moment donné. N'est-ce pas ?"}
+{"id": 4804, "h": "dd7ab2d0", "fr": "J'causais avec le Rhino... et on a bien posé nos verres ! Il a dû prendre le mien par erreur !"}
+{"id": 4805, "h": "0766b943", "fr": "Crénom ! Vieille peau ! T'as essayé d'me tuer ! Des années qu'on est amis, et t'essaies d'me liquider !"}
+{"id": 4806, "h": "7052e185", "fr": "Joues gonflées... yeux injectés de sang... sang sur la bouche. Tous les signes d'un empoisonnement au Tête de mort."}
+{"id": 4807, "h": "4fb685dc", "fr": "Après que tu m'as dévalisée, espèce de bouseux !"}
+{"id": 4808, "h": "b4e6672c", "fr": "Alors, vous deux, c'est la baston ou le bécot ?"}
+{"id": 4809, "h": "cdee9bb6", "fr": "Zahara ! Pas d'insolence avec moi."}
+{"id": 4810, "h": "935885f7", "fr": "Zahara... c'est vous, le grand mystère. Je sais que c'est vous, mais je cherche encore à reconstituer le pourquoi."}
+{"id": 4811, "h": "7373a7a4", "fr": "Mais il y a une chose dont je suis certaine."}
+{"id": 4812, "h": "0766da24", "fr": "Lazarus vous a recrutée... "}
+{"id": 4813, "h": "c9533dba", "fr": "Hoo, je vois ta grosse boîte à cervelle qui tourne à mille à l'heure."}
+{"id": 4814, "h": "05732448", "fr": "Vous vous retenez de mentionner le roi Midas... Il est trop tôt pour révéler qu'il vous aide."}
+{"id": 4815, "h": "2a500fa5", "fr": "Mieux vaut sans doute se concentrer sur le Rhino pour l'instant."}
+{"id": 4816, "h": "04744d02", "fr": "Lazarus vous a recrutée..."}
+{"id": 4817, "h": "cf1019ef", "fr": "Quel spectacle !"}
+{"id": 4818, "h": "c81cb285", "fr": "...Pour renverser Ark !"}
+{"id": 4819, "h": "862807a7", "fr": "Tu m'as eue, Blondinette ! J'ai étripé le Rhino avec ce bon gros couteau."}
+{"id": 4820, "h": "45960e90", "fr": "Et quand les lumières se sont éteintes..."}
+{"id": 4821, "h": "1faf0ff1", "fr": "Vous avez poignardé le Rhino !"}
+{"id": 4822, "h": "b5a02bb8", "fr": "N'essayez pas de le nier !"}
+{"id": 4823, "h": "f5bd2809", "fr": "Je nie rien. Tu m'as eue en beauté."}
+{"id": 4824, "h": "f7f7bb4f", "fr": "Oh. Vous ne niez donc pas. Eh bien... parfait."}
+{"id": 4825, "h": "90b61f69", "fr": "Nous voici, je suppose, dans la dernière ligne droite. La raison pour laquelle vous étiez tous à couteaux tirés !"}
+{"id": 4826, "h": "797f3d4a", "fr": "À chaque étape, j'ai trouvé une constante... Lazarus Thornheart, qui vous murmurait à l'oreille, à tous."}
+{"id": 4827, "h": "d6778031", "fr": "Monsieur Thornheart ne me trahirait jamaaais ! Nous sommes de vieux amis intimes, voyons !"}
+{"id": 4828, "h": "26908ba9", "fr": "Je crois que nous avons assez longtemps évité notre hôte. Il est temps de lui faire face et de classer l'affaire."}
+{"id": 6705, "h": "e928918c", "fr": "Duval n'était pas un simple magnat de la tech. C'était \"le Rhino\", envoyé ici pour assassiner le roi-maire Pendragon."}
+{"id": 6706, "h": "415c1f54", "fr": "Quelqu'un a éteint les lumières !?"}
+{"id": 6707, "h": "60fbd343", "fr": "Aïe !? Qui... qui a fait ça ?"}
+{"id": 6708, "h": "372d7a95", "fr": "Domestiques ! Rallumez les lumières immédiatement !"}
+{"id": 6709, "h": "85e980f1", "fr": "Cet... cet homme est mort !"}
+{"id": 6710, "h": "022bd426", "fr": "Bien, que personne ne bouge ! Ceci est désormais une scène de crime !"}
+{"id": 6711, "h": "b6ab9500", "fr": "Quelle grossièreté... ! Qui oserait verser le sang dans ma demeure familiale sacrée !?"}
+{"id": 6712, "h": "ef015613", "fr": "C'est forcément l'un de vous quatre !?"}
+{"id": 6713, "h": "82aa868c", "fr": "C'est absurde !"}
+{"id": 6714, "h": "c2f8b925", "fr": "L'ami, tu vas nous coller sur l'dos un crime qu'on a pas commis ?"}
+{"id": 6715, "h": "21157000", "fr": "Comme si j'allais tacher exprès ma robe de créateur, voyons !"}
+{"id": 6716, "h": "0eaad1ad", "fr": "Je suis peut-être soldate, mais sûrement pas une lâche meurtrière."}
+{"id": 6717, "h": "f802aedb", "fr": "Du calme. Détendez-vous tous."}
+{"id": 6718, "h": "a919d51f", "fr": "Il se trouve que nous avons sous la main une machine de précision de ma création."}
+{"id": 6719, "h": "8d7ae29a", "fr": "Buster 09. Tu as été conçue pour résoudre des meurtres. Un meurtre vient d'avoir lieu."}
+{"id": 6720, "h": "c553712e", "fr": "Un silence de mort s'abat sur la salle. Tous les regards quittent le corps encore tiède pour se planter sur vous, assez tranchants pour couper du verre."}
+{"id": 6721, "h": "9336e4f6", "fr": "Découvrir qui a fait taire \"le Rhino\" : ce poids repose désormais sur vos seules épaules, comme si vos propres secrets troubles ne pesaient pas déjà assez lourd."}
+{"id": 6722, "h": "70e80422", "fr": "Pour l'instant, personne ne quitte ce château. Je vais mener une enquête complète."}
+{"id": 6723, "h": "0d53c04a", "fr": "Répondez à mes questions, ne touchez et ne déplacez rien, et nous en viendrons à bout."}
+{"id": 6724, "h": "0e56b6ac", "fr": "Quelle horrible façon de lancer un gala si prometteur."}
+{"id": 6725, "h": "5a070c92", "fr": "Vous retirez votre masque et vous adressez à l'assemblée."}
+{"id": 6726, "h": "e9924f4b", "fr": "<shake>Nom d'un coyote !</shake>"}
+{"id": 6727, "h": "fd57de3a", "fr": "Attention !"}
+{"id": 15032, "h": "1f8151e0", "fr": "Une femme à la peau verte. Peut-être une mutation popper plus légère."}
+{"id": 9417, "h": "6f4f7cfd", "fr": "Un cadavre d'araignée mutante. Une colonie de nanites a pris possession de son corps."}
+{"id": 15308, "h": "de23f0b6", "fr": "Les nanites ont pris possession d'un cadavre d'escargot. Ils le pilotent comme un petit tank."}
+{"id": 9418, "h": "9e28fe80", "fr": "Une créature de vase dorée, faite de nanites aux reflets métalliques."}
+{"id": 9641, "h": "a4a6c6ec", "fr": "Un système de tourelle intégré au sol."}
+{"id": 15309, "h": "338dd315", "fr": "Un petit bot en forme d'oignon. Il semble conçu pour creuser comme une taupe. Pour bâtir tunnels et tranchées."}
+{"id": 9642, "h": "43a307d2", "fr": "Un gros lance-missiles rampant aux allures de crabe."}
+{"id": 15521, "h": "15d55067", "fr": "L'exposition prolongée aux éléments commence à faire grincer et crisser vos articulations."}
+{"id": 15522, "h": "a559d9cc", "fr": "Vous commencez à avoir beaucoup de mal à bouger. Vous doutez que vos compagnons de route et vous teniez encore longtemps."}
+{"id": 15523, "h": "2716c847", "fr": "Malgré tous vos efforts, vos articulations sont complètement bloquées et vos systèmes surchauffent. Vos amis meurent de soif."}
+{"id": 15524, "h": "93ea9b8b", "fr": "L'un après l'autre, vous, le Rat et Terrence tombez face contre terre dans le sable."}
+{"id": 9191, "h": "adc65818", "fr": "Le plan de Marble Junction est imprimé sur cette vieille carte en soie. "}
+{"id": 9192, "h": "c36bd4f4", "fr": "Un petit texte près de la prison indique l'emplacement d'un interrupteur caché. Il ouvre dans les toilettes un tunnel secret vers la liberté."}
+{"id": 9193, "h": "97e5139c", "fr": "Je devrais montrer ceci à Kitty Boo... nous pourrons nous en servir pour la sauver."}
+{"id": 9194, "h": "080c2378", "fr": "Elle met en évidence un passage de la prison jusqu'au désert."}
+{"id": 9643, "h": "cdc58436", "fr": "Un tireur embusqué sur un toit, barbe et poncho."}
+{"id": 9644, "h": "0fa2a816", "fr": "Un membre de la bande du Crotale. Un homme raton laveur tiré à quatre épingles."}
+{"id": 9645, "h": "81125aea", "fr": "Voilà une fourmi sacrément musclée."}
+{"id": 12057, "h": "698bb9a8", "fr": "Un crabe à l'air plutôt sympathique. Jusqu'au moment où il décidera de me tuer."}
+{"id": 12058, "h": "1cdf8006", "fr": "Ton cerveau doit être abonné à la salle de sport : tes idées sont drôlement musclées."}
+{"id": 12059, "h": "84bbdecc", "fr": "Chez toi, \"faire de son mieux\" ressemble étrangement à \"exceller en tout\"."}
+{"id": 12060, "h": "6b289f48", "fr": "Tes ondes, c'est l'équivalent émotionnel des frites retrouvées au fond du sachet."}
+{"id": 12061, "h": "bb6aa4e4", "fr": "Te parler, c'est comme passer de la SD à la HD. D'un coup, tout est plus net."}
+{"id": 12062, "h": "c599eb20", "fr": "Ta conscience professionnelle a appelé : elle veut un jour de congé, mais tu l'inspires trop."}
+{"id": 12063, "h": "d1aa5c90", "fr": "Si le charisme payait le loyer, l'immeuble serait à toi."}
+{"id": 12064, "h": "d16e8f00", "fr": "Ta gentillesse a de la portée. Comme un routeur sans zone blanche."}
+{"id": 12065, "h": "d77eefe1", "fr": "Tu es le rebondissement qui donne envie de regarder toute la saison."}
+{"id": 12066, "h": "ec89f81e", "fr": "Tu es le tutoriel que je ne passe pas, pour une fois."}
+{"id": 15310, "h": "ed4c5623", "fr": "Le Rat. Elle est de corvée de crochetage et de désamorçage de pièges."}
+{"id": 12067, "h": "33c76856", "fr": "Un poisson garde patrouille dans les couloirs."}
+{"id": 12068, "h": "34afe48c", "fr": "Peux-tu me débarrasser de cette altération ?"}
+{"id": 12069, "h": "beebcd24", "fr": "Je m'en occupe !"}
+{"id": 12070, "h": "30f14f7e", "fr": "Les pilotes antivirus sont encore en cours de mise à jour ! Un instant !"}
+{"id": 12071, "h": "c70feed1", "fr": "Je n'ai aucune altération à faire retirer."}
+{"id": 14110, "h": "4932c78a", "fr": "Santé au maximum."}
+{"id": 14109, "h": "c87fc3b5", "fr": "Rend 10 d'énergie. Utilisable uniquement en combat."}
+{"id": 14111, "h": "8597c3d2", "fr": "Rend 20 d'énergie. Utilisable uniquement en combat."}
+{"id": 14112, "h": "26dc8215", "fr": "Rend 15 d'énergie. Utilisable uniquement en combat."}
+{"id": 12072, "h": "24c2788e", "fr": "Ça n'a pas l'air de fonctionner ici."}
+{"id": 14113, "h": "7deaf4d2", "fr": "Singe est rentré à la maison."}
+{"id": 14114, "h": "36f78a7b", "fr": "Un prototype mis au rebut. Ces bots délaissés avaient été conçus pour servir la ville comme forces de l'ordre."}
+{"id": 14116, "h": "eb5f59a9", "fr": "Une machine conçue pour analyser, stocker et rejouer les souvenirs des unités Buster."}
+{"id": 14115, "h": "0f6bbce1", "fr": "Un cerveau d'androïde synthétique aux commandes d'un drone. Ils semblent faits pour les travaux manuels."}
+{"id": 15033, "h": "b9d95dee", "fr": "Une boule rebondissante de gelée de nanites."}
+{"id": 15034, "h": "363233c8", "fr": "Une créature végétale issue du génie biologique. Carnivore, à mon avis."}
+{"id": 15035, "h": "b85cedc6", "fr": "Je lui expliquerais bien que je ne suis pas comestible, mais je doute qu'elle m'écoute."}
+{"id": 14117, "h": "ae1f12dc", "fr": "Une petite créature scarabée qui porte une cloche dorée sur le dos, comme un bernard-l'ermite."}
+{"id": 14118, "h": "456a2068", "fr": "Conçu pour servir à la fois de lampe et de drone de ménage."}
+{"id": 15036, "h": "29050651", "fr": "Un grand drone de ménage inspiré d'une soubrette."}
+{"id": 453, "h": "cd172b6e", "fr": "Ces choses ne vont pas ensemble."}
+{"id": 454, "h": "5b1dc77a", "fr": "Je ne peux pas utiliser cela ici."}
+{"id": 455, "h": "fa0fd923", "fr": "Cela ne l'intéresse pas."}
+{"id": 8868, "h": "4cfeabe4", "fr": "Mes capteurs olfactifs détectent une odeur d'essence, pas d'eau. "}
+{"id": 4708, "h": "fee62bfa", "fr": "Une coupe glacée ! Cela fait-il partie du test ? J'ai le sens du goût, mais ce n'est pas le moment de la manger."}
+{"id": 4709, "h": "c51565d7", "fr": "Des douilles. Encore chaudes : le tir est récent."}
+{"id": 4710, "h": "5fc64d22", "fr": "Un long tournevis fin. Visiblement conçu pour les travaux délicats sur de petites vis."}
+{"id": 4711, "h": "51cb1532", "fr": "Des poils verts de la scène de crime, mis en sachet. On dirait un peu un sachet d'herbe."}
+{"id": 4712, "h": "100f5c02", "fr": "Un blaster K-60, modèle \"Le Juge\". Il peut convertir l'énergie en projectiles solides."}
+{"id": 4713, "h": "69a44b87", "fr": "La dureté du projectile est réglable, de létale à moins létale."}
+{"id": 4714, "h": "c472da85", "fr": "Ma plaque. Brillante. Un 09 est gravé dans le métal."}
+{"id": 9422, "h": "d8e5d877", "fr": "Une pièce spéciale tout droit sortie du trésor du roi-maire. Permet d'acheter des objets rares."}
+{"id": 12111, "h": "a445ea17", "fr": "On y lit \"Leaky Lofts - Appt 7B\". C'est la clé de l'appartement du Rat."}
+{"id": 6735, "h": "96752174", "fr": "Une bouteille de whisky."}
+{"id": 8832, "h": "8e860e2d", "fr": "On lit sur le sachet : \"Gworms ! Des bonbons lumineux à base de vrais vers !\""}
+{"id": 8833, "h": "e339dd1f", "fr": "\"Ils gigotent ! Ils se tortillent ! Ils brillent ! Le goût authentique du ver, en mieux !\""}
+{"id": 15311, "h": "4ceb44c2", "fr": "\"Protéine en poudre Dnali. Carburez à l'entraînement ! Idéale pour soulever de la fonte et devenir baraqué !\""}
+{"id": 4715, "h": "28b0fcf6", "fr": "La balle qui a tué le Dr Cellium. Je dois faire attention à l'endroit où elle finira."}
+{"id": 4716, "h": "8ec3b44e", "fr": "Un ami à huit pattes. A un penchant pour s'agripper aux choses et les aveugler."}
+{"id": 4717, "h": "06a7e767", "fr": "Une clé pour activer le pont sous les anges."}
+{"id": 4727, "h": "2ac5cbb8", "fr": "Une roue. Ronde. Caoutchouteuse. Une invention plutôt solide."}
+{"id": 4728, "h": "102e6db9", "fr": "Une carte d'identité dont la photo est transpercée par une balle. Il lui reste cependant un numéro de série."}
+{"id": 4730, "h": "8d9c5c24", "fr": "Un magazine de jardinage. Il y a là de très bons conseils !"}
+{"id": 4732, "h": "ec6846e9", "fr": "Un produit conçu pour dissoudre la graisse et raviver l'éclat d'une voiture."}
+{"id": 3515, "h": "cce91a37", "fr": "J'ai imbibé le chiffon de nettoyant et jeté le flacon vide."}
+{"id": 4733, "h": "3fd53052", "fr": "Un injecteur Neuro-Sync, monté de série sur les patrouilleurs Buster."}
+{"id": 4734, "h": "a7ff75d9", "fr": "Un chiffon parfaitement sec."}
+{"id": 4735, "h": "87c51c63", "fr": "Un chiffon mouillé, imbibé de nettoyant. Il viendrait à bout de n'importe quelle crasse !"}
+{"id": 4736, "h": "77f1aa23", "fr": "\"Témoignage\" : Cindy a vu le délit se produire à 7 h 35 et confirme que l'injecteur a été retiré par l'ours."}
+{"id": 4738, "h": "b9f2411c", "fr": "Une curieuse clé en forme de lézard. L'avant est un iguane, et la queue forme les dents de la clé."}
+{"id": 15037, "h": "949b0c6c", "fr": "Une cassette de la chanson \"Lizard Rave\"."}
+{"id": 4742, "h": "a1d41544", "fr": "Une clé holo-données. La plupart des ordinateurs portables standard ont un port prévu pour."}
+{"id": 4739, "h": "f7ca7ded", "fr": "Une petite clé en métal. À l'ancienne. Un bout de ruban adhésif enroulé autour indique \"Clé maison Cellium\"."}
+{"id": 4740, "h": "2564af35", "fr": "Une statuette de lune. Visiblement un accessoire de l'émission de Lizard Brain. Un prix décerné à la Lune parce qu'elle est fausse."}
+{"id": 4741, "h": "fe9b3ae3", "fr": "Une dose de nourriture pour chat. Si j'étais un chat, j'en aurais l'eau à la bouche."}
+{"id": 4743, "h": "6c267fc9", "fr": "Un briquet à l'ancienne."}
+{"id": 4744, "h": "0f6d2561", "fr": "Un jeton de pierre gravé d'une épée."}
+{"id": 4745, "h": "20793971", "fr": "Un jeton de pierre gravé d'une hache."}
+{"id": 4746, "h": "e77c3789", "fr": "Un jeton de pierre gravé d'une lance."}
+{"id": 4748, "h": "08a789ea", "fr": "Un engrenage plutôt petit."}
+{"id": 4747, "h": "ef0a9361", "fr": "Un engrenage plutôt grand."}
+{"id": 4749, "h": "937dfef4", "fr": "Un levier... on dirait qu'il sert à faire tourner quelque chose."}
+{"id": 9207, "h": "5f7bf8ce", "fr": "Une cassette de la chanson \"Vaporware\"."}
+{"id": 8834, "h": "24968ec5", "fr": "Un verre de vin rouge."}
+{"id": 4750, "h": "5cdb6485", "fr": "Un petit masque appartenant à un petit robot."}
+{"id": 4751, "h": "2a291116", "fr": "\"Digit 093\" est gravé à l'intérieur du masque."}
+{"id": 4752, "h": "053b8222", "fr": "Une puce informatique trouvée au dos du collier de Chief. Aucune idée de ce à quoi elle sert."}
+{"id": 4753, "h": "7fed3308", "fr": "Les lunettes emblématiques de DJ Lizard Brain."}
+{"id": 3516, "h": "b32b49e3", "fr": "Ah, ah ! Les secrets mis à nu. Un code que seul le Lézard pouvait voir grâce à ses lunettes."}
+{"id": 3517, "h": "ada30a9a", "fr": "Retrouver le Rhino... Cible : Pendragon. C'est tout ce qui est écrit."}
+{"id": 3518, "h": "8a93a5de", "fr": "Amener l'Araignée comme invité."}
+{"id": 3519, "h": "8d058259", "fr": "Le Rhino... ce doit être le prochain agent d'Ark. Celui qui donne ses ordres au Lézard."}
+{"id": 3520, "h": "d8719779", "fr": "Le roi-maire de Neo Junk City, Pendragon... il assistera à l'événement."}
+{"id": 3521, "h": "6213b75f", "fr": "Je dois en informer le Dr Hydnellum."}
+{"id": 4755, "h": "6292aab1", "fr": "Un masque noir à liseré doré. Il me va bien."}
+{"id": 4754, "h": "426d72cb", "fr": "Les cisailles de l'Araignée. Usées par un emploi fréquent, mais bien entretenues."}
+{"id": 4756, "h": "5f83561d", "fr": "Une boîte de pizza pepperoni-champignons. Le ticket porte une adresse et indique comme destinataire \"Norvin Funkwell\"."}
+{"id": 4757, "h": "7e33059a", "fr": "Une petite caméra de stream de grande qualité. Elle flotte et suit l'utilisateur qui lui est assigné."}
+{"id": 3522, "h": "99c18bba", "fr": "Je peux peut-être combiner ceci avec autre chose pour voir le texte secret."}
+{"id": 4758, "h": "dac95662", "fr": "Un cache-poussière, avec ensemble costume et cravate bleue."}
+{"id": 4759, "h": "294b9e98", "fr": "Une tablette de données qui peut me servir de carnet."}
+{"id": 6728, "h": "e203b038", "fr": "Une cassette de la chanson \"Neon Road\"."}
+{"id": 6729, "h": "f9564dbc", "fr": "Quelques brins de romarin. Même mon nez robotique détecte à quel point il sent bon."}
+{"id": 6730, "h": "31295e09", "fr": "Une tasse de sang pleine à ras bord. Difficile à porter sans en renverser."}
+{"id": 4760, "h": "1ba888b8", "fr": "Quelques baies cueillies sur un pied de belladone."}
+{"id": 6731, "h": "b409b8f1", "fr": "Un simple bol vide."}
+{"id": 6732, "h": "3bd80123", "fr": "Un macabre mélange de terre de cimetière et de sel."}
+{"id": 6733, "h": "99f5d78b", "fr": "Un bol de soupe de sang à l'odeur métallique. Assaisonnée de romarin et de sel de cimetière."}
+{"id": 6734, "h": "3eff6cbb", "fr": "La corne prothétique en or qui appartenait à Duval, alias \"le Rhino\". Elle a été volée, et je l'ai retrouvée dans la chambre de Kitty Boo."}
+{"id": 6736, "h": "77c911c2", "fr": "De l'actée rouge, une baie hautement toxique."}
+{"id": 6737, "h": "491484b3", "fr": "Une tranche de citron. Il paraît que quand la vie vous en donne un..."}
+{"id": 6738, "h": "803df979", "fr": "J'ai oublié la suite."}
+{"id": 6739, "h": "3e454de6", "fr": "Un quartier de citron vert acidulé."}
+{"id": 6740, "h": "00c56eb7", "fr": "Un oeuf pâle et suintant. À sa décharge, il n'est pas pourri. Il s'accroche vraiment."}
+{"id": 6741, "h": "6c5a7177", "fr": "Du capuchon-de-moine. Ses pétales sont gorgés de poison."}
+{"id": 6742, "h": "dc6937b1", "fr": "Le cocktail Tête de mort. Un mélange mortel qu'on peut passer le reste de sa vie à boire."}
+{"id": 6743, "h": "6ddc2404", "fr": "Une bombe au whisky. Visiblement très proche d'un whisky sour."}
+{"id": 6744, "h": "a9e6bc04", "fr": "Une tasse en céramique vide."}
+{"id": 6745, "h": "e331e2f3", "fr": "Une poignée de terre consacrée. Prélevée dans un cimetière."}
+{"id": 6746, "h": "0aac0c97", "fr": "Du sel classique. Certains diraient aussi chlorure de sodium."}
+{"id": 4761, "h": "f844d6bb", "fr": "Vous mélangez un peu de terre consacrée au sel."}
+{"id": 8835, "h": "26efa08d", "fr": "Buster 09 a reçu \"Sel de cimetière\"."}
+{"id": 6747, "h": "6b68baab", "fr": "L'avis de recherche de Kitty Boo. Trouvé dans la chambre du capitaine Maddox. Visiblement, il la traquait."}
+{"id": 6748, "h": "b886a2ea", "fr": "Un couteau ensanglanté. Offert par le roi Midas."}
+{"id": 6749, "h": "87c5c95f", "fr": "Une clé de la chambre d'invités verrouillée du château Thornheart."}
+{"id": 6750, "h": "2a5954e6", "fr": "Une arme d'hast décorative, prise sur une armure décorative."}
+{"id": 6751, "h": "4453073f", "fr": "L'échantillon de poison que j'ai préparé dans la chambre de la comtesse Wolfbane."}
+{"id": 6752, "h": "30793d86", "fr": "Une pelle d'or que m'a donnée le fossoyeur."}
+{"id": 6753, "h": "3c913c13", "fr": "Ce n'est pas le moment d'enfiler ça."}
+{"id": 6754, "h": "fcd739a7", "fr": "Vous vous serrez dans la tenue de soldat de la KDR."}
+{"id": 6755, "h": "e01a8e79", "fr": "Il serait idiot de vous changer devant la garde alors qu'elle vous fusille du regard."}
+{"id": 6756, "h": "d60f2b26", "fr": "Vous portez déjà la tenue."}
+{"id": 6757, "h": "a3086cf6", "fr": "Un uniforme de la KDR. Un peu petit pour moi, mais je devrais tout juste rentrer dedans."}
+{"id": 6758, "h": "8341a565", "fr": "La carte d'identité KDR du Dr Hydnellum, ma mère. Elle y est bien plus jeune. Cela implique qu'elle a travaillé pour la KDR."}
+{"id": 6759, "h": "9076ae2e", "fr": "Un badge jaune qui semble appartenir à une technicienne de la KDR. \"Jeana Williams\""}
+{"id": 6760, "h": "4c15df42", "fr": "Une petite peluche à mon effigie. Skeen en vendait."}
+{"id": 6761, "h": "b4fddb78", "fr": "Un sac de courses pour les organiques de la maison."}
+{"id": 6762, "h": "8cfb0e11", "fr": "Une cassette de la chanson \"File Not Found\"."}
+{"id": 6763, "h": "97188b68", "fr": "Une boîte de donuts aux nanites. Consommés par des robots, ils leur infligent des hallucinations saisissantes."}
+{"id": 6764, "h": "d6c0382b", "fr": "Un coupe-boulons. Idéal pour sectionner de petites pièces de métal."}
+{"id": 6765, "h": "33784c61", "fr": "Une clé de trappe terminée par une étrange tige ronde. Elle a l'air assez spécialisée."}
+{"id": 6766, "h": "a8df2116", "fr": "Un badge KDR vert. Il devrait me donner accès à la plateforme de Set, dans la salle de recherche informatique."}
+{"id": 12078, "h": "e306444c", "fr": "La carte 1 d'un jeu de Mermaid's Gambit."}
+{"id": 6767, "h": "2430f6a5", "fr": "Une petite grenade. À manipuler avec précaution !"}
+{"id": 6768, "h": "54a52e53", "fr": "Un badge KDR de niveau orange. Avec lui, je devrais pouvoir prendre le tram librement."}
+{"id": 6769, "h": "e5d69cc0", "fr": "Une clé de casier. Je m'avance peut-être, mais je dirais qu'elle ouvre un casier."}
+{"id": 6770, "h": "4ff37831", "fr": "Un manuel de moteur à réaction. C'est fort compliqué, tout cela !"}
+{"id": 6771, "h": "9bbf52f5", "fr": "Une corde pour remorquer du matériel lourd."}
+{"id": 12076, "h": "6f5ece00", "fr": "Une réserve secrète. Impossible de savoir ce qu'il y a dedans, mais ça pèse son poids."}
+{"id": 8836, "h": "d984881b", "fr": "Un petit anneau doré. Sans doute celui qu'Edward a mis en gage pour acheter sa fausse pilule."}
+{"id": 12077, "h": "e9affcbf", "fr": "Un pot de peinture."}
+{"id": 12079, "h": "68d57a55", "fr": "La carte 2 d'un jeu de Mermaid's Gambit."}
+{"id": 12080, "h": "a74b6d9d", "fr": "La carte 3 d'un jeu de Mermaid's Gambit."}
+{"id": 12081, "h": "a4020026", "fr": "La carte 4 d'un jeu de Mermaid's Gambit."}
+{"id": 12083, "h": "d44beeb8", "fr": "Un jeu de Mermaid's Gambit complet. Honest John est un grand amateur de ce jeu."}
+{"id": 12084, "h": "86f60087", "fr": "Un grog bien parfumé."}
+{"id": 12085, "h": "5594b40d", "fr": "Un flacon de miel en plastique. Vu l'endroit où vous l'avez trouvé, il a dû en voir de belles."}
+{"id": 12086, "h": "9b4a39eb", "fr": "Un verre d'eau froide."}
+{"id": 12087, "h": "472810a9", "fr": "Un verre d'eau chaude. Pour l'instant."}
+{"id": 12088, "h": "14fb8d72", "fr": "Une bague de fiançailles trouvée sous l'oreiller, en examinant le cadavre du shérif."}
+{"id": 12089, "h": "2073480b", "fr": "Une étoile en fer-blanc épinglée à votre revers. Elle indique que c'est vous, la shérif, dans l'coin."}
+{"id": 12092, "h": "325cf2c8", "fr": "Un appareil réglé sur la bonne fréquence pour entendre les sirènes."}
+{"id": 12093, "h": "55b6c80a", "fr": "Suivez le chant des sirènes pour ne pas vous perdre dans le désert. Activez \"Malentendants\" pour voir les notes de musique à l'écran."}
+{"id": 12094, "h": "cb48ac88", "fr": "Une échelle télescopique. Utile si l'on voulait entrer dans des trous \"pas bizarres\"."}
+{"id": 12095, "h": "8be73a9e", "fr": "Un verre vide qui ne demande qu'à être rempli d'eau."}
+{"id": 12096, "h": "5dbe561e", "fr": "Une clé de coffre trouvée dans votre chambre. Sauf qu'il n'y avait pas de coffre."}
+{"id": 12097, "h": "2960cf25", "fr": "Un mandat signé par un juge, qui autorise son porteur à enquêter sur la scène de crime du Dusty Rose."}
+{"id": 12098, "h": "fd1f3776", "fr": "Présentez-le à l'accueil pour pouvoir entrer."}
+{"id": 12099, "h": "2c285139", "fr": "Dusty Rose - Clé de la chambre 301."}
+{"id": 12101, "h": "5dd93c66", "fr": "Le mot de passe du stand de tir. \"Bébé feuilleté\"."}
+{"id": 12100, "h": "bfb9659f", "fr": "Dusty Rose - Clé de la chambre 202."}
+{"id": 12102, "h": "c70b275c", "fr": "Un caillou vaguement en forme de coeur. Ce n'était pas un coeur d'or, avant ?"}
+{"id": 12103, "h": "1b965f56", "fr": "Une paire d'yeux de robot, un bleu et un rouge. C'est pour mieux te voir."}
+{"id": 12104, "h": "a0e26a10", "fr": "Un micro. Il amplifiera votre voix. Pratique pour défier des armes biologiques en duel de chant."}
+{"id": 9646, "h": "849a18dc", "fr": "Vous insérez le mod autotune dans le micro."}
+{"id": 9647, "h": "4a83c929", "fr": "Vous pouvez désormais choisir de passer les épreuves de chant quand elles se déclenchent."}
+{"id": 12106, "h": "b52b7bb3", "fr": "Un micro modifié avec un autotune. Parce que parfois, l'important dans la vie, ce n'est pas le voyage, c'est d'écraser ses adversaires."}
+{"id": 12108, "h": "d531e66b", "fr": "Clé de l'ascenseur derrière le bar, au Sugar's."}
+{"id": 12109, "h": "4d107622", "fr": "Du gin de la marque Prism. Avec le recul, c'est une bien maigre récompense pour avoir évité une crise nucléaire."}
+{"id": 12110, "h": "ffcf8f63", "fr": "Un oeuf rose de flamant rose. Je ne crois pas qu'ils soient roses au naturel, mais je n'ai jamais rencontré de flamant mutant."}
+{"id": 12112, "h": "0a6f5665", "fr": "Une batterie de drone-baleine. Elle devrait s'insérer sans mal dans l'un d'eux, s'il fonctionne encore."}
+{"id": 12113, "h": "b1db219f", "fr": "Deux pennies. La monnaie d'une civilisation disparue depuis longtemps."}
+{"id": 12117, "h": "738d4e32", "fr": "Le contrôleur de drone-baleine. Il permet d'appeler le drone-baleine presque partout."}
+{"id": 12114, "h": "78baeb57", "fr": "Le coeur de titan. En réalité, c'est la batterie nucléaire d'un robot de classe Titan."}
+{"id": 12115, "h": "e082edc5", "fr": "La clé du Tartare. En réalité, une vieille clé de portail."}
+{"id": 12107, "h": "2c0acb34", "fr": "Le crâne du défunt shérif. La preuve qu'il me faut pour démontrer la culpabilité du Crotale."}
+{"id": 12116, "h": "1ca12b12", "fr": "Quelqu'un a sculpté une idole religieuse dédiée aux têtes de Méduse qui rôdent en haut de la tour."}
+{"id": 12118, "h": "712de481", "fr": "De la ferraille qui flotte on ne sait comment et peut être recyclée en toutes sortes d'outils."}
+{"id": 12119, "h": "bc2db668", "fr": "Des pièges à ferraille. Si je les déploie, ils récupéreront automatiquement de la ferraille pour moi."}
+{"id": 12120, "h": "97cbf9bb", "fr": "Un poisson. Il ne me semble pas qu'il ressemblait à cela quand je l'ai pêché. Mais il devrait aider à nourrir le Rat et Terrence."}
+{"id": 12122, "h": "416399a8", "fr": "Le seigneur Hadès. Le bernard-l'ermite qui appartenait à \"Poséidon\". Il fait de petites bulles adorables avec sa bouche. Il va lui falloir un aquarium."}
+{"id": 12123, "h": "e088114e", "fr": "La clé qui débloque l'accès par ascenseur au manoir de Sugar."}
+{"id": 12124, "h": "0c1b8327", "fr": "Une carte d'accès qui ouvre un portail du manoir de Sugar."}
+{"id": 12125, "h": "13375c7d", "fr": "\"L'Orbe du destin\". Un objet prétendument magique. Mais il porte la mention \"Made in Queensland\" sous le socle."}
+{"id": 12126, "h": "6841cfc2", "fr": "Une grosse goutte d'eau de mer. Impropre à la consommation."}
+{"id": 12127, "h": "957bc708", "fr": "Une bouteille d'eau potable purifiée."}
+{"id": 12128, "h": "ee8ee20f", "fr": "Vous ressentez un bref instant de chaleur et de sécurité. Vous êtes calme."}
+{"id": 12129, "h": "fb2e0816", "fr": "Chausse-trapes déployées !"}
+{"id": 12130, "h": "6770bad1", "fr": "Des chausse-trapes intelligentes. Une fois déployées, elles identifient qui les a lancées et se rétractent à son passage. Cliquez pour utiliser."}
+{"id": 12131, "h": "7f131922", "fr": "Singe déjà déployé !"}
+{"id": 14120, "h": "c609b612", "fr": "On lit en petits caractères : \"Singe est trop timide loin de la maison\"."}
+{"id": 14121, "h": "2dcc5bf9", "fr": "Singe aime. Singe respecte. Singe admire. Soyez comme Singe."}
+{"id": 15312, "h": "57f7e171", "fr": "La clé de votre propre chambre à l'hôtel de la Toile. Il ne reste plus qu'à trouver la chambre."}
+{"id": 12132, "h": "ebc058b5", "fr": "Une serviette propre."}
+{"id": 12133, "h": "6651a5ef", "fr": "Une cassette de la chanson \"Sea of Mystery\"."}
+{"id": 15039, "h": "7b8f6328", "fr": "Une cassette de la chanson \"One Note Song\"."}
+{"id": 14119, "h": "c30b3fc9", "fr": "L'un de mes fragments de mémoire. \"Série Buster 00\" est gravé sur le côté."}
+{"id": 14122, "h": "16c60a00", "fr": "Des registres montrant que tout l'excédent de richesse d'Ark était reversé à la Fondation Terre Ferme. Une gigantesque organisation caritative."}
+{"id": 14123, "h": "8c1edb62", "fr": "Une télécommande qui ne fonctionne que sur les Busters désactivées, pour contrôler leurs mouvements."}
+{"id": 14124, "h": "73acf942", "fr": "Une carte d'accès qui permet d'ouvrir la réserve secrète du Dr Hydnellum."}
+{"id": 14125, "h": "a58de743", "fr": "La carte de salle de sport de Zahara Madara, alias la Hyène. On vous a demandé de la lui jeter avec un ricanement de mépris."}
+{"id": 15038, "h": "2fa1d496", "fr": "En feuilletant le livre, vous voyez beaucoup de photos de Spinner, alias \"l'Araignée\", avec divers clients de l'hôtel. Il aimerait sans doute voir ça."}
+{"id": 15040, "h": "a27f7974", "fr": "Une cassette de la chanson \"King of Fools\"."}
+{"id": 15041, "h": "240200b0", "fr": "Une cassette de la chanson \"Ghost Waltz\"."}
+{"id": 15043, "h": "a26a2d33", "fr": "Une cassette de la chanson \"Haunted Highway\"."}
+{"id": 15042, "h": "38399148", "fr": "C'est la carte de visite de Cynthia. Elle voulait que vous la donniez à Lazarus."}
+{"id": 15044, "h": "311c36f1", "fr": "Une cassette de la chanson \"Route 64\"."}
+{"id": 15045, "h": "d2728cae", "fr": "Une cassette de la chanson \"Industrial Complex\"."}
+{"id": 15046, "h": "c2fed4f8", "fr": "Une cassette de la chanson \"Blood Money\"."}
+{"id": 15047, "h": "00dc2a39", "fr": "Une cassette de la chanson \"Marching Orders\"."}
+{"id": 15048, "h": "9380b2c4", "fr": "Une cassette de la chanson \"Western Vape\"."}
+{"id": 15049, "h": "c575ae0c", "fr": "Une cassette de la chanson \"Rat Queen\"."}
+{"id": 15050, "h": "ed2188e1", "fr": "Une cassette de la chanson \"Urban Decay\"."}
+{"id": 15051, "h": "93f0ded2", "fr": "Une cassette de la chanson \"Justice for All\"."}
+{"id": 15052, "h": "924226ce", "fr": "Une cassette de la chanson \"Twilight Breeze\"."}
+{"id": 15053, "h": "13050884", "fr": "Une cassette de la chanson \"Techno Junkie\"."}
+{"id": 15054, "h": "d6473cee", "fr": "Une cassette de la chanson \"Stack Overflow\"."}
+{"id": 15055, "h": "f6c96238", "fr": "Une cassette de la chanson \"Big Bad\"."}
+{"id": 15056, "h": "5db8f196", "fr": "Une cassette de la chanson \"Above the Law\"."}
+{"id": 15057, "h": "c1546faa", "fr": "Une cassette de la chanson \"Virus.EXE\"."}
+{"id": 15515, "h": "8fb60cb6", "fr": "Une explosion glacée qui se divise dans quatre directions."}
+{"id": 15516, "h": "6fa11d10", "fr": "Pour quand on veut faire exploser quelque chose et y mettre le feu, en prime."}
+{"id": 4762, "h": "5cb72ff0", "fr": "Le shaker mélange les ingrédients et produit une bombe au whisky coiffée de mousse."}
+{"id": 4763, "h": "68966ab6", "fr": "Vous pressez le jus de citron dans le shaker, ajoutez le blanc d'oeuf et une dose de whisky. "}
+{"id": 8838, "h": "8165cc55", "fr": "Buster 09 a reçu \"Bombe au whisky\"."}
+{"id": 4764, "h": "4edad2e1", "fr": "Le shaker mélange les ingrédients et produit un cocktail Tête de mort toxique."}
+{"id": 4765, "h": "a8389680", "fr": "Vous pressez le jus de citron vert dans le shaker, puis ajoutez les diverses baies et plantes vénéneuses."}
+{"id": 8839, "h": "dd2c5d78", "fr": "Buster 09 a reçu \"Cocktail Tête de mort\"."}
+{"id": 8840, "h": "eb21030e", "fr": "Vous pressez le jus de citron dans le shaker, puis ajoutez l'eau chaude, le whisky et le miel."}
+{"id": 8841, "h": "932ab670", "fr": "Le shaker mélange les ingrédients et s'ouvre. Il s'en échappe un mince filet de vapeur au parfum alléchant."}
+{"id": 8842, "h": "1b8e9521", "fr": "Buster 09 a reçu \"Grog\"."}
+{"id": 14126, "h": "98e1bbab", "fr": "Le nom du profil ne peut pas être vide."}
+{"id": 14127, "h": "d48c1ac0", "fr": "Nom de profil déjà utilisé."}
+{"id": 14128, "h": "6bb99aa1", "fr": "Nombre maximal de profils atteint. Supprimez un profil pour continuer."}
+{"id": 15315, "h": "4f0c9846", "fr": "Déplacer"}
+{"id": 3479, "h": "d2c0aec0", "fr": "Fermer"}
+{"id": 15316, "h": "4f70a07d", "fr": "Voiture"}
+{"id": 15317, "h": "3011b913", "fr": "Échelle"}
+{"id": 15318, "h": "0c58e39c", "fr": "Boutique"}
+{"id": 15319, "h": "7b12bae3", "fr": "Station de récupération"}
+{"id": 15320, "h": "40cfa0a5", "fr": "Établi"}
+{"id": 15321, "h": "36545082", "fr": "Le Tout-au-milieu"}
+{"id": 15322, "h": "01f563f5", "fr": "Le Tout-en-haut"}
+{"id": 15323, "h": "fb5c68f3", "fr": "Le Tout-au-fond"}
+{"id": 15324, "h": "e45b8ed6", "fr": "Cabane de l'ermite yapper"}
+{"id": 15325, "h": "6aaf0a43", "fr": "Village des Yapper Jacks"}
+{"id": 15326, "h": "4b3701d7", "fr": "Conciergerie"}
+{"id": 15327, "h": "633207ec", "fr": "Labo de robotique (avant)"}
+{"id": 15328, "h": "425bfaa2", "fr": "Boutique de Curie"}
+{"id": 15329, "h": "ef6d22d2", "fr": "QG Buster (extérieur)"}
+{"id": 15330, "h": "ee6242b8", "fr": "Bureau du Dr Hydnellum"}
+{"id": 15331, "h": "5313ff64", "fr": "La scène de crime"}
+{"id": 15332, "h": "1fd5e72b", "fr": "Snacks et Mods de Glen"}
+{"id": 15333, "h": "18d47a03", "fr": "Cabine d'enregistrement"}
+{"id": 15334, "h": "6ee1fa3d", "fr": "La loge"}
+{"id": 15335, "h": "fd3e3a00", "fr": "La serre"}
+{"id": 15336, "h": "7d093226", "fr": "Demeure de Thalassa"}
+{"id": 15337, "h": "a3ce1311", "fr": "Chutes du Léviathan"}
+{"id": 15338, "h": "ee98a4cc", "fr": "Le Titan enchaîné"}
+{"id": 15339, "h": "14130d03", "fr": "Le temple de Méduse"}
+{"id": 15340, "h": "a6561ff1", "fr": "Antre de Cerbère"}
+{"id": 15341, "h": "5f18563e", "fr": "Sugar's (extérieur)"}
+{"id": 15342, "h": "dbeb4ede", "fr": "Bureau de Sugar"}
+{"id": 15343, "h": "87b1137a", "fr": "Salle à manger"}
+{"id": 15344, "h": "1f13345c", "fr": "Les Anges éplorés"}
+{"id": 15345, "h": "bacabc79", "fr": "Chambre d'exécution"}
+{"id": 15346, "h": "736a21db", "fr": "Labo de robotique (arrière)"}
+{"id": 15347, "h": "2ebf7fe7", "fr": "Poste de contrôle"}
+{"id": 15348, "h": "420cc1a8", "fr": "Cour d'entraînement"}
+{"id": 15349, "h": "2f5bff4b", "fr": "Centre de commandement"}
+{"id": 15350, "h": "857ca641", "fr": "Aile de recherche"}
+{"id": 15351, "h": "1d0e046b", "fr": "Station de tram (haut)"}
+{"id": 15352, "h": "7dcba0d4", "fr": "Station de tram (bas)"}
+{"id": 15353, "h": "d21aa580", "fr": "Vestiaires"}
+{"id": 15354, "h": "062db852", "fr": "Le hangar"}
+{"id": 15355, "h": "1416f908", "fr": "Portail principal"}
+{"id": 15356, "h": "b8a1922d", "fr": "La cabane du gardien"}
+{"id": 15357, "h": "7bdd619e", "fr": "Le cimetière"}
+{"id": 15358, "h": "2dd6c4dd", "fr": "La salle de bal"}
+{"id": 15359, "h": "5dcc4f3f", "fr": "Le vestibule"}
+{"id": 15360, "h": "d8ae82b5", "fr": "Les chambres d'invités"}
+{"id": 15361, "h": "7d03832d", "fr": "La bibliothèque"}
+{"id": 15362, "h": "b8339956", "fr": "Réserve"}
+{"id": 15363, "h": "7f64040c", "fr": "Central"}
+{"id": 15364, "h": "d6536cea", "fr": "Hall du QG"}
+{"id": 15365, "h": "82f034a3", "fr": "Cellules"}
+{"id": 15366, "h": "c91a9322", "fr": "Cuisine des domestiques"}
+{"id": 15367, "h": "0c61a700", "fr": "Parc du château"}
+{"id": 15369, "h": "788b3ecd", "fr": "Les Terres désolées"}
+{"id": 15370, "h": "bab0bf02", "fr": "Stand de tir"}
+{"id": 15371, "h": "ac491cce", "fr": "Saloon Vapors"}
+{"id": 15372, "h": "11d51912", "fr": "La prison"}
+{"id": 15373, "h": "6cb5646d", "fr": "Le Dusty Rose"}
+{"id": 15374, "h": "491e5088", "fr": "Bureau de Vikki"}
+{"id": 15375, "h": "5464ebab", "fr": "La demeure des Moires"}
+{"id": 15472, "h": "ebf345a5", "fr": "La Tour du Tartare"}
+{"id": 15376, "h": "556cf606", "fr": "Antre de Poséidon"}
+{"id": 15378, "h": "fe292b72", "fr": "Cave à vin"}
+{"id": 15379, "h": "4186e7b2", "fr": "Bureau de Rocco"}
+{"id": 15380, "h": "251ef7a8", "fr": "Cuisine"}
+{"id": 15381, "h": "6511cfdf", "fr": "Carte du monde"}
+{"id": 15382, "h": "084f286b", "fr": "Signal perdu"}
+{"id": 15383, "h": "a987afd7", "fr": "Temps de jeu"}
+{"id": 15384, "h": "1d162263", "fr": "Hôtel de la Toile - 13e étage"}
+{"id": 15385, "h": "7e421903", "fr": "Camp de base de Roost Prime"}
+{"id": 15386, "h": "645bf573", "fr": "Tour de commandement de Roost Prime"}
+{"id": 15387, "h": "78e3a222", "fr": "Labo du Dr Hydnellum"}
+{"id": 15388, "h": "b4d4dad5", "fr": "Grottes des yappers"}
+{"id": 15389, "h": "17d6ee61", "fr": "Anciens studios Lizard Logic"}
+{"id": 15390, "h": "dd6e23af", "fr": "Hôtel de la Toile (bas)"}
+{"id": 15391, "h": "27e43587", "fr": "Hôtel de la Toile (haut)"}
+{"id": 15392, "h": "b6693161", "fr": "Choix de la zone"}
+{"id": 15393, "h": "e1e25e2f", "fr": "Bureau de Buster"}
+{"id": 15395, "h": "fb6c9cc1", "fr": "Route déserte"}
+{"id": 15396, "h": "ad9f173d", "fr": "Abords des Heartlands"}
+{"id": 15398, "h": "abe47891", "fr": "Entrepôt caché"}
+{"id": 15399, "h": "45ce155a", "fr": "L'Académie"}
+{"id": 15400, "h": "1da9da22", "fr": "Nid du Rat"}
+{"id": 15401, "h": "8a89a4f8", "fr": "La mer d'Hadès"}
+{"id": 15402, "h": "6b8e07b8", "fr": "Manoir de Sugar"}
+{"id": 15403, "h": "2d34cf8a", "fr": "Bateau à ramen"}
+{"id": 15404, "h": "0ed1c220", "fr": "Ruelle Synthdust"}
+{"id": 15405, "h": "9a6adc29", "fr": "La Casse"}
+{"id": 15407, "h": "95285845", "fr": "Les Cavernes d'or"}
+{"id": 14420, "h": "a7948470", "fr": "Château Thornheart"}
+{"id": 15411, "h": "f079be71", "fr": "Studios Lizard Logic"}
+{"id": 14416, "h": "338b571f", "fr": "QG Buster"}
+{"id": 15412, "h": "1b97f82e", "fr": "Ruelle de la Mort"}
+{"id": 15413, "h": "3ebf0a85", "fr": "Labo de robotique"}
+{"id": 15414, "h": "bd7311a5", "fr": "Kiosque de Skeen"}
+{"id": 15415, "h": "39eacb25", "fr": "Hôtel de la Toile"}
+{"id": 15416, "h": "e6522633", "fr": "Passage de Water Way"}
+{"id": 15417, "h": "0aaeada2", "fr": "Chantier"}
+{"id": 15418, "h": "4d5d0efc", "fr": "Le quartier de Coinrust"}
+{"id": 15420, "h": "363c8cb2", "fr": "Chapitre"}
+{"id": 15421, "h": "32d0efd0", "fr": "Charger cette sauvegarde ?"}
+{"id": 15422, "h": "608545a2", "fr": "Écraser la sauvegarde ?"}
+{"id": 4116, "h": "4a7b4eaf", "fr": "APPLIQUER"}
+{"id": 15424, "h": "2e46bf60", "fr": "FPS max"}
+{"id": 8845, "h": "9525a052", "fr": "BANDE-ANNONCE"}
+{"id": 8846, "h": "353a4615", "fr": "EN RESTER LÀ"}
+{"id": 8847, "h": "40156f34", "fr": "Une marée sombre monte et menace de submerger la Cité Engloutie, et vous avec. Ajoutez Neo Junk City à votre liste de souhaits sur Steam pour ne pas manquer la sortie du jeu complet !"}
+{"id": 8848, "h": "5ad2b67d", "fr": "LISTE DE SOUHAITS"}
+{"id": 12398, "h": "d37c7994", "fr": "Immunité !"}
+{"id": 8821, "h": "a4237a5e", "fr": "Signaler un bug"}
+{"id": 10022, "h": "50bd6962", "fr": "Journaux"}
+{"id": 10023, "h": "b0729eaf", "fr": "Journal de guerre"}
+{"id": 104, "h": "23ed6abc", "fr": "Objectifs"}
+{"id": 70, "h": "e39878ab", "fr": "Quitter"}
+{"id": 3475, "h": "bd06f528", "fr": "Vidéo"}
+{"id": 69, "h": "85344b23", "fr": "Charger"}
+{"id": 399, "h": "f55495e0", "fr": "Sauvegarder"}
+{"id": 66, "h": "676dd596", "fr": "Reprendre"}
+{"id": 452, "h": "51bac044", "fr": "Annuler"}
+{"id": 14102, "h": "68454e2e", "fr": "Changer"}
+{"id": 8744, "h": "d9b49353", "fr": "RÉESSAYER"}
+{"id": 8746, "h": "f3032c69", "fr": "CHARGER SAUV. AUTO"}
+{"id": 8747, "h": "dbd12539", "fr": "CHARGER SAUVEGARDE"}
+{"id": 14101, "h": "d3bcfbe0", "fr": "Cette action est irréversible et effacera toutes les sauvegardes associées."}
+{"id": 14100, "h": "2858dd52", "fr": "Supprimer le profil ?"}
+{"id": 8853, "h": "26c81afc", "fr": "CREUSER ENCORE"}
+{"id": 8854, "h": "f5af8c01", "fr": "La ville respire les secrets, mais la vérité se cache dans ses ombres."}
+{"id": 9287, "h": "33d977b6", "fr": "Bits :"}
+{"id": 9297, "h": "7a7ba26d", "fr": "Temps de charge"}
+{"id": 9377, "h": "f2409f99", "fr": "Cadence de tir"}
+{"id": 9311, "h": "8a99369b", "fr": "Dégâts chargés"}
+{"id": 9378, "h": "9853eff8", "fr": "Dégâts par tir"}
+{"id": 9288, "h": "c6da92a9", "fr": "Améliorations du blaster K-60 \"Le Juge\""}
+{"id": 9289, "h": "ecb70ff8", "fr": "-Temps de charge"}
+{"id": 9290, "h": "57ffbee6", "fr": "Acheter ?"}
+{"id": 9291, "h": "16b4a048", "fr": "Réduit le temps nécessaire pour charger votre tir."}
+{"id": 9293, "h": "51167476", "fr": "Relais quantique "}
+{"id": 15425, "h": "b99fc534", "fr": "Relais de décharge"}
+{"id": 9294, "h": "0810009f", "fr": "Bobine de surtension"}
+{"id": 9295, "h": "c41bb3d7", "fr": "Hypernoeud"}
+{"id": 9296, "h": "dac056c7", "fr": "Matrice de flux"}
+{"id": 9298, "h": "b42405c4", "fr": "Augmente votre cadence de tir."}
+{"id": 9299, "h": "14768a24", "fr": "Accélérateur Stormfire"}
+{"id": 15426, "h": "098402e3", "fr": "Chambre Blitzcore"}
+{"id": 9300, "h": "a59fb60a", "fr": "Actionneur Rapidstrike"}
+{"id": 9301, "h": "513afdeb", "fr": "Relais Hyperburst"}
+{"id": 9302, "h": "544ac62b", "fr": "Gâchette NeuroSync"}
+{"id": 9303, "h": "d256eb22", "fr": "+Cadence de tir"}
+{"id": 9304, "h": "31e7e1c7", "fr": "Cadence de tir"}
+{"id": 9305, "h": "e3aa323b", "fr": "+Dégâts chargés"}
+{"id": 9306, "h": "1e9f317b", "fr": "Augmente les dégâts des tirs chargés."}
+{"id": 9307, "h": "0b89af10", "fr": "Bobine de singularité"}
+{"id": 15427, "h": "f95f08b1", "fr": "Salve de neutrons"}
+{"id": 9308, "h": "b694514c", "fr": "Conduit Void-Edge "}
+{"id": 9309, "h": "2da53161", "fr": "Noyau disrupteur"}
+{"id": 9310, "h": "d5130f23", "fr": "Condensateur de surcharge"}
+{"id": 9312, "h": "0d86ef34", "fr": "+Dégâts par tir "}
+{"id": 9313, "h": "6356a575", "fr": "Augmente les dégâts des balles turbo."}
+{"id": 9314, "h": "91075908", "fr": "Balles à noyau de titan"}
+{"id": 15428, "h": "6e155240", "fr": "Ioniseur Void-Piercer"}
+{"id": 9315, "h": "57b3d43c", "fr": "Canon à noyau de neutrons"}
+{"id": 9316, "h": "56cd16c6", "fr": "Surmultiplicateur cinétique"}
+{"id": 9317, "h": "c03436d7", "fr": "Amplificateur Railfire"}
+{"id": 9275, "h": "8b305637", "fr": "Dégâts par tir"}
+{"id": 9318, "h": "d806ea00", "fr": "Bits insuffisants"}
+{"id": 9319, "h": "ed7ecda7", "fr": "Verrouillé"}
+{"id": 15429, "h": "e8b3ee3e", "fr": "Espace"}
+{"id": 15430, "h": "b01f4f95", "fr": "Valider"}
+{"id": 15431, "h": "3d1100cc", "fr": "Effacer"}
+{"id": 15432, "h": "4c38de80", "fr": "Nom déjà utilisé"}
+{"id": 15433, "h": "de315178", "fr": "Renommer"}
+{"id": 9331, "h": "e93bf06d", "fr": "+Trait : Robustesse"}
+{"id": 8850, "h": "629ad444", "fr": "COMPRIS !"}
+{"id": 9332, "h": "ec126fe3", "fr": "Certains ennemis ont le trait Robustesse. Seuls les tirs chargés peuvent les blesser."}
+{"id": 8858, "h": "c516eb53", "fr": "Pour nous aider à améliorer le jeu, cette démo collecte des données de télémétrie anonymes. Vous pouvez désactiver la télémétrie à tout moment dans le menu Options. "}
+{"id": 15434, "h": "1ba74399", "fr": "SPÉCIMEN INCONNU"}
+{"id": 15435, "h": "9e7e9462", "fr": "SCANNÉ"}
+{"id": 15436, "h": "c8f47181", "fr": "BONUS DE SCAN"}
+{"id": 15437, "h": "aee03fd6", "fr": "Combo plus durable : minuteur de combo +{0} s"}
+{"id": 15438, "h": "dfcfbc2f", "fr": "Couverture plus stable : à couvert, le combo baisse {0} % moins vite"}
+{"id": 15439, "h": "7a50a32a", "fr": "Multi-élimination élargie : +{0} s pour enchaîner les éliminations"}
+{"id": 15440, "h": "5cddf764", "fr": "Perte de signal atténuée : conservez {0} % du combo quand vous êtes touchée"}
+{"id": 15441, "h": "6ed49a5f", "fr": "Bonus de contre : chaque contre ajoute +{0} au combo"}
+{"id": 15442, "h": "5afbeedc", "fr": "Récupération de bits : +{0} % de bits par élimination"}
+{"id": 15443, "h": "275b8a60", "fr": "Pourboire d'acharnement : +{0} bit par élimination au tir chargé"}
+{"id": 15444, "h": "5c6228f6", "fr": "Prime de multi-élimination : +{0} % de bits par multi-élimination"}
+{"id": 15445, "h": "3391cfec", "fr": "Siphon de bouclier : +{0} énergie par tir sur un bouclier"}
+{"id": 15446, "h": "a781255b", "fr": "Étincelle fatale : {0} % de chances de gagner +1 énergie par élimination"}
+{"id": 15447, "h": "fa400566", "fr": "Réglage overdrive : recharges {0} % plus rapides à combo élevé"}
+{"id": 15448, "h": "89d71732", "fr": "Blindage épaissi : {0} % de dégâts subis en moins"}
+{"id": 15449, "h": "66ff8faa", "fr": "Sortie éclair : +{0} s d'invulnérabilité en quittant la couverture"}
+{"id": 15450, "h": "7a8466d8", "fr": "Meilleurs soins : les soins rendent +{0} PV"}
+{"id": 15451, "h": "a7929229", "fr": "Butin chanceux : +{0} % de chances d'obtenir un objet"}
+{"id": 15452, "h": "efda5663", "fr": "Flair royal : +{0} % de chances d'obtenir une Couronne"}
+{"id": 15453, "h": "29b4d5c2", "fr": "Sonar affûté : la jauge de scan tient +{0} s de plus"}
+{"id": 15454, "h": "1058773d", "fr": "Scan rapide : les scans demandent {0} impact de sonar en moins"}
+{"id": 15455, "h": "388406b6", "fr": "Nouveau !"}
+{"id": 15456, "h": "e7581828", "fr": "HORS LIGNE"}
+{"id": 15457, "h": "6aaab8b8", "fr": "ALTÉRÉ"}
+{"id": 15458, "h": "bbe63b84", "fr": "ACTIF"}
+{"id": 15459, "h": "91768787", "fr": "CRITIQUE"}
+{"id": 15460, "h": "e38d51f1", "fr": "ENDOMMAGÉ"}
+{"id": 15462, "h": "039b9bbe", "fr": "DÉFAILLANT"}
+{"id": 15463, "h": "2195ec5d", "fr": "INSTABLE"}
+{"id": 15464, "h": "6eca796c", "fr": "EN LIGNE"}
+{"id": 15465, "h": "0f43ed94", "fr": "SENSORIEL"}
+{"id": 15466, "h": "8bf8a29a", "fr": "ÉTAT"}
+{"id": 15467, "h": "39b5d60d", "fr": "SYSTÈME"}
+{"id": 101, "h": "cdfc9e98", "fr": "Ingrédients"}
+{"id": 15468, "h": "5c33b340", "fr": "Utilisez [button] pour parcourir les objets interactifs."}
+{"id": 15469, "h": "7c36be39", "fr": "Libre"}
+{"id": 15470, "h": "9656b2a0", "fr": "Aimanté"}
+{"id": 15471, "h": "79403b8e", "fr": "Curseur manette"}
+{"id": 15305, "h": "2a855fee", "fr": "Tremblement d'écran"}
+{"id": 8823, "h": "541dd960", "fr": "Clic pour se déplacer"}
+{"id": 4118, "h": "522878be", "fr": "Effets"}
+{"id": 4117, "h": "0c930d4e", "fr": "Musique"}
+{"id": 15528, "h": "424a6900", "fr": "Sans bordure"}
+{"id": 15098, "h": "70dbc153", "fr": "Enquête"}
+{"id": 15099, "h": "4fd630b7", "fr": "Game overs"}
+{"id": 15100, "h": "01c94b7b", "fr": "Données de scan"}
+{"id": 15101, "h": "a190061d", "fr": "Balles abattues"}
+{"id": 15102, "h": "a3bff909", "fr": "Musique\n"}
+{"id": 15103, "h": "60938b23", "fr": "Artiste pixel art"}
+{"id": 15104, "h": "284b47db", "fr": "Rang"}
+{"id": 15105, "h": "15346406", "fr": "Caméos de citoyens"}
+{"id": 15106, "h": "8c37751c", "fr": "Effets sonores"}
+{"id": 15107, "h": "37b69e5d", "fr": "Localisation portugaise\n"}
+{"id": 15108, "h": "0aecd8f8", "fr": "Dégâts subis"}
+{"id": 15109, "h": "56ad3dcd", "fr": "Illustration"}
+{"id": 15111, "h": "4578d3df", "fr": "États de service de Buster 09"}
+{"id": 15112, "h": "9b012b55", "fr": "Game design et narration"}
+{"id": 15113, "h": "b075bb49", "fr": "Localisation allemande\n"}
+{"id": 15114, "h": "8561d048", "fr": "Temps total"}
+{"id": 15115, "h": "330dc6dd", "fr": "Localisation espagnole"}
+{"id": 15116, "h": "32d96d5c", "fr": "Programmation"}
+{"id": 15117, "h": "081a8a29", "fr": "Merci d'avoir joué !"}
+{"id": 15118, "h": "703b85bd", "fr": "Caméos de quêtes annexes"}
+{"id": 15119, "h": "4185ab25", "fr": "Temps par chapitre"}
+{"id": 15121, "h": "a29172f2", "fr": "Bits gagnés"}
+{"id": 15122, "h": "6a3361d5", "fr": "Précision"}
+{"id": 15123, "h": "adbac32f", "fr": "Tirs effectués"}
+{"id": 15124, "h": "9d34bf4c", "fr": "Ennemis détruits"}
+{"id": 15125, "h": "cb3d4472", "fr": "Chapitre {0}"}
+{"id": 15126, "h": "cee287eb", "fr": "Créé par"}
+{"id": 15127, "h": "3639206e", "fr": "Affaire classée"}
+{"id": 15128, "h": "6827f310", "fr": "Localisation japonaise"}
+{"id": 15129, "h": "cea146e8", "fr": "Localisation chinoise"}
+{"id": 15130, "h": "8dead564", "fr": "Caméos vedettes de la quête principale"}
+{"id": 15131, "h": "89b0676a", "fr": "Badges de course"}
+{"id": 5513, "h": "971143a2", "fr": "C'est le quartier de Coinrust. J'en viens tout juste. Je devrais me rendre au QG Buster."}
+{"id": 14417, "h": "60d45803", "fr": "Base de la KDR"}
+{"id": 14419, "h": "fe0121fd", "fr": "Tanière du Kraken"}
+{"id": 14422, "h": "d2d5e875", "fr": "Quartier de Coinrust"}
