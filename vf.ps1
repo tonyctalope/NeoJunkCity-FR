@@ -154,7 +154,7 @@ function Main {
     if ($Action -eq "uninstall") {
         $todo = @(); $odd = @()
         foreach ($f in $files) {
-            $rel = $f.path.Replace("/", "\")
+            $rel = $f.path.Replace("/", [string][System.IO.Path]::DirectorySeparatorChar)
             $cur = JP $data $rel
             $b = JP $bak $rel
             $h = ""
@@ -180,7 +180,7 @@ function Main {
 
     $plan = @(); $bad = @()
     foreach ($f in $files) {
-        $rel = $f.path.Replace("/", "\")
+        $rel = $f.path.Replace("/", [string][System.IO.Path]::DirectorySeparatorChar)
         $cur = JP $data $rel
         $b = JP $bak $rel
         $h = ""

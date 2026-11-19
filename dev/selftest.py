@@ -25,14 +25,15 @@ def mutate(b, edits):
 
 
 def sha(p):
-    return hashlib.sha256(open(p, "rb").read()).hexdigest()
+    return hashlib.sha256(open(p, "rb").read()).hexdigest() if os.path.isfile(p) else None
 
 
 def run(cmd, env=None, stdin=subprocess.DEVNULL):
     e = dict(os.environ); e["NJC_NOPAUSE"] = "1"; e.update(env or {})
     r = subprocess.run(cmd, env=e, stdin=stdin, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     out = r.stdout.decode("utf-8", "replace")
-    print("   $", " ".join(os.path.basename(str(c)) for c in cmd[:6]), "->", r.returncode)
+    shown = cmd if isinstance(cmd, str) else " ".join(os.path.basename(str(c)) for c in cmd[:6])
+    print("   $", shown.encode("ascii", "replace").decode(), "->", r.returncode)
     for l in out.strip().splitlines()[-6:]: print("      |", l.encode("ascii", "replace").decode())
     return r.returncode
 
@@ -77,7 +78,8 @@ def main():
     if ps:
         tools["powershell"] = lambda pkg, act, *a: ps + ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", os.path.join(pkg, "vf.ps1"), act, *a]
     if WIN:
-        tools["bat"] = lambda pkg, act, *a: ["cmd", "/c", os.path.join(pkg, "Installer.bat" if act == "install" else "Desinstaller.bat"), *a]
+        tools["bat"] = lambda pkg, act, *a: 'cmd /s /c "' + " ".join('"%s"' % x for x in (
+            os.path.join(pkg, "Installer.bat" if act == "install" else "Desinstaller.bat"), *a)) + '"'
         if shutil.which("pwsh"):
             tools["pwsh7"] = lambda pkg, act, *a: ["pwsh", "-NoProfile", "-File", os.path.join(pkg, "vf.ps1"), act, *a]
     fails = []
@@ -125,7 +127,7 @@ def main():
         check(run(tools["powershell"](pkgs["1.0"], "install")) != 0 and state(orig), "powershell: jeu introuvable et aucune r\u00e9ponse -> abandon propre")
         # zip non extrait : le .bat seul doit s'expliquer au lieu de planter
         alone = os.path.join(work, "seul"); os.makedirs(alone); shutil.copy2(os.path.join(ROOT, "Installer.bat"), alone)
-        check(run(["cmd", "/c", os.path.join(alone, "Installer.bat")]) == 2, "bat: message clair si le zip n'est pas extrait")
+        check(run('cmd /s /c ""%s""' % os.path.join(alone, "Installer.bat")) == 2, "bat: message clair si le zip n'est pas extrait")
     print("\nR\u00c9SULTAT :", "tout est bon" if not fails else f"{len(fails)} \u00e9chec(s) : {fails}".encode("ascii", "replace").decode())
     shutil.rmtree(work, ignore_errors=True)
     return 1 if fails else 0
